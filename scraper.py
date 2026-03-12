@@ -51,15 +51,13 @@ def parse_table(driver, month, year):
         event_id = row.get_attribute("data-event-id")
 
         for element in row.find_elements(By.TAG_NAME, "td"):
-            class_name = element.get_attribute('class')
+            class_name = element.get_attribute("class")
 
             if class_name in ALLOWED_ELEMENT_TYPES:
-                class_name_key = ALLOWED_ELEMENT_TYPES.get(
-                    f"{class_name}", "cell")
+                class_name_key = ALLOWED_ELEMENT_TYPES.get(f"{class_name}", "cell")
 
                 if "calendar__impact" in class_name:
-                    impact_elements = element.find_elements(
-                        By.TAG_NAME, "span")
+                    impact_elements = element.find_elements(By.TAG_NAME, "span")
                     color = None
                     for impact in impact_elements:
                         impact_class = impact.get_attribute("class")
@@ -91,10 +89,8 @@ def get_target_month(arg_month=None):
 
 
 def main():
-    parser = argparse.ArgumentParser(
-        description="Scrape Forex Factory calendar.")
-    parser.add_argument("--months", nargs="+",
-                        help='Target months: e.g., this next')
+    parser = argparse.ArgumentParser(description="Scrape Forex Factory calendar.")
+    parser.add_argument("--months", nargs="+", help="Target months: e.g., this next")
 
     args = parser.parse_args()
     month_params = args.months if args.months else ["this"]
@@ -106,7 +102,9 @@ def main():
 
         driver = init_driver()
         driver.get(url)
-        detected_tz = driver.execute_script("return Intl.DateTimeFormat().resolvedOptions().timeZone")
+        detected_tz = driver.execute_script(
+            "return Intl.DateTimeFormat().resolvedOptions().timeZone"
+        )
         print(f"[INFO] Browser timezone: {detected_tz}")
         config.SCRAPER_TIMEZONE = detected_tz
         scroll_to_end(driver)
