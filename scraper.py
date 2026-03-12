@@ -46,15 +46,23 @@ def parse_table(driver, month, year):
     data = []
     table = driver.find_element(By.CLASS_NAME, "calendar__table")
 
+    allowed_class_keys = sorted(ALLOWED_ELEMENT_TYPES.keys(), key=len, reverse=True)
+
     for row in table.find_elements(By.TAG_NAME, "tr"):
         row_data = {}
         event_id = row.get_attribute("data-event-id")
 
         for element in row.find_elements(By.TAG_NAME, "td"):
-            class_name = element.get_attribute("class")
+            class_name = element.get_attribute("class") or ""
+            matched_class = next(
+                (key for key in allowed_class_keys if key in class_name), None
+            )
 
-            if class_name in ALLOWED_ELEMENT_TYPES:
-                class_name_key = ALLOWED_ELEMENT_TYPES.get(f"{class_name}", "cell")
+            if matched_class:
+                class_name_key = ALLOWED_ELEMENT_TYPES.get(matched_class, "cell")
+
+                if class_name_key == "forecast":
+                    print("[DEBUG] Forecast cell:", element.get_attribute("outerHTML"))
 
                 if "calendar__impact" in class_name:
                     impact_elements = element.find_elements(By.TAG_NAME, "span")
@@ -71,7 +79,17 @@ def parse_table(driver, month, year):
                 elif element.text:
                     row_data[f"{class_name_key}"] = element.text
                 else:
-                    row_data[f"{class_name_key}"] = "empty"
+                    text_content = (element.get_attribute("textContent") or "").strip()
+                    span_texts = [
+                        span.text.strip()
+                        for span in element.find_elements(By.TAG_NAME, "span")
+                        if span.text and span.text.strip()
+                    ]
+                    row_data[f"{class_name_key}"] = (
+                        text_content
+                        or " ".join(span_texts).strip()
+                        or "empty"
+                    )
 
         if row_data:
             data.append(row_data)
