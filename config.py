@@ -22,14 +22,22 @@ ICON_COLOR_MAP = {
     "icon icon--ff-impact-yel": "yellow",
     "icon icon--ff-impact-ora": "orange",
     "icon icon--ff-impact-red": "red",
-    "icon icon--ff-impact-gra": "gray"
+    "icon icon--ff-impact-gra": "gray",
 }
 
 # Allowed currency codes for filtering news events
-ALLOWED_CURRENCY_CODES = ['CAD', 'EUR', 'GBP', 'USD']
+ALLOWED_CURRENCY_CODES = ["CAD", "GBP", "USD"]
 
 # Allowed impact levels for filtering news events
-ALLOWED_IMPACT_COLORS = ['red', 'orange', 'gray']
+ALLOWED_IMPACT_COLORS = ["red", "orange", "gray"]
+
+# Calendar filter impact levels. Options: "high", "medium", "low", "non-economic".
+# If empty or None, impact filtering in the UI is skipped.
+ALLOWED_IMPACT_LEVELS = ["high", "medium", "low"]
+
+# Calendar filter event types. Values must match the UI labels (e.g., "Growth").
+# If empty or None, event type filtering in the UI is skipped.
+ALLOWED_EVENT_TYPES = []
 
 # Set this to the target timezone you'd like your output to be in.
 # If left as None, no conversion will happen.
@@ -42,4 +50,4 @@ ALLOWED_IMPACT_COLORS = ['red', 'orange', 'gray']
 #   "Asia/Karachi"        → Pakistan Standard Time
 #   "Asia/Kolkata"        → India Standard Time
 
-TARGET_TIMEZONE = "Asia/Karachi"
+TARGET_TIMEZONE = "America/Toronto"

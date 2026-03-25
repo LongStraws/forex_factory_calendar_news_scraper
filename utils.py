@@ -110,10 +110,23 @@ def filter_row(row):
 
 def save_csv(data, month, year):
     structured_rows = reformat_data(data, year)
+    if not structured_rows:
+        return False
     header = list(structured_rows[0].keys())
     df = pd.DataFrame(structured_rows, columns=header)
     os.makedirs("news", exist_ok=True)
-    df.to_csv(f"news/{month}_{year}_news.csv", index=False)
+    month_label = (month or "").strip().upper() or "UNKNOWN_MONTH"
+    for (currency, event), group in df.groupby(["currency", "event"], dropna=False):
+        safe_currency = (currency or "UNKNOWN").strip().upper() or "UNKNOWN"
+        safe_event = (event or "UNKNOWN_EVENT").strip() or "UNKNOWN_EVENT"
+        safe_event = re.sub(r"[^A-Za-z0-9]+", "_", safe_event)
+        safe_event = re.sub(r"_+", "_", safe_event).strip("_")
+        if not safe_event:
+            safe_event = "UNKNOWN_EVENT"
+        output_dir = os.path.join("news", str(year), safe_currency, safe_event)
+        os.makedirs(output_dir, exist_ok=True)
+        filename = os.path.join(output_dir, f"{safe_currency}_{safe_event}_{month_label}.csv")
+        group.to_csv(filename, index=False)
     return True
 
 

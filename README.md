@@ -4,11 +4,11 @@ This project is a Python-based web scraper designed to retrieve news events for 
 ## Project Structure
 The project consists of several Python files and a configuration file:
 
-***scraper.py***: This is the main script responsible for scraping data from the Forex Factory calendar page. It uses Selenium to interact with the website, scroll through the page to load all events, and extract relevant data.
+***scraper.py***: This is the main script responsible for scraping data from the Forex Factory calendar page. It uses Selenium to interact with the website, applies calendar filters, scrolls through the page to load all events, and extracts relevant data.
 
 ***utils.py***: This file contains utility functions for reading JSON data and processing text to extract relevant information from the scraped data.
 
-***config.py***: Here, you can configure constants related to allowed HTML element types, excluded element types, impact color mapping, allowed currency codes, and allowed impact colors. These configurations help filter and categorize the scraped data.
+***config.py***: Here, you can configure constants related to allowed HTML element types, excluded element types, impact color mapping, allowed currency codes, allowed impact colors, calendar filter impact levels, and event types. These configurations help filter and categorize the scraped data.
 
 ## How to Use
 Follow these steps to use the Forex Factory News Event Scraper:
@@ -26,7 +26,14 @@ Execute the scraper.py script to initiate the scraping process, using the comman
 
 `python3 scraper.py`
 
-It will launch a Chrome browser, navigate to the Forex Factory calendar page for the current month, and collect data. The scraped data will be reformatted and saved as a CSV file in the "news" directory with the filename in the format "MONTH_news.csv," where "MONTH" is the current month's name.
+It will launch a Chrome browser, navigate to the Forex Factory calendar page for the current month, and collect data. The scraped data will be reformatted and saved as CSV files in the "news" directory. Output is split per currency+event using the format "CURRENCY_EVENT_MONTH_YEAR.csv".
+
+## Calendar Filters (UI)
+The scraper applies the Forex Factory calendar filters before scrolling. Configure these in `config.py`:
+
+- `ALLOWED_CURRENCY_CODES`: Currency checkboxes to enable.
+- `ALLOWED_IMPACT_LEVELS`: Impact checkboxes (`high`, `medium`, `low`, `non-economic`).
+- `ALLOWED_EVENT_TYPES`: Event type labels (e.g., `Growth`, `Inflation`).
 
 
 ### Notes
