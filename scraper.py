@@ -1,7 +1,8 @@
 import time
 import argparse
-from datetime import datetime
-from config import ALLOWED_ELEMENT_TYPES, ICON_COLOR_MAP
+import calendar
+from datetime import datetime, timedelta
+from config import ACTUAL_COLOR_MAP, ALLOWED_ELEMENT_TYPES, ICON_COLOR_MAP
 from utils import save_csv
 import config
 from selenium import webdriver
@@ -241,6 +242,23 @@ def parse_table(driver, month, year):
 
                 elif element.text:
                     row_data[f"{class_name_key}"] = element.text
+                elif "calendar__actual" in class_name:
+                    color_elements = element.find_elements(By.TAG_NAME, "span")
+                    color = None
+                    for impact in color_elements:
+                        impact_class = impact.get_attribute("class")
+                        color = ACTUAL_COLOR_MAP.get(impact_class)
+                    row_data[f"{class_name_key}-Impact"] = color if color else "neutral"
+                    print("The color is: ", color)
+                    text_content = (element.get_attribute("textContent") or "").strip()
+                    span_texts = [
+                        span.text.strip()
+                        for span in element.find_elements(By.TAG_NAME, "span")
+                        if span.text and span.text.strip()
+                    ]
+                    row_data[f"{class_name_key}"] = (
+                        text_content or " ".join(span_texts).strip() or "empty"
+                    )
                 else:
                     text_content = (element.get_attribute("textContent") or "").strip()
                     span_texts = [
@@ -267,16 +285,78 @@ def get_target_month(arg_month=None):
     return month, year
 
 
+def parse_year_month(value):
+    try:
+        parsed = datetime.strptime(value, "%Y-%m")
+        return parsed.replace(day=1)
+    except ValueError as exc:
+        raise argparse.ArgumentTypeError(
+            f"Invalid date '{value}'. Use YYYY-MM (e.g., 2024-01)."
+        ) from exc
+
+
+def iter_months(start_dt, end_dt):
+    current = start_dt.replace(day=1)
+    end_dt = end_dt.replace(day=1)
+    while current <= end_dt:
+        yield current.year, current.month
+        year = current.year + (current.month // 12)
+        month = (current.month % 12) + 1
+        current = current.replace(year=year, month=month)
+
+
+def build_range_param(year, month):
+    start_day = 1
+    next_month = datetime(year, month, 1) + timedelta(days=32)
+    last_day = (next_month.replace(day=1) - timedelta(days=1)).day
+    month_abbr = calendar.month_abbr[month].lower()
+    return f"{month_abbr}{start_day}.{year}-{month_abbr}{last_day}.{year}"
+
+
 def main():
     parser = argparse.ArgumentParser(description="Scrape Forex Factory calendar.")
     parser.add_argument("--months", nargs="+", help="Target months: e.g., this next")
+    parser.add_argument(
+        "--start",
+        type=parse_year_month,
+        help="Start month in YYYY-MM format (e.g., 2024-01)",
+    )
+    parser.add_argument(
+        "--end",
+        type=parse_year_month,
+        help="End month in YYYY-MM format (defaults to current month)",
+    )
 
     args = parser.parse_args()
-    month_params = args.months if args.months else ["this"]
+    if args.start or args.end:
+        start_dt = args.start or datetime(2024, 1, 1)
+        end_dt = args.end or datetime.now().replace(day=1)
+        if start_dt > end_dt:
+            parser.error("--start must be earlier than or equal to --end")
+        month_sequence = list(iter_months(start_dt, end_dt))
+    else:
+        month_params = args.months if args.months else ["this"]
+        month_sequence = []
+        for param in month_params:
+            param = param.lower()
+            if param == "this":
+                now = datetime.now()
+                month_sequence.append((now.year, now.month))
+            elif param == "next":
+                now = datetime.now()
+                next_month = (now.month % 12) + 1
+                year = now.year if now.month < 12 else now.year + 1
+                month_sequence.append((year, next_month))
+            else:
+                try:
+                    month_number = datetime.strptime(param.capitalize(), "%B").month
+                except ValueError:
+                    parser.error(f"Unknown month '{param}'. Use full month name.")
+                month_sequence.append((datetime.now().year, month_number))
 
-    for param in month_params:
-        param = param.lower()
-        url = f"https://www.forexfactory.com/calendar?month={param}"
+    for year, month in month_sequence:
+        range_param = build_range_param(year, month)
+        url = f"https://www.forexfactory.com/calendar?range={range_param}"
         print(f"\n[INFO] Navigating to {url}")
 
         driver = init_driver()
@@ -289,25 +369,12 @@ def main():
         apply_calendar_filters(driver)
         scroll_to_end(driver)
 
-        # Determine readable month name and year
-        if param == "this":
-            now = datetime.now()
-            month = now.strftime("%B")
-            year = now.year
-        elif param == "next":
-            now = datetime.now()
-            next_month = (now.month % 12) + 1
-            year = now.year if now.month < 12 else now.year + 1
-            month = datetime(year, next_month, 1).strftime("%B")
-        else:
-            month = param.capitalize()
-            year = datetime.now().year
-
-        print(f"[INFO] Scraping data for {month} {year}")
+        month_name = datetime(year, month, 1).strftime("%B")
+        print(f"[INFO] Scraping data for {month_name} {year}")
         try:
-            parse_table(driver, month, str(year))
+            parse_table(driver, month_name, str(year))
         except Exception as e:
-            print(f"[ERROR] Failed to scrape {param} ({month} {year}): {e}")
+            print(f"[ERROR] Failed to scrape {month_name} {year}: {e}")
 
         driver.quit()  #  Kill the driver cleanly after each scrape
         time.sleep(3)

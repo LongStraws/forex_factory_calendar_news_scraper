@@ -29,6 +29,12 @@ Run the scraper (default is this month):
 python3 scraper.py
 ```
 
+Scrape a historical range (YYYY-MM):
+
+```bash
+python3 scraper.py --start 2024-01 --end 2026-04
+```
+
 Scrape specific months:
 
 ```bash

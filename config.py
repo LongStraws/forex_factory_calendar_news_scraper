@@ -25,6 +25,12 @@ ICON_COLOR_MAP = {
     "icon icon--ff-impact-gra": "gray",
 }
 
+
+ACTUAL_COLOR_MAP = {
+    "better": "green",
+    "worse": "red",
+    "": "gray",
+}
 # Allowed currency codes for filtering news events
 ALLOWED_CURRENCY_CODES = ["CAD", "GBP", "USD"]
 
@@ -50,4 +56,4 @@ ALLOWED_EVENT_TYPES = []
 #   "Asia/Karachi"        → Pakistan Standard Time
 #   "Asia/Kolkata"        → India Standard Time
 
-TARGET_TIMEZONE = "America/Toronto"
+TARGET_TIMEZONE = "Europe/London"

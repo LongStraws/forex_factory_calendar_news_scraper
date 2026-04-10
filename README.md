@@ -35,6 +35,15 @@ The scraper applies the Forex Factory calendar filters before scrolling. Configu
 - `ALLOWED_IMPACT_LEVELS`: Impact checkboxes (`high`, `medium`, `low`, `non-economic`).
 - `ALLOWED_EVENT_TYPES`: Event type labels (e.g., `Growth`, `Inflation`).
 
+## Date Range (CLI)
+You can scrape a historical range using year-month args (YYYY-MM). This uses the calendar range parameter per month.
+
+```bash
+python3 scraper.py --start 2024-01 --end 2026-04
+```
+
+If `--start` or `--end` is provided, the script ignores `--months` and iterates month-by-month from `--start` to `--end` (inclusive). The default start is `2024-01` and the default end is the current month.
+
 
 ### Notes
 This scraper is designed for educational and informational purposes. Ensure you comply with the terms of use and policies of Forex Factory when using this tool. Keep in mind that web scraping may be subject to legal and ethical considerations. 
