@@ -1,2 +1,3 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
-13:30,USD,red,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=April#detail=148229,gray,0.4%,0.4%,0.4%,09/04/2026,Thu
+time,currency,impact,event,detail,actual,forecast,previous,date,day
+13:30,USD,red,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=April#detail=148229,0.4%,0.4%,0.4%,09/04/2026,Thu
+13:30,USD,red,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=April#detail=148230,,,,30/04/2026,Thu

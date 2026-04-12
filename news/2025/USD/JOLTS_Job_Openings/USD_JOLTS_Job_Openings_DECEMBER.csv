@@ -1,0 +1,3 @@
+time,currency,impact,event,detail,actual,forecast,previous,date,day
+Sep Data,USD,orange,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=December#detail=150956,7.66M,,7.23M,09/12/2025,Tue
+15:00,USD,red,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=December#detail=143902,7.67M,7.14M,7.66M,09/12/2025,Tue

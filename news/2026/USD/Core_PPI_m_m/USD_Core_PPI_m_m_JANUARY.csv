@@ -1,0 +1,4 @@
+time,currency,impact,event,detail,actual,forecast,previous,date,day
+Oct Data,USD,orange,Core PPI m/m,https://www.forexfactory.com/calendar?month=January#detail=151101,0.3%,,0.4%,14/01/2026,Wed
+13:30,USD,red,Core PPI m/m,https://www.forexfactory.com/calendar?month=January#detail=148395,0.0%,0.2%,0.3%,14/01/2026,Wed
+13:30,USD,red,Core PPI m/m,https://www.forexfactory.com/calendar?month=January#detail=151479,0.7%,0.2%,0.0%,30/01/2026,Fri

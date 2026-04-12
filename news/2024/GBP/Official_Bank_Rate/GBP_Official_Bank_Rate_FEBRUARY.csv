@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
-12:00,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=February#detail=135707,gray,5.25%,5.25%,5.25%,01/02/2024,Thu
+time,currency,impact,event,detail,actual,forecast,previous,date,day
+12:00,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=February#detail=135707,5.25%,5.25%,5.25%,01/02/2024,Thu

@@ -1,2 +1,6 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
-13:30,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=April#detail=146992,red,219K,210K,203K,09/04/2026,Thu
+time,currency,impact,event,detail,actual,forecast,previous,date,day
+13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=April#detail=146991,202K,212K,211K,02/04/2026,Thu
+13:30,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=April#detail=146992,219K,210K,203K,09/04/2026,Thu
+13:30,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=April#detail=146993,,215K,219K,16/04/2026,Thu
+13:30,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=April#detail=146994,,,,23/04/2026,Thu
+13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=April#detail=146995,,,,30/04/2026,Thu

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
-12:00,GBP,red,BOE Monetary Policy Report,https://www.forexfactory.com/calendar?month=February#detail=135710,neutral,,,,01/02/2024,Thu
+time,currency,impact,event,detail,actual,forecast,previous,date,day
+12:00,GBP,red,BOE Monetary Policy Report,https://www.forexfactory.com/calendar?month=February#detail=135710,,,,01/02/2024,Thu

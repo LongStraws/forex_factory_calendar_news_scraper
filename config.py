@@ -35,7 +35,7 @@ ACTUAL_COLOR_MAP = {
 ALLOWED_CURRENCY_CODES = ["CAD", "GBP", "USD"]
 
 # Allowed impact levels for filtering news events
-ALLOWED_IMPACT_COLORS = ["red", "orange", "gray"]
+ALLOWED_IMPACT_COLORS = ["red", "orange", "yellow"]
 
 # Calendar filter impact levels. Options: "high", "medium", "low", "non-economic".
 # If empty or None, impact filtering in the UI is skipped.

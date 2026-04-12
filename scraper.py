@@ -10,6 +10,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
+from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
@@ -44,6 +45,12 @@ def scroll_to_end(driver):
         previous_position = current_position
 
 
+def wait_for_calendar_table(driver, timeout=20):
+    WebDriverWait(driver, timeout).until(
+        EC.presence_of_element_located((By.CLASS_NAME, "calendar__table"))
+    )
+
+
 def apply_calendar_filters(driver):
     currencies = [
         code.upper() for code in getattr(config, "ALLOWED_CURRENCY_CODES", [])
@@ -59,46 +66,80 @@ def apply_calendar_filters(driver):
         print("[INFO] No UI filters configured. Skipping calendar filter step.")
         return
 
-    trigger_used = driver.execute_script(
-        """
-        const selectors = [
-            'a.highlight.filters',
-            '[data-calendar-filter]',
-            '.calendar__filters',
-            '.calendar__filter',
-            '.calendar__icon--filters',
-            '.calendar__button--filters',
-            '.calendar__button--filter'
-        ];
-        for (const selector of selectors) {
-            const el = document.querySelector(selector);
-            if (el) {
-                el.click();
-                return selector;
+    trigger_used = None
+    try:
+        filter_button = WebDriverWait(driver, 10).until(
+            EC.element_to_be_clickable((By.CSS_SELECTOR, "a.highlight.filters"))
+        )
+        filter_button.click()
+        trigger_used = "a.highlight.filters"
+    except TimeoutException:
+        trigger_used = driver.execute_script(
+            """
+            const selectors = ['a.highlight.filters'];
+            for (const selector of selectors) {
+                const el = document.querySelector(selector);
+                if (el) {
+                    el.click();
+                    return selector;
+                }
             }
-        }
-
-        const textCandidates = Array.from(document.querySelectorAll('a,button,span')).filter(
-            (el) => /filter/i.test(el.textContent || '')
-        );
-        if (textCandidates.length) {
-            textCandidates[0].click();
-            return 'text-match';
-        }
-
-        return null;
-        """
-    )
+            return null;
+            """
+        )
 
     try:
-        WebDriverWait(driver, 15).until(
-            EC.presence_of_element_located((By.CSS_SELECTOR, ".overlay--filters"))
+        WebDriverWait(driver, 10).until(
+            lambda d: d.execute_script(
+                """
+                const overlay = document.querySelector('.overlay--filters');
+                if (!overlay) return false;
+                const style = window.getComputedStyle(overlay);
+                return style.display !== 'none' && style.visibility !== 'hidden' && style.opacity !== '0';
+                """
+            )
         )
+        print(f"[INFO] Calendar filter overlay opened via {trigger_used}.")
     except TimeoutException:
         print(
-            f"[WARN] Calendar filter overlay not found after trigger: {trigger_used}. Skipping UI filters."
+            f"[WARN] Calendar filter overlay not visible after trigger: {trigger_used}."
         )
         return
+
+    if currencies:
+        try:
+            currency_labels = driver.execute_script(
+                """
+                const overlay = document.querySelector('.overlay--filters');
+                if (!overlay) return [];
+                const labels = overlay.querySelectorAll('.flexcontrols__cell--calendarcurrency .flexcontrols__label--checkbox label');
+                return Array.from(labels).map((label) => ({
+                    text: (label.textContent || '').trim(),
+                    forId: label.getAttribute('for')
+                }));
+                """
+            )
+            print(f"[INFO] Currency labels found: {currency_labels}")
+        except Exception as exc:
+            print(f"[WARN] Failed to read currency labels: {exc}")
+
+    try:
+        storage_snapshot = driver.execute_script(
+            """
+            const entries = [];
+            for (let i = 0; i < localStorage.length; i += 1) {
+                const key = localStorage.key(i);
+                if (key && /calendar|filter/i.test(key)) {
+                    entries.push({ key, value: localStorage.getItem(key) });
+                }
+            }
+            return entries;
+            """
+        )
+        if storage_snapshot:
+            print(f"[INFO] LocalStorage filter keys: {storage_snapshot}")
+    except Exception as exc:
+        print(f"[WARN] Failed to read localStorage: {exc}")
 
     result = driver.execute_script(
         """
@@ -110,15 +151,14 @@ def apply_calendar_filters(driver):
             return { status: 'missing-overlay' };
         }
 
-        const setChecked = (input, checked) => {
+        const setCheckedByClick = (input, checked) => {
             if (!input) return;
             if (input.checked !== checked) {
-                input.checked = checked;
-                input.dispatchEvent(new Event('change', { bubbles: true }));
+                input.click();
             }
         };
 
-        const setSection = (sectionSelector, desiredLabels, labelSelector) => {
+        const setSectionByLabels = (sectionSelector, desiredLabels, labelSelector) => {
             const section = overlay.querySelector(sectionSelector);
             if (!section) return { found: false, applied: 0 };
 
@@ -132,20 +172,22 @@ def apply_calendar_filters(driver):
                 }
             });
 
-            const inputs = section.querySelectorAll('input[type="checkbox"]');
-            inputs.forEach((input) => setChecked(input, false));
-
-            let applied = 0;
+            const desiredIds = new Set();
             desiredLabels.forEach((label) => {
                 const key = String(label || '').trim().toUpperCase();
                 const inputId = labelMap.get(key);
                 if (inputId) {
-                    setChecked(document.getElementById(inputId), true);
-                    applied += 1;
-                }  
+                    desiredIds.add(inputId);
+                }
             });
 
-            return { found: true, applied };
+            const inputs = section.querySelectorAll('input[type="checkbox"]');
+            inputs.forEach((input) => {
+                const shouldBeChecked = desiredIds.has(input.id);
+                setCheckedByClick(input, shouldBeChecked);
+            });
+
+            return { found: true, applied: desiredIds.size };
         };
 
         const impactMap = {
@@ -154,38 +196,85 @@ def apply_calendar_filters(driver):
             'low': 'impact_low_1',
             'non-economic': 'impact_holiday_1'
         };
+        const impactCodeMap = {
+            'high': 3,
+            'medium': 2,
+            'low': 1,
+            'non-economic': 0
+        };
         const impactSection = overlay.querySelector('.flexcontrols__cell--impacts');
         let impactsApplied = 0;
+        const impactCodes = [];
         if (impactSection && impactLevels.length) {
+            const desiredImpactIds = impactLevels
+                .map((level) => impactMap[String(level || '').toLowerCase()])
+                .filter(Boolean);
             const impactInputs = impactSection.querySelectorAll('input[type="checkbox"]');
-            impactInputs.forEach((input) => setChecked(input, false));
+            impactInputs.forEach((input) => {
+                const shouldBeChecked = desiredImpactIds.includes(input.id);
+                setCheckedByClick(input, shouldBeChecked);
+            });
+            impactsApplied = desiredImpactIds.length;
             impactLevels.forEach((level) => {
-                const inputId = impactMap[String(level || '').toLowerCase()];
-                if (inputId) {
-                    setChecked(document.getElementById(inputId), true);
-                    impactsApplied += 1;
+                const code = impactCodeMap[String(level || '').toLowerCase()];
+                if (typeof code === 'number') {
+                    impactCodes.push(code);
                 }
             });
         }
 
+        const parseCode = (inputId, prefix) => {
+            if (!inputId || !prefix) return null;
+            const match = inputId.match(new RegExp(`^${prefix}_(\\d+)_`));
+            return match ? Number(match[1]) : null;
+        };
+
         const currenciesResult = currencies.length
-            ? setSection('.flexcontrols__cell--calendarcurrency', currencies, '.flexcontrols__label--checkbox label')
+            ? setSectionByLabels('.flexcontrols__cell--calendarcurrency', currencies, '.flexcontrols__label--checkbox label')
             : { found: true, applied: 0 };
 
         const eventResult = eventTypes.length
-            ? setSection('.flexcontrols__cell--eventtypes', eventTypes, '.flexcontrols__label--checkbox label')
+            ? setSectionByLabels('.flexcontrols__cell--eventtypes', eventTypes, '.flexcontrols__label--checkbox label')
             : { found: true, applied: 0 };
 
-        const applyButton = overlay.querySelector('.overlay__button--submit');
-        if (applyButton) {
-            applyButton.click();
+        const currencyCodes = [];
+        if (currencies.length) {
+            const currencyLabels = overlay.querySelectorAll('.flexcontrols__cell--calendarcurrency .flexcontrols__label--checkbox label');
+            currencyLabels.forEach((label) => {
+                const text = (label.textContent || '').trim().toUpperCase();
+                if (currencies.map((c) => String(c || '').trim().toUpperCase()).includes(text)) {
+                    const inputId = label.getAttribute('for');
+                    const code = parseCode(inputId, 'currency');
+                    if (typeof code === 'number') {
+                        currencyCodes.push(code);
+                    }
+                }
+            });
+        }
+
+        const eventTypeCodes = [];
+        if (eventTypes.length) {
+            const eventLabels = overlay.querySelectorAll('.flexcontrols__cell--eventtypes .flexcontrols__label--checkbox label');
+            eventLabels.forEach((label) => {
+                const text = (label.textContent || '').trim().toUpperCase();
+                if (eventTypes.map((c) => String(c || '').trim().toUpperCase()).includes(text)) {
+                    const inputId = label.getAttribute('for');
+                    const code = parseCode(inputId, 'event_type');
+                    if (typeof code === 'number') {
+                        eventTypeCodes.push(code);
+                    }
+                }
+            });
         }
 
         return {
             status: 'ok',
             impactsApplied,
+            impactCodes,
             currenciesApplied: currenciesResult.applied,
+            currencyCodes,
             eventTypesApplied: eventResult.applied,
+            eventTypeCodes,
             currenciesFound: currenciesResult.found,
             eventTypesFound: eventResult.found
         };
@@ -206,7 +295,145 @@ def apply_calendar_filters(driver):
     if event_types:
         print(f"[INFO] UI event types selected: {result.get('eventTypesApplied', 0)}")
 
-    time.sleep(2)
+    try:
+        apply_button = driver.find_element(
+            By.CSS_SELECTOR, ".overlay--filters .overlay__button--submit"
+        )
+        ActionChains(driver).move_to_element(apply_button).pause(0.2).click().perform()
+        print("[INFO] Calendar filter apply action chain clicked.")
+    except Exception as exc:
+        print(f"[WARN] Calendar filter apply action chain failed: {exc}")
+
+    try:
+        apply_button = driver.find_element(
+            By.CSS_SELECTOR, ".overlay--filters .overlay__button--submit"
+        )
+        ActionChains(driver).move_to_element(apply_button).click_and_hold().pause(0.2).release().perform()
+        print("[INFO] Calendar filter apply click-and-hold released.")
+    except Exception as exc:
+        print(f"[WARN] Calendar filter apply click-and-hold failed: {exc}")
+
+    try:
+        apply_button = driver.find_element(
+            By.CSS_SELECTOR, ".overlay--filters .overlay__button--submit"
+        )
+        apply_button.send_keys(Keys.ENTER)
+        apply_button.send_keys(Keys.SPACE)
+        print("[INFO] Calendar filter apply keypress sent.")
+    except Exception as exc:
+        print(f"[WARN] Calendar filter apply keypress failed: {exc}")
+
+    try:
+        apply_button = WebDriverWait(driver, 10).until(
+            EC.element_to_be_clickable(
+                (By.CSS_SELECTOR, ".overlay--filters .overlay__button--submit")
+            )
+        )
+        apply_button.click()
+        driver.execute_script("arguments[0].click();", apply_button)
+        print("[INFO] Calendar filter apply clicked.")
+    except TimeoutException:
+        print("[WARN] Calendar filter apply button not clickable.")
+    except Exception as exc:
+        print(f"[WARN] Calendar filter apply click failed: {exc}")
+
+    driver.execute_script(
+        """
+        const overlay = document.querySelector('.overlay--filters');
+        if (!overlay) return;
+        const applyBtn = overlay.querySelector('.overlay__button--submit');
+        if (applyBtn) {
+            const pointerInit = { bubbles: true, pointerId: 1, pointerType: 'mouse' };
+            applyBtn.dispatchEvent(new PointerEvent('pointerdown', pointerInit));
+            applyBtn.dispatchEvent(new PointerEvent('pointerup', pointerInit));
+            applyBtn.dispatchEvent(new MouseEvent('mousedown', { bubbles: true }));
+            applyBtn.dispatchEvent(new MouseEvent('mouseup', { bubbles: true }));
+            applyBtn.dispatchEvent(new MouseEvent('click', { bubbles: true }));
+            if (typeof TouchEvent !== 'undefined') {
+                const touchInit = { bubbles: true, cancelable: true };
+                applyBtn.dispatchEvent(new TouchEvent('touchstart', touchInit));
+                applyBtn.dispatchEvent(new TouchEvent('touchend', touchInit));
+            }
+        }
+        const form = overlay.querySelector('form');
+        if (form) {
+            form.dispatchEvent(new Event('submit', { bubbles: true, cancelable: true }));
+            if (typeof form.submit === 'function') {
+                form.submit();
+            }
+        }
+        """
+    )
+
+    overlay_closed = False
+    try:
+        WebDriverWait(driver, 15).until(
+            lambda d: d.execute_script(
+                """
+                const overlay = document.querySelector('.overlay--filters');
+                if (!overlay) return true;
+                const style = window.getComputedStyle(overlay);
+                return style.display === 'none' || style.visibility === 'hidden' || style.opacity === '0';
+                """
+            )
+        )
+        overlay_closed = True
+    except TimeoutException:
+        try:
+            driver.find_element(By.TAG_NAME, "body").send_keys(Keys.ESCAPE)
+        except Exception:
+            pass
+        print("[WARN] Calendar filter overlay did not close after applying.")
+        try:
+            driver.execute_script(
+                """
+                const overlay = document.querySelector('.overlay--filters');
+                if (overlay) {
+                    overlay.style.display = 'none';
+                    overlay.style.visibility = 'hidden';
+                    overlay.style.opacity = '0';
+                }
+                """
+            )
+            print("[INFO] Forced filter overlay closed.")
+        except Exception as exc:
+            print(f"[WARN] Failed to force-close overlay: {exc}")
+        try:
+            overlay_state = driver.execute_script(
+                """
+                const overlay = document.querySelector('.overlay--filters');
+                if (!overlay) return null;
+                const style = window.getComputedStyle(overlay);
+                return {
+                    className: overlay.className,
+                    display: style.display,
+                    visibility: style.visibility,
+                    opacity: style.opacity,
+                    hidden: overlay.hidden,
+                    ariaHidden: overlay.getAttribute('aria-hidden')
+                };
+                """
+            )
+            print(f"[INFO] Overlay state after apply: {overlay_state}")
+            component_state = driver.execute_script(
+                """
+                const statesRaw = window.calendarComponentStates || [];
+                const states = Array.isArray(statesRaw) ? statesRaw : Object.values(statesRaw);
+                const target = states.find((state) => state && state.settings) || states[1];
+                if (!target) return null;
+                const keys = Object.keys(target);
+                const functionKeys = keys.filter((key) => typeof target[key] === 'function');
+                return {
+                    keys,
+                    functionKeys,
+                    settings: target.settings || null
+                };
+                """
+            )
+            print(f"[INFO] Calendar component state: {component_state}")
+        except Exception as exc:
+            print(f"[WARN] Failed to read overlay state: {exc}")
+
 
 
 def parse_table(driver, month, year):
@@ -271,6 +498,7 @@ def parse_table(driver, month, year):
                     )
 
         if row_data:
+            print(row_data)
             data.append(row_data)
 
     save_csv(data, month, year)
@@ -311,6 +539,47 @@ def build_range_param(year, month):
     last_day = (next_month.replace(day=1) - timedelta(days=1)).day
     month_abbr = calendar.month_abbr[month].lower()
     return f"{month_abbr}{start_day}.{year}-{month_abbr}{last_day}.{year}"
+
+
+def build_filter_params():
+    currency_map = {
+        "AUD": 1,
+        "CAD": 2,
+        "CHF": 3,
+        "CNY": 4,
+        "EUR": 5,
+        "GBP": 6,
+        "JPY": 7,
+        "NZD": 8,
+        "USD": 9,
+    }
+    impact_map = {
+        "high": 3,
+        "medium": 2,
+        "low": 1,
+        "non-economic": 0,
+    }
+
+    currencies = [
+        code.upper() for code in getattr(config, "ALLOWED_CURRENCY_CODES", [])
+    ]
+    impact_levels = [
+        level.lower() for level in getattr(config, "ALLOWED_IMPACT_LEVELS", [])
+    ]
+
+    currency_codes = [
+        currency_map[code] for code in currencies if code in currency_map
+    ]
+    impact_codes = [
+        impact_map[level] for level in impact_levels if level in impact_map
+    ]
+
+    params = {}
+    if currency_codes:
+        params["currencies"] = ",".join(str(code) for code in currency_codes)
+    if impact_codes:
+        params["impacts"] = ",".join(str(code) for code in impact_codes)
+    return params
 
 
 def main():
@@ -361,12 +630,12 @@ def main():
 
         driver = init_driver()
         driver.get(url)
+        wait_for_calendar_table(driver)
         detected_tz = driver.execute_script(
             "return Intl.DateTimeFormat().resolvedOptions().timeZone"
         )
         print(f"[INFO] Browser timezone: {detected_tz}")
         config.SCRAPER_TIMEZONE = detected_tz
-        apply_calendar_filters(driver)
         scroll_to_end(driver)
 
         month_name = datetime(year, month, 1).strftime("%B")
