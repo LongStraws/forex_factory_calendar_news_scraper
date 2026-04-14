@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=February#detail=149801,-0.2%,-0.2%,-0.3%,19/02/2026,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=February#detail=149801,gray,-0.2%,-0.2%,-0.3%,19/02/2026,Thu

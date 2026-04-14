@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,CAD,yellow,Building Permits m/m,https://www.forexfactory.com/calendar?month=January#detail=138067,-3.9%,-1.5%,3.0%,09/01/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,yellow,Building Permits m/m,https://www.forexfactory.com/calendar?month=January#detail=138067,red,-3.9%,-1.5%,3.0%,09/01/2024,Tue

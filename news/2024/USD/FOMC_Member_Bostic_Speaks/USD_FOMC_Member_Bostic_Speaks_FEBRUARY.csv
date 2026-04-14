@@ -1,6 +1,6 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-19:00,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=February#detail=139969,,,,05/02/2024,Mon
-00:00,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=February#detail=139989,,,,15/02/2024,Thu
-13:00,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=February#detail=140009,,,,21/02/2024,Wed
-17:00,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=February#detail=140035,,,,28/02/2024,Wed
-15:50,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=February#detail=140036,,,,29/02/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+19:00,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=February#detail=139969,neutral,,,,05/02/2024,Mon
+00:00,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=February#detail=139989,neutral,,,,15/02/2024,Thu
+13:00,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=February#detail=140009,neutral,,,,21/02/2024,Wed
+17:00,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=February#detail=140035,neutral,,,,28/02/2024,Wed
+15:50,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=February#detail=140036,neutral,,,,29/02/2024,Thu

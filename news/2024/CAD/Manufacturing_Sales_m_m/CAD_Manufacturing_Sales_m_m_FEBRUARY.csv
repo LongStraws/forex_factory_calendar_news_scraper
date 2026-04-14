@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,CAD,yellow,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=February#detail=138084,-0.7%,-0.5%,1.5%,15/02/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,yellow,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=February#detail=138084,red,-0.7%,-0.5%,1.5%,15/02/2024,Thu

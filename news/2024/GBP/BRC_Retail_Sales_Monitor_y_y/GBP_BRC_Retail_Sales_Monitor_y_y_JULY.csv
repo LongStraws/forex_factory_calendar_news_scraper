@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-00:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=July#detail=135826,-0.5%,0.9%,0.4%,08/07/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+00:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=July#detail=135826,red,-0.5%,0.9%,0.4%,08/07/2024,Mon

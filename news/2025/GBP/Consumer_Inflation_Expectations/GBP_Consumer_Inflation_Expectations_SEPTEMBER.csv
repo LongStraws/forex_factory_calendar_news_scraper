@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-12/09/2025,09:30,GBP,yellow,Consumer Inflation Expectations,https://www.forexfactory.com/calendar?month=September#detail=143467,3.6%,,3.2%,Fri
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+12/09/2025,09:30,GBP,yellow,Consumer Inflation Expectations,https://www.forexfactory.com/calendar?month=September#detail=143467,gray,3.6%,,3.2%,Fri

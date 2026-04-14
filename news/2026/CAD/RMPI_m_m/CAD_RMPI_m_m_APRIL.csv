@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,CAD,yellow,RMPI m/m,https://www.forexfactory.com/calendar?month=April#detail=149274,,,,23/04/2026,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,yellow,RMPI m/m,https://www.forexfactory.com/calendar?month=April#detail=149274,neutral,,,0.6%,23/04/2026,Thu

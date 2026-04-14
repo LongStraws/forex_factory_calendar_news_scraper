@@ -1,3 +1,3 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-18:30,USD,yellow,FOMC Member Schmid Speaks,https://www.forexfactory.com/calendar?month=January#detail=145648,,,,09/01/2025,Thu
-15:00,USD,yellow,FOMC Member Schmid Speaks,https://www.forexfactory.com/calendar?month=January#detail=145671,,,,14/01/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+18:30,USD,yellow,FOMC Member Schmid Speaks,https://www.forexfactory.com/calendar?month=January#detail=145648,neutral,,,,09/01/2025,Thu
+15:00,USD,yellow,FOMC Member Schmid Speaks,https://www.forexfactory.com/calendar?month=January#detail=145671,neutral,,,,14/01/2025,Tue

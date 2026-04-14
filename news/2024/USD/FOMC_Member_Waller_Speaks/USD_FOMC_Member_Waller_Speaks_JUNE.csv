@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-08:00,USD,orange,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=June#detail=140340,,,,24/06/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+08:00,USD,orange,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=June#detail=140340,neutral,,,,24/06/2024,Mon

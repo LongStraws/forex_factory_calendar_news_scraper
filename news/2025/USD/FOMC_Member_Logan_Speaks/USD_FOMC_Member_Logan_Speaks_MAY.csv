@@ -1,3 +1,3 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-18:15,USD,yellow,FOMC Member Logan Speaks,https://www.forexfactory.com/calendar?month=May#detail=146049,,,,19/05/2025,Mon
-01:25,USD,yellow,FOMC Member Logan Speaks,https://www.forexfactory.com/calendar?month=May#detail=146091,,,,29/05/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+18:15,USD,yellow,FOMC Member Logan Speaks,https://www.forexfactory.com/calendar?month=May#detail=146049,neutral,,,,19/05/2025,Mon
+01:25,USD,yellow,FOMC Member Logan Speaks,https://www.forexfactory.com/calendar?month=May#detail=146091,neutral,,,,29/05/2025,Thu

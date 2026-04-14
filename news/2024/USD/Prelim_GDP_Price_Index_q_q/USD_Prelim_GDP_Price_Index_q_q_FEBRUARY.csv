@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,orange,Prelim GDP Price Index q/q,https://www.forexfactory.com/calendar?month=February#detail=136213,1.6%,1.5%,1.5%,28/02/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,orange,Prelim GDP Price Index q/q,https://www.forexfactory.com/calendar?month=February#detail=136213,gray,1.6%,1.5%,1.5%,28/02/2024,Wed

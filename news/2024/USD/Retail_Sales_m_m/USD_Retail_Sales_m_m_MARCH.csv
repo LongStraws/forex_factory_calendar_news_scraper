@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:30,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=March#detail=136148,0.6%,0.8%,-1.1%,14/03/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:30,USD,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=March#detail=136148,red,0.6%,0.8%,-1.1%,14/03/2024,Thu

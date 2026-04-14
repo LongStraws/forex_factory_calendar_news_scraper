@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-09:30,GBP,yellow,Housing Equity Withdrawal q/q,https://www.forexfactory.com/calendar?month=April#detail=150846,-13.8B,-9.6B,-11.2B,08/04/2026,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:30,GBP,yellow,Housing Equity Withdrawal q/q,https://www.forexfactory.com/calendar?month=April#detail=150846,red,-13.8B,-9.6B,-11.2B,08/04/2026,Wed

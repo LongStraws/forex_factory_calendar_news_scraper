@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:30,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=March#detail=140108,,,,25/03/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:30,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=March#detail=140108,neutral,,,,25/03/2024,Mon

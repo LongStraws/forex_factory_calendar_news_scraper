@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=February#detail=143518,0.4%,0.2%,0.1%,28/02/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=February#detail=143518,green,0.4%,0.2%,0.1%,28/02/2025,Fri

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
 12:00,GBP,red,Monetary Policy Summary,https://www.forexfactory.com/calendar?month=June#detail=143355,neutral,,,,19/06/2025,Thu

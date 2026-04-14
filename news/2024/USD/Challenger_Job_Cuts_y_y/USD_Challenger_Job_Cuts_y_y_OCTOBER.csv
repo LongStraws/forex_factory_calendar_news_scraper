@@ -1,3 +1,3 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=October#detail=136888,53.4%,,1.0%,03/10/2024,Thu
-11:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=October#detail=136889,50.9%,,53.4%,31/10/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=October#detail=136888,gray,53.4%,,1.0%,03/10/2024,Thu
+11:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=October#detail=136889,gray,50.9%,,53.4%,31/10/2024,Thu

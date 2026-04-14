@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=November#detail=150878,0.2%,-0.2%,0.2%,17/11/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=November#detail=150878,green,0.2%,-0.2%,0.2%,17/11/2025,Mon

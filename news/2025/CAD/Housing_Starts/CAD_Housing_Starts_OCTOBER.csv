@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-16/10/2025,13:15,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=October#detail=145089,279K,258K,245K,Thu
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+16/10/2025,13:15,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=October#detail=145089,green,279K,258K,245K,Thu

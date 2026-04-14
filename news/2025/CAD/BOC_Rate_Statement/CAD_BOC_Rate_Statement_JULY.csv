@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:45,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=July#detail=141402,,,,30/07/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:45,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=July#detail=141402,neutral,,,,30/07/2025,Wed

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-00:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=November#detail=135818,-1.4%,,0.3%,17/11/2024,Sun
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+00:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=November#detail=135818,gray,-1.4%,,0.3%,17/11/2024,Sun

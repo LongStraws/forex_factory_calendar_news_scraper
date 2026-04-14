@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,CAD,orange,Ivey PMI,https://www.forexfactory.com/calendar?month=August#detail=144939,55.8,55.2,53.3,07/08/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,CAD,orange,Ivey PMI,https://www.forexfactory.com/calendar?month=August#detail=144939,green,55.8,55.2,53.3,07/08/2025,Thu

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-16:00,USD,orange,FOMC Member Kugler Speaks,https://www.forexfactory.com/calendar?month=February#detail=139971,,,,07/02/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+16:00,USD,orange,FOMC Member Kugler Speaks,https://www.forexfactory.com/calendar?month=February#detail=139971,neutral,,,,07/02/2024,Wed

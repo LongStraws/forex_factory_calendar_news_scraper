@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=April#detail=143496,2%,8%,11%,09/04/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=April#detail=143496,red,2%,8%,11%,09/04/2025,Wed

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-08:00,GBP,yellow,MPC Member Taylor Speaks,https://www.forexfactory.com/calendar?month=January#detail=152060,,,,14/01/2026,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+08:00,GBP,yellow,MPC Member Taylor Speaks,https://www.forexfactory.com/calendar?month=January#detail=152060,neutral,,,,14/01/2026,Wed

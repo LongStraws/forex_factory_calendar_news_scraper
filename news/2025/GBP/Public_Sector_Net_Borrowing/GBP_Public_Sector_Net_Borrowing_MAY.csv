@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=May#detail=143680,20.2B,18.0B,14.1B,22/05/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=May#detail=143680,red,20.2B,18.0B,14.1B,22/05/2025,Thu

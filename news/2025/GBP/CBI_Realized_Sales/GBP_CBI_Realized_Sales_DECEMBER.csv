@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-11:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=December#detail=143430,-44,-29,-32,19/12/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+11:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=December#detail=143430,red,-44,-29,-32,19/12/2025,Fri

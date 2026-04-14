@@ -1,3 +1,3 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=April#detail=152775,-1.4%,-1.1%,-0.5%,07/04/2026,Tue
-13:30,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=April#detail=148169,,,,29/04/2026,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=April#detail=152775,red,-1.4%,-1.1%,-0.5%,07/04/2026,Tue
+13:30,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=April#detail=148169,neutral,,,,29/04/2026,Wed

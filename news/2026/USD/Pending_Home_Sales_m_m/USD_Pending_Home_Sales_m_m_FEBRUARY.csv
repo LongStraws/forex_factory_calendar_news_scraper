@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,orange,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=February#detail=149837,-0.8%,1.4%,-7.4%,19/02/2026,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,orange,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=February#detail=149837,red,-0.8%,1.4%,-7.4%,19/02/2026,Thu

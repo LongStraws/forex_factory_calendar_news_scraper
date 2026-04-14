@@ -1,4 +1,4 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:15,USD,red,ADP Weekly Employment Change,https://www.forexfactory.com/calendar?month=December#detail=150961,4.8K,,-8.0K,09/12/2025,Tue
-13:15,USD,red,ADP Weekly Employment Change,https://www.forexfactory.com/calendar?month=December#detail=150962,16.3K,,2.8K,16/12/2025,Tue
-13:15,USD,orange,ADP Weekly Employment Change,https://www.forexfactory.com/calendar?month=December#detail=150963,11.5K,,17.5K,23/12/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:15,USD,red,ADP Weekly Employment Change,https://www.forexfactory.com/calendar?month=December#detail=150961,gray,4.8K,,-8.0K,09/12/2025,Tue
+13:15,USD,red,ADP Weekly Employment Change,https://www.forexfactory.com/calendar?month=December#detail=150962,gray,16.3K,,2.8K,16/12/2025,Tue
+13:15,USD,orange,ADP Weekly Employment Change,https://www.forexfactory.com/calendar?month=December#detail=150963,gray,11.5K,,17.5K,23/12/2025,Tue

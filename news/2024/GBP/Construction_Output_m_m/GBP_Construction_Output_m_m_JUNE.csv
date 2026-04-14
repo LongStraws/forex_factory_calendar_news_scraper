@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=June#detail=138838,-1.4%,0.1%,-0.4%,12/06/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=June#detail=138838,red,-1.4%,0.1%,-0.4%,12/06/2024,Wed

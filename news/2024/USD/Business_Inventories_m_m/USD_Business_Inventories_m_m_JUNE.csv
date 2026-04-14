@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=June#detail=136896,0.3%,0.3%,-0.1%,18/06/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=June#detail=136896,gray,0.3%,0.3%,-0.1%,18/06/2024,Tue

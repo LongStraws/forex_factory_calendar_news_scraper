@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-18/09/2025,21:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=September#detail=141084,49.2B,97.2B,151.0B,Thu
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+18/09/2025,21:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=September#detail=141084,red,49.2B,97.2B,151.0B,Thu

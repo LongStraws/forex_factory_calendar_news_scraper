@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-12/09/2025,14:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=September#detail=145659,-0.1%,,-0.1%,Fri
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+12/09/2025,14:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=September#detail=145659,gray,-0.1%,,-0.1%,Fri

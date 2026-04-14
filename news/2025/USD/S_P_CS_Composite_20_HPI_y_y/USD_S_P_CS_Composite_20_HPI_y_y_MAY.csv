@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:00,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=May#detail=141544,4.1%,4.5%,4.5%,27/05/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:00,USD,yellow,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=May#detail=141544,red,4.1%,4.5%,4.5%,27/05/2025,Tue

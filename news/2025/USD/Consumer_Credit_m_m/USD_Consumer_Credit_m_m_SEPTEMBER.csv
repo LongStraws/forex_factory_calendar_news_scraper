@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-08/09/2025,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=September#detail=141682,16.0B,10.4B,9.6B,Mon
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+08/09/2025,20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=September#detail=141682,green,16.0B,10.4B,9.6B,Mon

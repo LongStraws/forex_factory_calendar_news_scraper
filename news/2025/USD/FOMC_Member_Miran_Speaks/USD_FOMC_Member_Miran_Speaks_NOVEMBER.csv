@@ -1,6 +1,6 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-20:00,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=November#detail=150002,,,,07/11/2025,Fri
-17:30,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=November#detail=150849,,,,12/11/2025,Wed
-15:00,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=November#detail=150889,,,,19/11/2025,Wed
-23:15,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=November#detail=150891,,,,20/11/2025,Thu
-13:30,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=November#detail=150978,,,,21/11/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+20:00,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=November#detail=150002,neutral,,,,07/11/2025,Fri
+17:30,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=November#detail=150849,neutral,,,,12/11/2025,Wed
+15:00,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=November#detail=150889,neutral,,,,19/11/2025,Wed
+23:15,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=November#detail=150891,neutral,,,,20/11/2025,Thu
+13:30,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=November#detail=150978,neutral,,,,21/11/2025,Fri

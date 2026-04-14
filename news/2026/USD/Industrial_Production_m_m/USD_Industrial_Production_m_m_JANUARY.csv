@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:15,USD,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=January#detail=147031,0.4%,0.1%,0.4%,16/01/2026,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:15,USD,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=January#detail=147031,green,0.4%,0.1%,0.4%,16/01/2026,Fri

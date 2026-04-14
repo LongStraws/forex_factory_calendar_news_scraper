@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,orange,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=June#detail=136603,57.0,60.0,60.9,03/06/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,orange,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=June#detail=136603,red,57.0,60.0,60.9,03/06/2024,Mon

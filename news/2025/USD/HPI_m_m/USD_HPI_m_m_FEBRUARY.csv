@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=February#detail=141553,0.4%,0.2%,0.4%,25/02/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=February#detail=141553,green,0.4%,0.2%,0.4%,25/02/2025,Tue

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,CAD,red,Median CPI y/y,https://www.forexfactory.com/calendar?month=January#detail=138072,3.6%,3.3%,3.6%,16/01/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,red,Median CPI y/y,https://www.forexfactory.com/calendar?month=January#detail=138072,green,3.6%,3.3%,3.6%,16/01/2024,Tue

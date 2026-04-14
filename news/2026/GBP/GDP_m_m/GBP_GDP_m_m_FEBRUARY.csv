@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,red,GDP m/m,https://www.forexfactory.com/calendar?month=February#detail=151516,0.1%,0.1%,0.2%,12/02/2026,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,red,GDP m/m,https://www.forexfactory.com/calendar?month=February#detail=151516,gray,0.1%,0.1%,0.2%,12/02/2026,Thu

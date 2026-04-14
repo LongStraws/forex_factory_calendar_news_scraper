@@ -1,3 +1,3 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-17:00,USD,yellow,FOMC Member Kugler Speaks,https://www.forexfactory.com/calendar?month=February#detail=145703,,,,07/02/2025,Fri
-22:00,USD,yellow,FOMC Member Kugler Speaks,https://www.forexfactory.com/calendar?month=February#detail=145793,,,,20/02/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+17:00,USD,yellow,FOMC Member Kugler Speaks,https://www.forexfactory.com/calendar?month=February#detail=145703,neutral,,,,07/02/2025,Fri
+22:00,USD,yellow,FOMC Member Kugler Speaks,https://www.forexfactory.com/calendar?month=February#detail=145793,neutral,,,,20/02/2025,Thu

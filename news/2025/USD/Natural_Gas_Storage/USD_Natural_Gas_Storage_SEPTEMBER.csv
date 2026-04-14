@@ -1,5 +1,5 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-04/09/2025,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=September#detail=142477,55B,54B,18B,Thu
-11/09/2025,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=September#detail=142484,71B,69B,55B,Thu
-18/09/2025,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=September#detail=142483,90B,80B,71B,Thu
-25/09/2025,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=September#detail=142482,75B,76B,90B,Thu
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+04/09/2025,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=September#detail=142477,gray,55B,54B,18B,Thu
+11/09/2025,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=September#detail=142484,gray,71B,69B,55B,Thu
+18/09/2025,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=September#detail=142483,red,90B,80B,71B,Thu
+25/09/2025,15:30,USD,yellow,Natural Gas Storage,https://www.forexfactory.com/calendar?month=September#detail=142482,gray,75B,76B,90B,Thu

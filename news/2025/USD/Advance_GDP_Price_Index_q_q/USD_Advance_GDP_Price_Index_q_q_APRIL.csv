@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,orange,Advance GDP Price Index q/q,https://www.forexfactory.com/calendar?month=April#detail=142546,3.7%,3.1%,2.3%,30/04/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,orange,Advance GDP Price Index q/q,https://www.forexfactory.com/calendar?month=April#detail=142546,green,3.7%,3.1%,2.3%,30/04/2025,Wed

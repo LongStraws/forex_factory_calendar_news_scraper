@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:32,CAD,yellow,Core CPI m/m,https://www.forexfactory.com/calendar?month=November#detail=145173,0.6%,,0.2%,17/11/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:32,CAD,yellow,Core CPI m/m,https://www.forexfactory.com/calendar?month=November#detail=145173,gray,0.6%,,0.2%,17/11/2025,Mon

@@ -1,6 +1,6 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=July#detail=141456,233K,240K,237K,03/07/2025,Thu
-13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=July#detail=141457,227K,236K,232K,10/07/2025,Thu
-13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=July#detail=141458,221K,233K,228K,17/07/2025,Thu
-13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=July#detail=141459,217K,227K,221K,24/07/2025,Thu
-13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=July#detail=141460,218K,222K,217K,31/07/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,orange,Unemployment Claims,https://www.forexfactory.com/calendar?month=July#detail=141456,green,233K,240K,237K,03/07/2025,Thu
+13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=July#detail=141457,green,227K,236K,232K,10/07/2025,Thu
+13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=July#detail=141458,green,221K,233K,228K,17/07/2025,Thu
+13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=July#detail=141459,green,217K,227K,221K,24/07/2025,Thu
+13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=July#detail=141460,gray,218K,222K,217K,31/07/2025,Thu

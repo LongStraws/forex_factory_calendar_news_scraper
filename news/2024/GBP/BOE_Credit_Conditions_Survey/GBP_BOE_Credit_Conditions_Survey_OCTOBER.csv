@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-09:30,GBP,yellow,BOE Credit Conditions Survey,https://www.forexfactory.com/calendar?month=October#detail=135700,,,,10/10/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:30,GBP,yellow,BOE Credit Conditions Survey,https://www.forexfactory.com/calendar?month=October#detail=135700,neutral,,,,10/10/2024,Thu

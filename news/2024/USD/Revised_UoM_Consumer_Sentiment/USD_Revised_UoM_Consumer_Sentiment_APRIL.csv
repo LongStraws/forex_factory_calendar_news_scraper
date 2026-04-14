@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,red,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=April#detail=136339,77.2,77.9,77.9,26/04/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,red,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=April#detail=136339,red,77.2,77.9,77.9,26/04/2024,Fri

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
-13:30,USD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=June#detail=142325,,-61.6B,-67.6B,-138.3B,05/06/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=June#detail=142325,green,-61.6B,-67.6B,-138.3B,05/06/2025,Thu

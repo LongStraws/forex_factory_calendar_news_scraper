@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-02/10/2025,18:25,CAD,yellow,Gov Council Member Mendes Speaks,https://www.forexfactory.com/calendar?month=October#detail=147875,,,,Thu
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+02/10/2025,18:25,CAD,yellow,Gov Council Member Mendes Speaks,https://www.forexfactory.com/calendar?month=October#detail=147875,neutral,,,,Thu

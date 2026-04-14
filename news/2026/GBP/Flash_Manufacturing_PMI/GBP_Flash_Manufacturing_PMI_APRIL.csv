@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-09:30,GBP,red,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=April#detail=147628,,,,23/04/2026,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:30,GBP,red,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=April#detail=147628,neutral,,,51.0,23/04/2026,Thu

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=March#detail=137056,49.7,,48.3,01/03/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=March#detail=137056,gray,49.7,,48.3,01/03/2024,Fri

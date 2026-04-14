@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=August#detail=143803,4.7%,4.7%,4.7%,12/08/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=August#detail=143803,gray,4.7%,4.7%,4.7%,12/08/2025,Tue

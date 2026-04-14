@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:45,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=March#detail=136433,,,,06/03/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:45,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=March#detail=136433,neutral,,,,06/03/2024,Wed

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-17:30,CAD,yellow,BOC Summary of Deliberations,https://www.forexfactory.com/calendar?month=March#detail=137047,,,,20/03/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+17:30,CAD,yellow,BOC Summary of Deliberations,https://www.forexfactory.com/calendar?month=March#detail=137047,neutral,,,,20/03/2024,Wed

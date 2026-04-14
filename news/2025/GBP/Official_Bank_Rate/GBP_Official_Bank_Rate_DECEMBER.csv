@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:00,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=December#detail=143367,3.75%,3.75%,4.00%,18/12/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:00,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=December#detail=143367,gray,3.75%,3.75%,4.00%,18/12/2025,Thu

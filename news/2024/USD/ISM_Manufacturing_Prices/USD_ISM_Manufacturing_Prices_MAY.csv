@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,orange,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=May#detail=136602,60.9,55.5,55.8,01/05/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,orange,ISM Manufacturing Prices,https://www.forexfactory.com/calendar?month=May#detail=136602,green,60.9,55.5,55.8,01/05/2024,Wed

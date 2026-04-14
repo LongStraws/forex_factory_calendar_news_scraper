@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-11:00,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=December#detail=136878,101.7,94.6,93.7,10/12/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+11:00,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=December#detail=136878,green,101.7,94.6,93.7,10/12/2024,Tue

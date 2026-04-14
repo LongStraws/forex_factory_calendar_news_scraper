@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=December#detail=138802,2.6%,2.6%,2.3%,18/12/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=December#detail=138802,gray,2.6%,2.6%,2.3%,18/12/2024,Wed

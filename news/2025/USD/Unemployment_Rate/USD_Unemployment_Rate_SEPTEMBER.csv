@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-05/09/2025,13:30,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=September#detail=142585,4.3%,4.3%,4.2%,Fri
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+05/09/2025,13:30,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=September#detail=142585,gray,4.3%,4.3%,4.2%,Fri

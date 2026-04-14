@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=August#detail=140434,,,,23/08/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=August#detail=140434,neutral,,,,23/08/2024,Fri

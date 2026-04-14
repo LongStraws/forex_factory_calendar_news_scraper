@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-25/09/2025,13:30,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=September#detail=142377,2.9%,-0.3%,-2.7%,Thu
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+25/09/2025,13:30,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=September#detail=142377,green,2.9%,-0.3%,-2.7%,Thu

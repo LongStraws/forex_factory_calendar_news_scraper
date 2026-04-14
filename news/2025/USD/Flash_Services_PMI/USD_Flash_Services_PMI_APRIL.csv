@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:45,USD,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=April#detail=143942,51.4,52.8,54.4,23/04/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:45,USD,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=April#detail=143942,red,51.4,52.8,54.4,23/04/2025,Wed

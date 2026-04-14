@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:15,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=March#detail=136280,0.1%,0.0%,-0.5%,15/03/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:15,USD,orange,Industrial Production m/m,https://www.forexfactory.com/calendar?month=March#detail=136280,green,0.1%,0.0%,-0.5%,15/03/2024,Fri

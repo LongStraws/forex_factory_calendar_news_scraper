@@ -1,4 +1,4 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-19:00,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=February#detail=145694,,,,04/02/2025,Tue
-20:30,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=February#detail=145695,,,,06/02/2025,Thu
-15:20,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=February#detail=145782,,,,18/02/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+19:00,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=February#detail=145694,neutral,,,,04/02/2025,Tue
+20:30,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=February#detail=145695,neutral,,,,06/02/2025,Thu
+15:20,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=February#detail=145782,neutral,,,,18/02/2025,Tue

@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-17/09/2025,19:00,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=September#detail=141220,,,,Wed
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+17/09/2025,19:00,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=September#detail=141220,neutral,,,,Wed

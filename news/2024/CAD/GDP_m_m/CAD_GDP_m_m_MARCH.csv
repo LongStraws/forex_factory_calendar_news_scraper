@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=March#detail=138116,0.6%,0.4%,-0.1%,28/03/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=March#detail=138116,green,0.6%,0.4%,-0.1%,28/03/2024,Thu

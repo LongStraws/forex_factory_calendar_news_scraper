@@ -1,6 +1,6 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=July#detail=138015,,,,02/07/2024,Tue
-21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=July#detail=138016,,,,09/07/2024,Tue
-21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=July#detail=138017,,,,16/07/2024,Tue
-21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=July#detail=138018,,,,23/07/2024,Tue
-21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=July#detail=138019,,,,30/07/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=July#detail=138015,neutral,,,,02/07/2024,Tue
+21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=July#detail=138016,neutral,,,,09/07/2024,Tue
+21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=July#detail=138017,neutral,,,,16/07/2024,Tue
+21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=July#detail=138018,neutral,,,,23/07/2024,Tue
+21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=July#detail=138019,neutral,,,,30/07/2024,Tue

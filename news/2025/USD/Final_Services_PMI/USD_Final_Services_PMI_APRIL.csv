@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:45,USD,orange,Final Services PMI,https://www.forexfactory.com/calendar?month=April#detail=141660,54.4,54.1,54.3,03/04/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:45,USD,orange,Final Services PMI,https://www.forexfactory.com/calendar?month=April#detail=141660,gray,54.4,54.1,54.3,03/04/2025,Thu

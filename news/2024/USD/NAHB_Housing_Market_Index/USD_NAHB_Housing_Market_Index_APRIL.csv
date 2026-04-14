@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=April#detail=138432,51,51,51,15/04/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=April#detail=138432,gray,51,51,51,15/04/2024,Mon

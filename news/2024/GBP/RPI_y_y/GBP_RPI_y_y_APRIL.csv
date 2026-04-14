@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=April#detail=138753,4.3%,4.2%,4.5%,17/04/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=April#detail=138753,green,4.3%,4.2%,4.5%,17/04/2024,Wed

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=March#detail=136881,8.8%,,-20.0%,07/03/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=March#detail=136881,gray,8.8%,,-20.0%,07/03/2024,Thu

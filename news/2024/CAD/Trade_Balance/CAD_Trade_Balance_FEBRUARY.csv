@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,CAD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=February#detail=138081,-0.3B,1.1B,1.1B,07/02/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=February#detail=138081,red,-0.3B,1.1B,1.1B,07/02/2024,Wed

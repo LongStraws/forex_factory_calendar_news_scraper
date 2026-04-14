@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-11:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=April#detail=135647,-44,-2,2,25/04/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+11:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=April#detail=135647,red,-44,-2,2,25/04/2024,Thu

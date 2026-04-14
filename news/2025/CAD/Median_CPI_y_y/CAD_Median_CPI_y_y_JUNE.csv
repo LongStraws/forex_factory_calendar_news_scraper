@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
-13:30,CAD,red,Median CPI y/y,https://www.forexfactory.com/calendar?month=June#detail=145154,,3.0%,3.0%,3.1%,24/06/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,red,Median CPI y/y,https://www.forexfactory.com/calendar?month=June#detail=145154,gray,3.0%,3.0%,3.1%,24/06/2025,Tue

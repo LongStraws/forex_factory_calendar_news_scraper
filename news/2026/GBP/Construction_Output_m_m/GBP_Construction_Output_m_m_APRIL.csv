@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=April#detail=151530,,-0.4%,0.2%,16/04/2026,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=April#detail=151530,neutral,,-0.4%,0.2%,16/04/2026,Thu

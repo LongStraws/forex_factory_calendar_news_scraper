@@ -1,7 +1,7 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-19:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=December#detail=151005,,,,02/12/2025,Tue
-19:30,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=December#detail=151006,,,,03/12/2025,Wed
-23:10,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=December#detail=151398,,,,09/12/2025,Tue
-01:15,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=December#detail=151478,,,,11/12/2025,Thu
-02:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=December#detail=151492,,,,17/12/2025,Wed
-02:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=December#detail=151688,,,,19/12/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+19:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=December#detail=151005,neutral,,,,02/12/2025,Tue
+19:30,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=December#detail=151006,neutral,,,,03/12/2025,Wed
+23:10,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=December#detail=151398,neutral,,,,09/12/2025,Tue
+01:15,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=December#detail=151478,neutral,,,,11/12/2025,Thu
+02:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=December#detail=151492,neutral,,,,17/12/2025,Wed
+02:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=December#detail=151688,neutral,,,,19/12/2025,Fri

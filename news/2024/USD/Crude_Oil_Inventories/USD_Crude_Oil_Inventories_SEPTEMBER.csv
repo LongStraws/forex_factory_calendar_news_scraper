@@ -1,5 +1,5 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-16:00,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=September#detail=137599,-6.9M,-0.6M,-0.8M,05/09/2024,Thu
-15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=September#detail=137600,0.8M,0.9M,-6.9M,11/09/2024,Wed
-15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=September#detail=137601,-1.6M,-0.2M,0.8M,18/09/2024,Wed
-15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=September#detail=137602,-4.5M,-1.3M,-1.6M,25/09/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+16:00,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=September#detail=137599,green,-6.9M,-0.6M,-0.8M,05/09/2024,Thu
+15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=September#detail=137600,gray,0.8M,0.9M,-6.9M,11/09/2024,Wed
+15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=September#detail=137601,green,-1.6M,-0.2M,0.8M,18/09/2024,Wed
+15:30,USD,orange,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=September#detail=137602,green,-4.5M,-1.3M,-1.6M,25/09/2024,Wed

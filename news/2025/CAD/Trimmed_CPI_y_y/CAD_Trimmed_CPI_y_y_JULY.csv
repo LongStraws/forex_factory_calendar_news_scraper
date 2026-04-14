@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,CAD,red,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=July#detail=145159,3.0%,3.0%,3.0%,15/07/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,red,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=July#detail=145159,gray,3.0%,3.0%,3.0%,15/07/2025,Tue

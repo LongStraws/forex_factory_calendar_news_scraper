@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,yellow,Personal Spending m/m,https://www.forexfactory.com/calendar?month=May#detail=142533,0.2%,0.2%,0.7%,30/05/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,yellow,Personal Spending m/m,https://www.forexfactory.com/calendar?month=May#detail=142533,gray,0.2%,0.2%,0.7%,30/05/2025,Fri

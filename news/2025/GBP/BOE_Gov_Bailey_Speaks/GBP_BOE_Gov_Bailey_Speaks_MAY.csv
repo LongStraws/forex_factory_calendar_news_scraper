@@ -1,5 +1,5 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:30,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=May#detail=146012,,,,08/05/2025,Thu
-09:40,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=May#detail=145997,,,,09/05/2025,Fri
-16:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=May#detail=146019,,,,13/05/2025,Tue
-16:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=May#detail=146094,,,,29/05/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:30,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=May#detail=146012,neutral,,,,08/05/2025,Thu
+09:40,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=May#detail=145997,neutral,,,,09/05/2025,Fri
+16:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=May#detail=146019,neutral,,,,13/05/2025,Tue
+16:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=May#detail=146094,neutral,,,,29/05/2025,Thu

@@ -1,4 +1,4 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-08:30,GBP,yellow,MPC Member Greene Speaks,https://www.forexfactory.com/calendar?month=November#detail=150354,,,,11/11/2025,Tue
-12:00,GBP,yellow,MPC Member Greene Speaks,https://www.forexfactory.com/calendar?month=November#detail=150360,,,,13/11/2025,Thu
-16:30,GBP,yellow,MPC Member Greene Speaks,https://www.forexfactory.com/calendar?month=November#detail=150965,,,,27/11/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+08:30,GBP,yellow,MPC Member Greene Speaks,https://www.forexfactory.com/calendar?month=November#detail=150354,neutral,,,,11/11/2025,Tue
+12:00,GBP,yellow,MPC Member Greene Speaks,https://www.forexfactory.com/calendar?month=November#detail=150360,neutral,,,,13/11/2025,Thu
+16:30,GBP,yellow,MPC Member Greene Speaks,https://www.forexfactory.com/calendar?month=November#detail=150965,neutral,,,,27/11/2025,Thu

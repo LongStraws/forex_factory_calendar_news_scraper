@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=March#detail=142579,4.1%,4.0%,4.0%,07/03/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=March#detail=142579,red,4.1%,4.0%,4.0%,07/03/2025,Fri

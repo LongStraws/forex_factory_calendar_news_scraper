@@ -1,4 +1,4 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:30,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=February#detail=139959,,,,01/02/2024,Thu
-18:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=February#detail=139984,,,,12/02/2024,Mon
-15:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=February#detail=139997,,,,14/02/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:30,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=February#detail=139959,neutral,,,,01/02/2024,Thu
+18:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=February#detail=139984,neutral,,,,12/02/2024,Mon
+15:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=February#detail=139997,neutral,,,,14/02/2024,Wed

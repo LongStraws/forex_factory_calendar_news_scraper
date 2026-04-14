@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:00,CAD,yellow,Gov Council Member Rogers Speaks,https://www.forexfactory.com/calendar?month=March#detail=140095,,,,26/03/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:00,CAD,yellow,Gov Council Member Rogers Speaks,https://www.forexfactory.com/calendar?month=March#detail=140095,neutral,,,,26/03/2024,Tue

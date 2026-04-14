@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=October#detail=138723,4.0%,4.1%,4.1%,15/10/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=October#detail=138723,green,4.0%,4.1%,4.1%,15/10/2024,Tue

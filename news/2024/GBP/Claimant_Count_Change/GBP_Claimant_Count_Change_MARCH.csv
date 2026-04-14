@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=March#detail=138704,16.8K,20.3K,3.1K,12/03/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,red,Claimant Count Change,https://www.forexfactory.com/calendar?month=March#detail=138704,green,16.8K,20.3K,3.1K,12/03/2024,Tue

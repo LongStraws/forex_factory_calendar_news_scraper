@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Current Account,https://www.forexfactory.com/calendar?month=September#detail=138880,-28.4B,-32.5B,-13.8B,30/09/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Current Account,https://www.forexfactory.com/calendar?month=September#detail=138880,green,-28.4B,-32.5B,-13.8B,30/09/2024,Mon

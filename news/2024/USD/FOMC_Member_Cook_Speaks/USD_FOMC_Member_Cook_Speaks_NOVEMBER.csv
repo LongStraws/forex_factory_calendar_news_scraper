@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-16:00,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=November#detail=143648,,,,20/11/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+16:00,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=November#detail=143648,neutral,,,,20/11/2024,Wed

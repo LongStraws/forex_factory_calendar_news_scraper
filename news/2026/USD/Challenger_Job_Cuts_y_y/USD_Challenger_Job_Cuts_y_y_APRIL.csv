@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=April#detail=146894,-78.0%,,-71.9%,02/04/2026,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=April#detail=146894,gray,-78.0%,,-71.9%,02/04/2026,Thu

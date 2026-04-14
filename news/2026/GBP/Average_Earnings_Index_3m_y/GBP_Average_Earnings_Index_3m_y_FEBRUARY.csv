@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=February#detail=151068,4.2%,4.6%,4.6%,17/02/2026,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=February#detail=151068,red,4.2%,4.6%,4.6%,17/02/2026,Tue

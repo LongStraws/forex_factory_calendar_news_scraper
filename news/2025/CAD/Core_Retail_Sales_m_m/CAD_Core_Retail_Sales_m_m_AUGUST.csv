@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,CAD,orange,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=August#detail=145051,1.9%,0.9%,-0.3%,22/08/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,orange,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=August#detail=145051,green,1.9%,0.9%,-0.3%,22/08/2025,Fri

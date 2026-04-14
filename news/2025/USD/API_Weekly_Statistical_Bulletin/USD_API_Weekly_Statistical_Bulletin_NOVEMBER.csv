@@ -1,5 +1,5 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=November#detail=144728,,,,04/11/2025,Tue
-21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=November#detail=144729,,,,12/11/2025,Wed
-21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=November#detail=144730,,,,18/11/2025,Tue
-21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=November#detail=144731,,,,25/11/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=November#detail=144728,neutral,,,,04/11/2025,Tue
+21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=November#detail=144729,neutral,,,,12/11/2025,Wed
+21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=November#detail=144730,neutral,,,,18/11/2025,Tue
+21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=November#detail=144731,neutral,,,,25/11/2025,Tue

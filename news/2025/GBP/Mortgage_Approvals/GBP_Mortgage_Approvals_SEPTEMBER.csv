@@ -1,3 +1,3 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-01/09/2025,09:30,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=September#detail=143396,65K,64K,65K,Mon
-29/09/2025,09:30,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=September#detail=143399,65K,65K,65K,Mon
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+01/09/2025,09:30,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=September#detail=143396,gray,65K,64K,65K,Mon
+29/09/2025,09:30,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=September#detail=143399,gray,65K,65K,65K,Mon

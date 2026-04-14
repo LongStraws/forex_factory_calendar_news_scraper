@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-11:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=May#detail=143438,-27,-18,-8,27/05/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+11:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=May#detail=143438,red,-27,-18,-8,27/05/2025,Tue

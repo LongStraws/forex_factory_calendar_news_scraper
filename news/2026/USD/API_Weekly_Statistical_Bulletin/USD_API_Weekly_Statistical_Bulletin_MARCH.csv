@@ -1,6 +1,6 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=March#detail=147063,,,,03/03/2026,Tue
-20:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=March#detail=147064,,,,10/03/2026,Tue
-20:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=March#detail=147065,,,,17/03/2026,Tue
-20:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=March#detail=147066,,,,24/03/2026,Tue
-21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=March#detail=147067,,,,31/03/2026,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=March#detail=147063,neutral,,,,03/03/2026,Tue
+20:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=March#detail=147064,neutral,,,,10/03/2026,Tue
+20:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=March#detail=147065,neutral,,,,17/03/2026,Tue
+20:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=March#detail=147066,neutral,,,,24/03/2026,Tue
+21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=March#detail=147067,neutral,,,,31/03/2026,Tue

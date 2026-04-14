@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-09:30,GBP,yellow,HPI y/y,https://www.forexfactory.com/calendar?month=August#detail=138779,2.7%,2.6%,2.7%,14/08/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:30,GBP,yellow,HPI y/y,https://www.forexfactory.com/calendar?month=August#detail=138779,gray,2.7%,2.6%,2.7%,14/08/2024,Wed

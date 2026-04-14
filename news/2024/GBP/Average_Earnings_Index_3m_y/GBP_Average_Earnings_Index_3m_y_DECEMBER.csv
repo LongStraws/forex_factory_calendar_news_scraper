@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=December#detail=138726,5.2%,4.6%,4.4%,17/12/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=December#detail=138726,green,5.2%,4.6%,4.4%,17/12/2024,Tue

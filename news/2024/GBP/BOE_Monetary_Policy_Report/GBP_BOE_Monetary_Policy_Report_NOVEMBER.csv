@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:00,GBP,red,BOE Monetary Policy Report,https://www.forexfactory.com/calendar?month=November#detail=135728,,,,07/11/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:00,GBP,red,BOE Monetary Policy Report,https://www.forexfactory.com/calendar?month=November#detail=135728,neutral,,,,07/11/2024,Thu

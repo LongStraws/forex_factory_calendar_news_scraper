@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-10:30,GBP,yellow,MPC Member Dhingra Speaks,https://www.forexfactory.com/calendar?month=November#detail=143661,,,,25/11/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+10:30,GBP,yellow,MPC Member Dhingra Speaks,https://www.forexfactory.com/calendar?month=November#detail=143661,neutral,,,,25/11/2024,Mon

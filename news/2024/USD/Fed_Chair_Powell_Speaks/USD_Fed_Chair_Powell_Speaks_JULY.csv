@@ -1,3 +1,3 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:30,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=July#detail=140361,,,,02/07/2024,Tue
-17:30,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=July#detail=140379,,,,15/07/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:30,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=July#detail=140361,neutral,,,,02/07/2024,Tue
+17:30,USD,red,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=July#detail=140379,neutral,,,,15/07/2024,Mon

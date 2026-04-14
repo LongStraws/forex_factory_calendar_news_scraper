@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,CAD,orange,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=February#detail=138095,0.6%,0.7%,-0.4%,22/02/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,orange,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=February#detail=138095,red,0.6%,0.7%,-0.4%,22/02/2024,Thu

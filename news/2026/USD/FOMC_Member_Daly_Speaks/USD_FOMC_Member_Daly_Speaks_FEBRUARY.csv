@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-19:30,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=February#detail=152649,,,,17/02/2026,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+19:30,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=February#detail=152649,neutral,,,,17/02/2026,Tue

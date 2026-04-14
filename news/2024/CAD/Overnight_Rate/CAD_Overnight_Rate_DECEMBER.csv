@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:45,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=December#detail=136431,3.25%,3.25%,3.75%,11/12/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:45,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=December#detail=136431,gray,3.25%,3.25%,3.75%,11/12/2024,Wed

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
-13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=June#detail=144961,,-0.1%,0.0%,0.2%,27/06/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=June#detail=144961,red,-0.1%,0.0%,0.2%,27/06/2025,Fri

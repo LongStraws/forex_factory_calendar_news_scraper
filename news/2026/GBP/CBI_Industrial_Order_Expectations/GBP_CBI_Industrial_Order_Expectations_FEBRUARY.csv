@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-11:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=February#detail=150643,-28,-28,-30,19/02/2026,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+11:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=February#detail=150643,gray,-28,-28,-30,19/02/2026,Thu

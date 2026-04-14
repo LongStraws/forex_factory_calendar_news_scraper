@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,yellow,FOMC Member Collins Speaks,https://www.forexfactory.com/calendar?month=August#detail=140446,,,,22/08/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,yellow,FOMC Member Collins Speaks,https://www.forexfactory.com/calendar?month=August#detail=140446,neutral,,,,22/08/2024,Thu

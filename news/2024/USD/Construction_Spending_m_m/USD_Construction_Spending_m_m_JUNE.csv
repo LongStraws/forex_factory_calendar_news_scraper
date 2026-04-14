@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=June#detail=136137,-0.1%,0.2%,-0.2%,03/06/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=June#detail=136137,red,-0.1%,0.2%,-0.2%,03/06/2024,Mon

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:45,USD,orange,Final Services PMI,https://www.forexfactory.com/calendar?month=June#detail=136860,54.8,54.8,54.8,05/06/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:45,USD,orange,Final Services PMI,https://www.forexfactory.com/calendar?month=June#detail=136860,gray,54.8,54.8,54.8,05/06/2024,Wed

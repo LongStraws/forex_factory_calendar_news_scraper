@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-00:01,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=April#detail=143472,-23,-21,-19,24/04/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+00:01,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=April#detail=143472,red,-23,-21,-19,24/04/2025,Thu

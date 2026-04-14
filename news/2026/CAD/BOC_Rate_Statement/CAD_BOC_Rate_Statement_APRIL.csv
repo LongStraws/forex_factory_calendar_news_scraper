@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:45,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=April#detail=146541,,,,29/04/2026,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:45,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=April#detail=146541,neutral,,,,29/04/2026,Wed

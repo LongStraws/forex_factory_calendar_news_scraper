@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:25,USD,yellow,Mortgage Delinquencies,https://www.forexfactory.com/calendar?month=November#detail=141689,3.99%,,3.93%,14/11/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:25,USD,yellow,Mortgage Delinquencies,https://www.forexfactory.com/calendar?month=November#detail=141689,gray,3.99%,,3.93%,14/11/2025,Fri

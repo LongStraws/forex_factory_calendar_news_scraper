@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-01:00,USD,orange,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=December#detail=150991,,,,01/12/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+01:00,USD,orange,Fed Chair Powell Speaks,https://www.forexfactory.com/calendar?month=December#detail=150991,neutral,,,,01/12/2025,Mon

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=February#detail=138700,3.8%,4.0%,4.2%,13/02/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=February#detail=138700,green,3.8%,4.0%,4.2%,13/02/2024,Tue

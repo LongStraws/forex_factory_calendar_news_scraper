@@ -1,4 +1,4 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-19:30,USD,orange,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=February#detail=145698,,,,06/02/2025,Thu
-22:05,USD,orange,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=February#detail=145728,,,,12/02/2025,Wed
-23:00,USD,orange,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=February#detail=145790,,,,17/02/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+19:30,USD,orange,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=February#detail=145698,neutral,,,,06/02/2025,Thu
+22:05,USD,orange,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=February#detail=145728,neutral,,,,12/02/2025,Wed
+23:00,USD,orange,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=February#detail=145790,neutral,,,,17/02/2025,Mon

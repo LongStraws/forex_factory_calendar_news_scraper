@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=January#detail=136309,78.8,69.8,69.7,19/01/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=January#detail=136309,green,78.8,69.8,69.7,19/01/2024,Fri

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=September#detail=138904,13.7B,12.1B,3.1B,20/09/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=September#detail=138904,red,13.7B,12.1B,3.1B,20/09/2024,Fri

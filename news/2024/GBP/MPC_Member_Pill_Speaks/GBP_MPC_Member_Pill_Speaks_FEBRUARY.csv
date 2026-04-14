@@ -1,5 +1,5 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:15,GBP,yellow,MPC Member Pill Speaks,https://www.forexfactory.com/calendar?month=February#detail=139950,,,,02/02/2024,Fri
-17:30,GBP,yellow,MPC Member Pill Speaks,https://www.forexfactory.com/calendar?month=February#detail=139982,,,,05/02/2024,Mon
-19:40,GBP,yellow,MPC Member Pill Speaks,https://www.forexfactory.com/calendar?month=February#detail=139998,,,,16/02/2024,Fri
-11:00,GBP,yellow,MPC Member Pill Speaks,https://www.forexfactory.com/calendar?month=February#detail=140032,,,,26/02/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:15,GBP,yellow,MPC Member Pill Speaks,https://www.forexfactory.com/calendar?month=February#detail=139950,neutral,,,,02/02/2024,Fri
+17:30,GBP,yellow,MPC Member Pill Speaks,https://www.forexfactory.com/calendar?month=February#detail=139982,neutral,,,,05/02/2024,Mon
+19:40,GBP,yellow,MPC Member Pill Speaks,https://www.forexfactory.com/calendar?month=February#detail=139998,neutral,,,,16/02/2024,Fri
+11:00,GBP,yellow,MPC Member Pill Speaks,https://www.forexfactory.com/calendar?month=February#detail=140032,neutral,,,,26/02/2024,Mon

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=May#detail=137305,102.0,96.0,97.5,28/05/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,red,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=May#detail=137305,green,102.0,96.0,97.5,28/05/2024,Tue

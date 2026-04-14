@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-26/09/2025,13:30,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=September#detail=142525,0.4%,0.3%,0.4%,Fri
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+26/09/2025,13:30,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=September#detail=142525,green,0.4%,0.3%,0.4%,Fri

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
-15:04,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=June#detail=145204,,49.2,49.1,47.9,03/06/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:04,USD,yellow,RCM/TIPP Economic Optimism,https://www.forexfactory.com/calendar?month=June#detail=145204,gray,49.2,49.1,47.9,03/06/2025,Tue

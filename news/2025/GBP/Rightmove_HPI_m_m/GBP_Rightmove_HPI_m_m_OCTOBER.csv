@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-19/10/2025,00:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=October#detail=143514,0.3%,,0.4%,Sun
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+19/10/2025,00:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=October#detail=143514,gray,0.3%,,0.4%,Sun

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:45,USD,red,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=July#detail=138661,49.5,51.7,51.6,24/07/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:45,USD,red,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=July#detail=138661,red,49.5,51.7,51.6,24/07/2024,Wed

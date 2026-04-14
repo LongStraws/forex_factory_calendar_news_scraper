@@ -1,8 +1,8 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-19:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=January#detail=152032,,,,06/01/2026,Tue
-19:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=January#detail=152073,,,,13/01/2026,Tue
-18:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=January#detail=152092,,,,20/01/2026,Tue
-13:30,USD,red,President Trump Speaks,https://www.forexfactory.com/calendar?month=January#detail=152076,,,,21/01/2026,Wed
-18:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=January#detail=152095,,,,21/01/2026,Wed
-21:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=January#detail=152093,,,,27/01/2026,Tue
-21:30,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=January#detail=152577,,,,29/01/2026,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+19:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=January#detail=152032,neutral,,,,06/01/2026,Tue
+19:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=January#detail=152073,neutral,,,,13/01/2026,Tue
+18:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=January#detail=152092,neutral,,,,20/01/2026,Tue
+13:30,USD,red,President Trump Speaks,https://www.forexfactory.com/calendar?month=January#detail=152076,neutral,,,,21/01/2026,Wed
+18:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=January#detail=152095,neutral,,,,21/01/2026,Wed
+21:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=January#detail=152093,neutral,,,,27/01/2026,Tue
+21:30,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=January#detail=152577,neutral,,,,29/01/2026,Thu

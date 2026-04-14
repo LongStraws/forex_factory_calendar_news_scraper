@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-23/09/2025,14:45,USD,red,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=September#detail=143935,52.0,52.2,53.0,Tue
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+23/09/2025,14:45,USD,red,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=September#detail=143935,gray,52.0,52.2,53.0,Tue

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,orange,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=July#detail=142387,0.2%,0.1%,0.6%,25/07/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,orange,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=July#detail=142387,gray,0.2%,0.1%,0.6%,25/07/2025,Fri

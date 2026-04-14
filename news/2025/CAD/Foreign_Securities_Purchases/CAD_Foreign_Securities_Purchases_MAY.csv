@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,CAD,yellow,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=May#detail=145060,-4.23B,5.20B,-10.45B,16/05/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,yellow,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=May#detail=145060,red,-4.23B,5.20B,-10.45B,16/05/2025,Fri

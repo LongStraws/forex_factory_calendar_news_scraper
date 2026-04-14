@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-09:00,GBP,yellow,MPC Member Lombardelli Speaks,https://www.forexfactory.com/calendar?month=November#detail=143660,,,,25/11/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:00,GBP,yellow,MPC Member Lombardelli Speaks,https://www.forexfactory.com/calendar?month=November#detail=143660,neutral,,,,25/11/2024,Mon

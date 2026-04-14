@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-11:35,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=November#detail=149985,,,,04/11/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+11:35,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=November#detail=149985,neutral,,,,04/11/2025,Tue

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=December#detail=141656,52.2,51.9,51.9,01/12/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:45,USD,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=December#detail=141656,gray,52.2,51.9,51.9,01/12/2025,Mon

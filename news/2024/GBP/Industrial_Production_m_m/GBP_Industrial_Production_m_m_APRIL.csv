@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=April#detail=138825,1.1%,0.0%,-0.3%,12/04/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=April#detail=138825,green,1.1%,0.0%,-0.3%,12/04/2024,Fri

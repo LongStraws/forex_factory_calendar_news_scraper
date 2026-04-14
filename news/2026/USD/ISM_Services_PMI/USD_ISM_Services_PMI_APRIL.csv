@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=April#detail=146602,54.0,54.8,56.1,06/04/2026,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=April#detail=146602,red,54.0,54.8,56.1,06/04/2026,Mon

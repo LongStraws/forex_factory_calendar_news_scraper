@@ -1,4 +1,4 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-19/09/2025,19:30,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=September#detail=147778,,,,Fri
-24/09/2025,21:10,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=September#detail=147821,,,,Wed
-25/09/2025,20:30,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=September#detail=147826,,,,Thu
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+19/09/2025,19:30,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=September#detail=147778,neutral,,,,Fri
+24/09/2025,21:10,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=September#detail=147821,neutral,,,,Wed
+25/09/2025,20:30,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=September#detail=147826,neutral,,,,Thu

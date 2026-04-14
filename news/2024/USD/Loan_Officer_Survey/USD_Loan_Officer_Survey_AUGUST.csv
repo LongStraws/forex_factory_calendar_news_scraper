@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-19:00,USD,yellow,Loan Officer Survey,https://www.forexfactory.com/calendar?month=August#detail=137032,,,,05/08/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+19:00,USD,yellow,Loan Officer Survey,https://www.forexfactory.com/calendar?month=August#detail=137032,neutral,,,,05/08/2024,Mon

@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-18/09/2025,13:30,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=September#detail=141203,23.2,1.7,-0.3,Thu
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+18/09/2025,13:30,USD,orange,Philly Fed Manufacturing Index,https://www.forexfactory.com/calendar?month=September#detail=141203,green,23.2,1.7,-0.3,Thu

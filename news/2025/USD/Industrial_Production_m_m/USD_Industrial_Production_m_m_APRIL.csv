@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:15,USD,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=April#detail=142670,-0.3%,-0.2%,0.8%,16/04/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:15,USD,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=April#detail=142670,red,-0.3%,-0.2%,0.8%,16/04/2025,Wed

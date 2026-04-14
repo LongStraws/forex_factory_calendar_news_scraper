@@ -1,5 +1,5 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-16:00,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=November#detail=149998,,,,06/11/2025,Thu
-03:25,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=November#detail=150616,,,,11/11/2025,Tue
-15:30,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=November#detail=150875,,,,18/11/2025,Tue
-13:30,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=November#detail=150877,,,,21/11/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+16:00,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=November#detail=149998,neutral,,,,06/11/2025,Thu
+03:25,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=November#detail=150616,neutral,,,,11/11/2025,Tue
+15:30,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=November#detail=150875,neutral,,,,18/11/2025,Tue
+13:30,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=November#detail=150877,neutral,,,,21/11/2025,Fri

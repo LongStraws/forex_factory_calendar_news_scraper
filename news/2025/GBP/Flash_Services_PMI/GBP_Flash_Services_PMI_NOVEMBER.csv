@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-09:30,GBP,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=November#detail=142220,50.5,51.9,52.3,21/11/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:30,GBP,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=November#detail=142220,red,50.5,51.9,52.3,21/11/2025,Fri

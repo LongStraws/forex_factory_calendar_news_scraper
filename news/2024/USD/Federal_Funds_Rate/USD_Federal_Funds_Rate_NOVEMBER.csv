@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-19:00,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=November#detail=136114,4.75%,4.75%,5.00%,07/11/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+19:00,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=November#detail=136114,gray,4.75%,4.75%,5.00%,07/11/2024,Thu

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,CAD,orange,Common CPI y/y,https://www.forexfactory.com/calendar?month=November#detail=138254,2.2%,2.1%,2.1%,19/11/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,orange,Common CPI y/y,https://www.forexfactory.com/calendar?month=November#detail=138254,green,2.2%,2.1%,2.1%,19/11/2024,Tue

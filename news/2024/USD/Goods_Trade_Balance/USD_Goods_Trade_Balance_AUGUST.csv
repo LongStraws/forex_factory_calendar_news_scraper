@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=August#detail=136934,-102.7B,-97.7B,-96.6B,29/08/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=August#detail=136934,red,-102.7B,-97.7B,-96.6B,29/08/2024,Thu

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=December#detail=138440,46,47,46,17/12/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=December#detail=138440,red,46,47,46,17/12/2024,Tue

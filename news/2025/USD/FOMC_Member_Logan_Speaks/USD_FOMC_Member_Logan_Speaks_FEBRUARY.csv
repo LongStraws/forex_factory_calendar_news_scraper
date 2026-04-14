@@ -1,4 +1,4 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-22:10,USD,yellow,FOMC Member Logan Speaks,https://www.forexfactory.com/calendar?month=February#detail=145708,,,,06/02/2025,Thu
-20:00,USD,yellow,FOMC Member Logan Speaks,https://www.forexfactory.com/calendar?month=February#detail=145729,,,,14/02/2025,Fri
-09:15,USD,yellow,FOMC Member Logan Speaks,https://www.forexfactory.com/calendar?month=February#detail=145806,,,,25/02/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+22:10,USD,yellow,FOMC Member Logan Speaks,https://www.forexfactory.com/calendar?month=February#detail=145708,neutral,,,,06/02/2025,Thu
+20:00,USD,yellow,FOMC Member Logan Speaks,https://www.forexfactory.com/calendar?month=February#detail=145729,neutral,,,,14/02/2025,Fri
+09:15,USD,yellow,FOMC Member Logan Speaks,https://www.forexfactory.com/calendar?month=February#detail=145806,neutral,,,,25/02/2025,Tue

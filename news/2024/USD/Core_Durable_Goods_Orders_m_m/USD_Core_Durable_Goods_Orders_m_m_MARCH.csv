@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:30,USD,orange,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=March#detail=136360,0.5%,0.4%,-0.4%,26/03/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:30,USD,orange,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=March#detail=136360,gray,0.5%,0.4%,-0.4%,26/03/2024,Tue

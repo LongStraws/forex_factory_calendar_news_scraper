@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=August#detail=135995,114K,176K,179K,02/08/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=August#detail=135995,red,114K,176K,179K,02/08/2024,Fri

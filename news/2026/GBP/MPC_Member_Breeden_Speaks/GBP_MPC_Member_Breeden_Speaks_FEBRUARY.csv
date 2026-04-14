@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-11:45,GBP,yellow,MPC Member Breeden Speaks,https://www.forexfactory.com/calendar?month=February#detail=152579,,,,02/02/2026,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+11:45,GBP,yellow,MPC Member Breeden Speaks,https://www.forexfactory.com/calendar?month=February#detail=152579,neutral,,,,02/02/2026,Mon

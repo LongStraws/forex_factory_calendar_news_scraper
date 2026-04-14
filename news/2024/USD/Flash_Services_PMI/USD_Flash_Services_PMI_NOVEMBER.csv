@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:45,USD,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=November#detail=138668,57.0,55.2,55.0,22/11/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:45,USD,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=November#detail=138668,green,57.0,55.2,55.0,22/11/2024,Fri

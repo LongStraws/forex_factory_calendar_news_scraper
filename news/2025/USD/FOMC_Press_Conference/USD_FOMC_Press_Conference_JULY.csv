@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-19:30,USD,red,FOMC Press Conference,https://www.forexfactory.com/calendar?month=July#detail=141227,,,,30/07/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+19:30,USD,red,FOMC Press Conference,https://www.forexfactory.com/calendar?month=July#detail=141227,neutral,,,,30/07/2025,Wed

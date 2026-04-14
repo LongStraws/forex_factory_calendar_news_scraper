@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,orange,New Home Sales,https://www.forexfactory.com/calendar?month=May#detail=136693,634K,677K,665K,23/05/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,orange,New Home Sales,https://www.forexfactory.com/calendar?month=May#detail=136693,red,634K,677K,665K,23/05/2024,Thu

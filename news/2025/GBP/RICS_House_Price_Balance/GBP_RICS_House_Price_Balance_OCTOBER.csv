@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-08/10/2025,00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=October#detail=143502,-15%,-18%,-18%,Wed
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+08/10/2025,00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=October#detail=143502,green,-15%,-18%,-18%,Wed

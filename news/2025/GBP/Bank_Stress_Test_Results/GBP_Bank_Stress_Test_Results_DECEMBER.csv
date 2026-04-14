@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-10:30,GBP,yellow,Bank Stress Test Results,https://www.forexfactory.com/calendar?month=December#detail=152010,,,,09/12/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+10:30,GBP,yellow,Bank Stress Test Results,https://www.forexfactory.com/calendar?month=December#detail=152010,neutral,,,,09/12/2025,Tue

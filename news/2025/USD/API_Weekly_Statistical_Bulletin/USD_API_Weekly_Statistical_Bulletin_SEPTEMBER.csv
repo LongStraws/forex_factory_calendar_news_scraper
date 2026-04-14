@@ -1,6 +1,6 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-03/09/2025,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=September#detail=144719,,,,Wed
-09/09/2025,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=September#detail=144720,,,,Tue
-16/09/2025,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=September#detail=144721,,,,Tue
-23/09/2025,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=September#detail=144722,,,,Tue
-30/09/2025,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=September#detail=144723,,,,Tue
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+03/09/2025,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=September#detail=144719,neutral,,,,Wed
+09/09/2025,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=September#detail=144720,neutral,,,,Tue
+16/09/2025,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=September#detail=144721,neutral,,,,Tue
+23/09/2025,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=September#detail=144722,neutral,,,,Tue
+30/09/2025,21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=September#detail=144723,neutral,,,,Tue

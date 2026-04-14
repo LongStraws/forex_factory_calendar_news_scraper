@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-25/09/2025,13:30,USD,red,Final GDP q/q,https://www.forexfactory.com/calendar?month=September#detail=142551,3.8%,3.3%,3.3%,Thu
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+25/09/2025,13:30,USD,red,Final GDP q/q,https://www.forexfactory.com/calendar?month=September#detail=142551,green,3.8%,3.3%,3.3%,Thu

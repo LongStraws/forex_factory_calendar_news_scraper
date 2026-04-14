@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-21:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=October#detail=137560,64.3B,43.5B,-380.1B,18/10/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+21:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=October#detail=137560,green,64.3B,43.5B,-380.1B,18/10/2024,Fri

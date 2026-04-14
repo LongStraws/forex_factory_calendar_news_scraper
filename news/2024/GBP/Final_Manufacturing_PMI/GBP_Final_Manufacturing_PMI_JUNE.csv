@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-09:30,GBP,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=June#detail=134655,51.2,51.3,51.3,03/06/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:30,GBP,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=June#detail=134655,gray,51.2,51.3,51.3,03/06/2024,Mon

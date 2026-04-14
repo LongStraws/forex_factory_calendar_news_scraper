@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=August#detail=136636,46.1,45.0,45.3,30/08/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=August#detail=136636,green,46.1,45.0,45.3,30/08/2024,Fri

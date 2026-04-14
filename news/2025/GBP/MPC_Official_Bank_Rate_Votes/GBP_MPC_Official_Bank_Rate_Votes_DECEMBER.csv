@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:00,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=December#detail=143369,0-5-4,0-5-4,0-4-5,18/12/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:00,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=December#detail=143369,gray,0-5-4,0-5-4,0-4-5,18/12/2025,Thu

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=July#detail=145657,-0.3%,,-0.4%,16/07/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=July#detail=145657,gray,-0.3%,,-0.4%,16/07/2025,Wed

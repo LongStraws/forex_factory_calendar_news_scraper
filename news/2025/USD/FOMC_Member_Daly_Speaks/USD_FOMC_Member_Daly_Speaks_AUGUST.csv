@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-21:10,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=August#detail=146342,,,,06/08/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+21:10,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=August#detail=146342,neutral,,,,06/08/2025,Wed

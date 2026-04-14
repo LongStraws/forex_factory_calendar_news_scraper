@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=February#detail=142431,-0.5%,-0.5%,-0.5%,07/02/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=February#detail=142431,gray,-0.5%,-0.5%,-0.5%,07/02/2025,Fri

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=March#detail=150296,63K,50K,11K,04/03/2026,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=March#detail=150296,green,63K,50K,11K,04/03/2026,Wed

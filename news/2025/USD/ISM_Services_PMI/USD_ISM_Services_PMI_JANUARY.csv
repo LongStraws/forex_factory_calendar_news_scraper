@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=January#detail=141158,54.1,53.5,52.1,07/01/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,red,ISM Services PMI,https://www.forexfactory.com/calendar?month=January#detail=141158,green,54.1,53.5,52.1,07/01/2025,Tue

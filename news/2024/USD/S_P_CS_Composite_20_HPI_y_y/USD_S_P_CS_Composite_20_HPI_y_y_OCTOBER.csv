@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:00,USD,orange,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=October#detail=136249,5.2%,4.9%,5.9%,29/10/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:00,USD,orange,S&P/CS Composite-20 HPI y/y,https://www.forexfactory.com/calendar?month=October#detail=136249,green,5.2%,4.9%,5.9%,29/10/2024,Tue

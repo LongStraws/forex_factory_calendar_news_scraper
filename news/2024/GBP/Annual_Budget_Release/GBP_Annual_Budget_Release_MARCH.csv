@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:34,GBP,red,Annual Budget Release,https://www.forexfactory.com/calendar?month=March#detail=135699,,,,06/03/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:34,GBP,red,Annual Budget Release,https://www.forexfactory.com/calendar?month=March#detail=135699,neutral,,,,06/03/2024,Wed

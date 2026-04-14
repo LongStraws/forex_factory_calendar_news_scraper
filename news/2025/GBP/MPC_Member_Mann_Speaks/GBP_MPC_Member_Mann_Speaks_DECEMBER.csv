@@ -1,3 +1,3 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-17:00,GBP,yellow,MPC Member Mann Speaks,https://www.forexfactory.com/calendar?month=December#detail=150993,,,,03/12/2025,Wed
-12:45,GBP,yellow,MPC Member Mann Speaks,https://www.forexfactory.com/calendar?month=December#detail=150998,,,,04/12/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+17:00,GBP,yellow,MPC Member Mann Speaks,https://www.forexfactory.com/calendar?month=December#detail=150993,neutral,,,,03/12/2025,Wed
+12:45,GBP,yellow,MPC Member Mann Speaks,https://www.forexfactory.com/calendar?month=December#detail=150998,neutral,,,,04/12/2025,Thu

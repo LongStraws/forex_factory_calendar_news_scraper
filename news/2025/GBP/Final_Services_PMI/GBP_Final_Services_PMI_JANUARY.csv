@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-09:30,GBP,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=January#detail=140953,51.1,51.4,51.4,06/01/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:30,GBP,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=January#detail=140953,gray,51.1,51.4,51.4,06/01/2025,Mon

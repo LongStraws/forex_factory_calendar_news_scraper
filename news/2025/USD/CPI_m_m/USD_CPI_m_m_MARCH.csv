@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:30,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=March#detail=142633,0.2%,0.3%,0.5%,12/03/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:30,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=March#detail=142633,red,0.2%,0.3%,0.5%,12/03/2025,Wed

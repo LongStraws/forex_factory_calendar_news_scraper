@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,yellow,Import Prices m/m,https://www.forexfactory.com/calendar?month=February#detail=142692,0.3%,0.4%,0.2%,14/02/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,yellow,Import Prices m/m,https://www.forexfactory.com/calendar?month=February#detail=142692,gray,0.3%,0.4%,0.2%,14/02/2025,Fri

@@ -1,5 +1,5 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-16:00,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=January#detail=145489,,,,03/01/2025,Fri
-13:00,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=January#detail=145644,,,,07/01/2025,Tue
-17:45,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=January#detail=145647,,,,09/01/2025,Thu
-14:20,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=January#detail=145672,,,,15/01/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+16:00,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=January#detail=145489,neutral,,,,03/01/2025,Fri
+13:00,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=January#detail=145644,neutral,,,,07/01/2025,Tue
+17:45,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=January#detail=145647,neutral,,,,09/01/2025,Thu
+14:20,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=January#detail=145672,neutral,,,,15/01/2025,Wed

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=December#detail=143504,-16%,-21%,-19%,10/12/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+00:01,GBP,yellow,RICS House Price Balance,https://www.forexfactory.com/calendar?month=December#detail=143504,green,-16%,-21%,-19%,10/12/2025,Wed

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,red,Employment Cost Index q/q,https://www.forexfactory.com/calendar?month=April#detail=142602,0.9%,0.9%,0.9%,30/04/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,red,Employment Cost Index q/q,https://www.forexfactory.com/calendar?month=April#detail=142602,gray,0.9%,0.9%,0.9%,30/04/2025,Wed

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,CAD,orange,Ivey PMI,https://www.forexfactory.com/calendar?month=November#detail=137043,52.0,54.2,53.1,06/11/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,CAD,orange,Ivey PMI,https://www.forexfactory.com/calendar?month=November#detail=137043,red,52.0,54.2,53.1,06/11/2024,Wed

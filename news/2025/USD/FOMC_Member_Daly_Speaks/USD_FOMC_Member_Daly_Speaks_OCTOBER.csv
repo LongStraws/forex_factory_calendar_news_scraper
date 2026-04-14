@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-09/10/2025,02:40,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=October#detail=148058,,,,Thu
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+09/10/2025,02:40,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=October#detail=148058,neutral,,,,Thu

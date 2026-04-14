@@ -1,6 +1,6 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=December#detail=138037,,,,03/12/2024,Tue
-21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=December#detail=138038,,,,10/12/2024,Tue
-21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=December#detail=138039,,,,17/12/2024,Tue
-21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=December#detail=138040,,,,24/12/2024,Tue
-21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=December#detail=138041,,,,31/12/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=December#detail=138037,neutral,,,,03/12/2024,Tue
+21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=December#detail=138038,neutral,,,,10/12/2024,Tue
+21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=December#detail=138039,neutral,,,,17/12/2024,Tue
+21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=December#detail=138040,neutral,,,,24/12/2024,Tue
+21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=December#detail=138041,neutral,,,,31/12/2024,Tue

@@ -1,4 +1,4 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-18:30,CAD,red,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=November#detail=149984,,,,03/11/2025,Mon
-21:30,CAD,red,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=November#detail=150017,,,,05/11/2025,Wed
-15:30,CAD,red,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=November#detail=150018,,,,06/11/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+18:30,CAD,red,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=November#detail=149984,neutral,,,,03/11/2025,Mon
+21:30,CAD,red,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=November#detail=150017,neutral,,,,05/11/2025,Wed
+15:30,CAD,red,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=November#detail=150018,neutral,,,,06/11/2025,Thu

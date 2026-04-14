@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=February#detail=141135,50.9,49.3,49.3,03/02/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=February#detail=141135,green,50.9,49.3,49.3,03/02/2025,Mon

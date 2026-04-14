@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-17:01,USD,red,30-y Bond Auction,https://www.forexfactory.com/calendar?month=March#detail=137318,4.33|2.5,,4.36|2.4,13/03/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+17:01,USD,red,30-y Bond Auction,https://www.forexfactory.com/calendar?month=March#detail=137318,gray,4.33|2.5,,4.36|2.4,13/03/2024,Wed

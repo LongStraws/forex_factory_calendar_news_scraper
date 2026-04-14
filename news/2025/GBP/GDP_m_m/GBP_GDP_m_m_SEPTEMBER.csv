@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-12/09/2025,07:00,GBP,red,GDP m/m,https://www.forexfactory.com/calendar?month=September#detail=143737,0.0%,0.0%,0.4%,Fri
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+12/09/2025,07:00,GBP,red,GDP m/m,https://www.forexfactory.com/calendar?month=September#detail=143737,gray,0.0%,0.0%,0.4%,Fri

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=July#detail=143548,0.7%,0.2%,0.4%,28/07/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=July#detail=143548,green,0.7%,0.2%,0.4%,28/07/2025,Mon

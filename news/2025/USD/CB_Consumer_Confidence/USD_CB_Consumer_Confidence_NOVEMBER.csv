@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,orange,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=November#detail=141253,88.7,93.4,95.5,25/11/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,orange,CB Consumer Confidence,https://www.forexfactory.com/calendar?month=November#detail=141253,red,88.7,93.4,95.5,25/11/2025,Tue

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:30,GBP,yellow,MPC Member Pill Speaks,https://www.forexfactory.com/calendar?month=July#detail=140374,,,,10/07/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:30,GBP,yellow,MPC Member Pill Speaks,https://www.forexfactory.com/calendar?month=July#detail=140374,neutral,,,,10/07/2024,Wed

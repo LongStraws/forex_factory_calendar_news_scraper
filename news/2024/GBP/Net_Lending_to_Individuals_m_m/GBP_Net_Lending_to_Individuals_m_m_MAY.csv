@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-09:30,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=May#detail=138554,3.1B,2.0B,1.9B,31/05/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:30,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=May#detail=138554,green,3.1B,2.0B,1.9B,31/05/2024,Fri

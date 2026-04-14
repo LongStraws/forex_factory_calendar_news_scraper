@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
 19:30,USD,red,FOMC Press Conference,https://www.forexfactory.com/calendar?month=June#detail=141226,neutral,,,,18/06/2025,Wed

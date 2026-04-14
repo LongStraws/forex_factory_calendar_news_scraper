@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-12/09/2025,13:30,CAD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=September#detail=144998,79.3%,78.8%,79.9%,Fri
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+12/09/2025,13:30,CAD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=September#detail=144998,green,79.3%,78.8%,79.9%,Fri

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=October#detail=138470,3.84M,3.88M,3.88M,23/10/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=October#detail=138470,red,3.84M,3.88M,3.88M,23/10/2024,Wed

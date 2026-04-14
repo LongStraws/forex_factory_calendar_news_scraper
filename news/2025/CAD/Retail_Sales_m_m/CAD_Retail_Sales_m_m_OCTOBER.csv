@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-23/10/2025,13:30,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=October#detail=145041,1.0%,1.0%,-0.7%,Thu
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+23/10/2025,13:30,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=October#detail=145041,gray,1.0%,1.0%,-0.7%,Thu

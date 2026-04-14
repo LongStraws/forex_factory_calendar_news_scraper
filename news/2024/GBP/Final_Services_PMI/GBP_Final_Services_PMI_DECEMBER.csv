@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-09:30,GBP,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=December#detail=134614,50.8,50.0,50.0,04/12/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:30,GBP,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=December#detail=134614,green,50.8,50.0,50.0,04/12/2024,Wed

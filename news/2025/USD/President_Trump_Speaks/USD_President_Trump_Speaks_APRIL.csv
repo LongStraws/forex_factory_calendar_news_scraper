@@ -1,5 +1,5 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-21:00,USD,red,President Trump Speaks,https://www.forexfactory.com/calendar?month=April#detail=145928,,,,02/04/2025,Wed
-23:45,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=April#detail=145946,,,,08/04/2025,Tue
-23:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=April#detail=145991,,,,29/04/2025,Tue
-01:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=April#detail=145992,,,,30/04/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+21:00,USD,red,President Trump Speaks,https://www.forexfactory.com/calendar?month=April#detail=145928,neutral,,,,02/04/2025,Wed
+23:45,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=April#detail=145946,neutral,,,,08/04/2025,Tue
+23:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=April#detail=145991,neutral,,,,29/04/2025,Tue
+01:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=April#detail=145992,neutral,,,,30/04/2025,Wed

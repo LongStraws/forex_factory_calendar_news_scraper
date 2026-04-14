@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:15,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=August#detail=138226,280K,246K,242K,16/08/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:15,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=August#detail=138226,green,280K,246K,242K,16/08/2024,Fri

@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-05/09/2025,13:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=September#detail=142573,22K,75K,79K,Fri
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+05/09/2025,13:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=September#detail=142573,red,22K,75K,79K,Fri

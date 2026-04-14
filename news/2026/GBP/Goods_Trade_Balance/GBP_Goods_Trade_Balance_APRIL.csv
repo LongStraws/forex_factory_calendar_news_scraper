@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=April#detail=151533,,-20.3B,-14.4B,16/04/2026,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=April#detail=151533,neutral,,-19.4B,-14.4B,16/04/2026,Thu

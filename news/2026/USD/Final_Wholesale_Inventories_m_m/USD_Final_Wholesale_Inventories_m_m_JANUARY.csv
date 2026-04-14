@@ -1,3 +1,3 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=January#detail=148190,0.2%,0.2%,0.5%,08/01/2026,Thu
-15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=January#detail=151754,0.2%,0.2%,0.2%,29/01/2026,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=January#detail=148190,gray,0.2%,0.2%,0.5%,08/01/2026,Thu
+15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=January#detail=151754,gray,0.2%,0.2%,0.2%,29/01/2026,Thu

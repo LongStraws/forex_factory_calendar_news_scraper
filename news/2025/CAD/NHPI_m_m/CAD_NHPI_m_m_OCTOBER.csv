@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-24/10/2025,13:30,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=October#detail=145189,-0.2%,0.2%,-0.3%,Fri
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+24/10/2025,13:30,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=October#detail=145189,red,-0.2%,0.2%,-0.3%,Fri

@@ -1,3 +1,3 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=April#detail=138548,0.5%,0.2%,-0.1%,02/04/2024,Tue
-09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=April#detail=138549,0.7%,0.4%,0.6%,30/04/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=April#detail=138548,green,0.5%,0.2%,-0.1%,02/04/2024,Tue
+09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=April#detail=138549,green,0.7%,0.4%,0.6%,30/04/2024,Tue

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:00,USD,orange,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=March#detail=136313,3.0%,,3.0%,15/03/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:00,USD,orange,Prelim UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=March#detail=136313,gray,3.0%,,3.0%,15/03/2024,Fri

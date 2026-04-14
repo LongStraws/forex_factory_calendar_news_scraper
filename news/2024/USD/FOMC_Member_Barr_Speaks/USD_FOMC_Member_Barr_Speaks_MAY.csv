@@ -1,6 +1,6 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-18:30,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=May#detail=140215,,,,10/05/2024,Fri
-15:00,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=May#detail=140267,,,,15/05/2024,Wed
-15:00,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=May#detail=140245,,,,16/05/2024,Thu
-14:00,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=May#detail=140255,,,,20/05/2024,Mon
-16:45,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=May#detail=140277,,,,21/05/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+18:30,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=May#detail=140215,neutral,,,,10/05/2024,Fri
+15:00,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=May#detail=140267,neutral,,,,15/05/2024,Wed
+15:00,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=May#detail=140245,neutral,,,,16/05/2024,Thu
+14:00,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=May#detail=140255,neutral,,,,20/05/2024,Mon
+16:45,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=May#detail=140277,neutral,,,,21/05/2024,Tue

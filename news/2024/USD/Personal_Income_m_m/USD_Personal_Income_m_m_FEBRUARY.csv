@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=February#detail=136173,1.0%,0.4%,0.3%,29/02/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=February#detail=136173,green,1.0%,0.4%,0.3%,29/02/2024,Thu

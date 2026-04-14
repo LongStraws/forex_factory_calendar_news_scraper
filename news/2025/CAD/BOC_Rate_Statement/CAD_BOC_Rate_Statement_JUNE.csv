@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
 14:45,CAD,red,BOC Rate Statement,https://www.forexfactory.com/calendar?month=June#detail=141401,neutral,,,,04/06/2025,Wed

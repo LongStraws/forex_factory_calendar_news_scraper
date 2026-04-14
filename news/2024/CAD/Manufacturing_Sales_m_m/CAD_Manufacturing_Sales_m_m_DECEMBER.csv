@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,CAD,yellow,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=December#detail=138191,2.1%,1.2%,-0.6%,13/12/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,yellow,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=December#detail=138191,green,2.1%,1.2%,-0.6%,13/12/2024,Fri

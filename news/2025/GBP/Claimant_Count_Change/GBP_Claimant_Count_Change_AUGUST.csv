@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,orange,Claimant Count Change,https://www.forexfactory.com/calendar?month=August#detail=143804,-6.2K,19.7K,-15.5K,12/08/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,orange,Claimant Count Change,https://www.forexfactory.com/calendar?month=August#detail=143804,green,-6.2K,19.7K,-15.5K,12/08/2025,Tue

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:30,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=March#detail=149567,0.3%,-0.2%,-0.4%,20/03/2026,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:30,CAD,yellow,NHPI m/m,https://www.forexfactory.com/calendar?month=March#detail=149567,green,0.3%,-0.2%,-0.4%,20/03/2026,Fri

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Current Account,https://www.forexfactory.com/calendar?month=June#detail=138886,-21.0B,-17.7B,-21.2B,28/06/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Current Account,https://www.forexfactory.com/calendar?month=June#detail=138886,red,-21.0B,-17.7B,-21.2B,28/06/2024,Fri

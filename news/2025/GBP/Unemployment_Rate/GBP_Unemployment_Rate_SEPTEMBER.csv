@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-16/09/2025,07:00,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=September#detail=143805,4.7%,4.7%,4.7%,Tue
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+16/09/2025,07:00,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=September#detail=143805,gray,4.7%,4.7%,4.7%,Tue

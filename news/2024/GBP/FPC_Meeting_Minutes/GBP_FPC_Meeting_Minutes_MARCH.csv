@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-10:30,GBP,yellow,FPC Meeting Minutes,https://www.forexfactory.com/calendar?month=March#detail=135741,,,,27/03/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+10:30,GBP,yellow,FPC Meeting Minutes,https://www.forexfactory.com/calendar?month=March#detail=135741,neutral,,,,27/03/2024,Wed

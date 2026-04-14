@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=January#detail=148606,4.0%,,4.2%,23/01/2026,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=January#detail=148606,gray,4.0%,,4.2%,23/01/2026,Fri

@@ -1,3 +1,3 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:30,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=May#detail=140209,,,,09/05/2024,Thu
-18:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=May#detail=140263,,,,21/05/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:30,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=May#detail=140209,neutral,,,,09/05/2024,Thu
+18:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=May#detail=140263,neutral,,,,21/05/2024,Tue

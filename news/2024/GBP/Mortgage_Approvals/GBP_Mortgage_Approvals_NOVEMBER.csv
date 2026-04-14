@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-09:30,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=November#detail=138572,68K,65K,66K,29/11/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:30,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=November#detail=138572,green,68K,65K,66K,29/11/2024,Fri

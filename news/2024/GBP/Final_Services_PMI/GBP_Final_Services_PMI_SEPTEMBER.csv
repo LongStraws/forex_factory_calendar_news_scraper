@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-09:30,GBP,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=September#detail=134602,53.7,53.3,53.3,04/09/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:30,GBP,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=September#detail=134602,green,53.7,53.3,53.3,04/09/2024,Wed

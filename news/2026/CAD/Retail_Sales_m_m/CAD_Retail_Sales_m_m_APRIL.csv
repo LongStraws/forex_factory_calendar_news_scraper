@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=April#detail=149204,,,,24/04/2026,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,orange,Retail Sales m/m,https://www.forexfactory.com/calendar?month=April#detail=149204,neutral,,,1.1%,24/04/2026,Fri

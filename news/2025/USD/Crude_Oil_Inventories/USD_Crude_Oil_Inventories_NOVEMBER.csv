@@ -1,5 +1,5 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=November#detail=143117,5.2M,-2.5M,-6.9M,05/11/2025,Wed
-17:00,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=November#detail=143118,6.4M,1.0M,5.2M,13/11/2025,Thu
-15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=November#detail=143119,-3.4M,-1.9M,6.4M,19/11/2025,Wed
-15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=November#detail=143120,2.8M,-1.3M,-3.4M,26/11/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=November#detail=143117,red,5.2M,-2.5M,-6.9M,05/11/2025,Wed
+17:00,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=November#detail=143118,red,6.4M,1.0M,5.2M,13/11/2025,Thu
+15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=November#detail=143119,green,-3.4M,-1.9M,6.4M,19/11/2025,Wed
+15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=November#detail=143120,red,2.8M,-1.3M,-3.4M,26/11/2025,Wed

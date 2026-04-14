@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-20:00,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=August#detail=140418,,,,08/08/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+20:00,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=August#detail=140418,neutral,,,,08/08/2024,Thu

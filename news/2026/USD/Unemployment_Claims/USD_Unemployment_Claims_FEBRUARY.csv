@@ -1,5 +1,5 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=February#detail=146983,231K,212K,209K,05/02/2026,Thu
-13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=February#detail=146984,227K,222K,232K,12/02/2026,Thu
-13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=February#detail=146985,206K,223K,229K,19/02/2026,Thu
-13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=February#detail=146986,212K,217K,208K,26/02/2026,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=February#detail=146983,red,231K,212K,209K,05/02/2026,Thu
+13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=February#detail=146984,red,227K,222K,232K,12/02/2026,Thu
+13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=February#detail=146985,green,206K,223K,229K,19/02/2026,Thu
+13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=February#detail=146986,green,212K,217K,208K,26/02/2026,Thu

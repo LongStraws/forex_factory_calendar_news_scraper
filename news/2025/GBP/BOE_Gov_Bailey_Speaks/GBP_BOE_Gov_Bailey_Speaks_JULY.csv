@@ -1,7 +1,7 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:30,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=July#detail=146178,,,,01/07/2025,Tue
-13:20,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=July#detail=146198,,,,03/07/2025,Thu
-16:45,GBP,orange,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=July#detail=146185,,,,05/07/2025,Sat
-11:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=July#detail=146309,,,,09/07/2025,Wed
-21:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=July#detail=146310,,,,15/07/2025,Tue
-10:15,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=July#detail=146334,,,,22/07/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:30,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=July#detail=146178,neutral,,,,01/07/2025,Tue
+13:20,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=July#detail=146198,neutral,,,,03/07/2025,Thu
+16:45,GBP,orange,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=July#detail=146185,neutral,,,,05/07/2025,Sat
+11:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=July#detail=146309,neutral,,,,09/07/2025,Wed
+21:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=July#detail=146310,neutral,,,,15/07/2025,Tue
+10:15,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=July#detail=146334,neutral,,,,22/07/2025,Tue

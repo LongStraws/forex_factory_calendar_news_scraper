@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,CAD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=December#detail=138245,79.3%,78.9%,79.1%,13/12/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=December#detail=138245,green,79.3%,78.9%,79.1%,13/12/2024,Fri

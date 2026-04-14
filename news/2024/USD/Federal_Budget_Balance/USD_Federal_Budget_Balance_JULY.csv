@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-19:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=July#detail=137557,-66.0B,-71.2B,-347.1B,11/07/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+19:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=July#detail=137557,green,-66.0B,-71.2B,-347.1B,11/07/2024,Thu

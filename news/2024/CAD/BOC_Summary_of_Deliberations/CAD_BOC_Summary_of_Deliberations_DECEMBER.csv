@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-18:30,CAD,yellow,BOC Summary of Deliberations,https://www.forexfactory.com/calendar?month=December#detail=137053,,,,23/12/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+18:30,CAD,yellow,BOC Summary of Deliberations,https://www.forexfactory.com/calendar?month=December#detail=137053,neutral,,,,23/12/2024,Mon

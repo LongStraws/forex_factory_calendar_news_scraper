@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:15,GBP,yellow,MPC Member Mann Speaks,https://www.forexfactory.com/calendar?month=August#detail=140441,,,,28/08/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:15,GBP,yellow,MPC Member Mann Speaks,https://www.forexfactory.com/calendar?month=August#detail=140441,neutral,,,,28/08/2024,Wed

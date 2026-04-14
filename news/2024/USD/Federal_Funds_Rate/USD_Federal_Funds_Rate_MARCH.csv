@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-18:00,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=March#detail=136095,5.50%,5.50%,5.50%,20/03/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+18:00,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=March#detail=136095,gray,5.50%,5.50%,5.50%,20/03/2024,Wed

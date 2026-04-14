@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=June#detail=138411,-0.5%,-0.4%,-0.6%,21/06/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=June#detail=138411,red,-0.5%,-0.4%,-0.6%,21/06/2024,Fri

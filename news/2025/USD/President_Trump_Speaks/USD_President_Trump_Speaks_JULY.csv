@@ -1,3 +1,3 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-22:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=July#detail=146336,,,,23/07/2025,Wed
-21:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=July#detail=146343,,,,30/07/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+22:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=July#detail=146336,neutral,,,,23/07/2025,Wed
+21:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=July#detail=146343,neutral,,,,30/07/2025,Wed

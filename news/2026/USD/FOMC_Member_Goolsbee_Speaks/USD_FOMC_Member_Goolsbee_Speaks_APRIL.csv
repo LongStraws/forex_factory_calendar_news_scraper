@@ -1,3 +1,5 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-17:35,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=April#detail=152799,,,,07/04/2026,Tue
-17:15,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=April#detail=152824,,,,14/04/2026,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+17:35,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=April#detail=152799,neutral,,,,07/04/2026,Tue
+14:45,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=April#detail=152845,neutral,,,,14/04/2026,Tue
+15:15,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=April#detail=152846,neutral,,,,14/04/2026,Tue
+17:10,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=April#detail=152824,neutral,,,,14/04/2026,Tue

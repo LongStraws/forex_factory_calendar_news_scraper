@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-10/09/2025,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=September#detail=142438,0.1%,0.2%,0.2%,Wed
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+10/09/2025,15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=September#detail=142438,green,0.1%,0.2%,0.2%,Wed

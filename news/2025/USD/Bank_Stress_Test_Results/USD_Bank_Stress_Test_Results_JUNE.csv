@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
 21:30,USD,yellow,Bank Stress Test Results,https://www.forexfactory.com/calendar?month=June#detail=144620,neutral,,,,27/06/2025,Fri

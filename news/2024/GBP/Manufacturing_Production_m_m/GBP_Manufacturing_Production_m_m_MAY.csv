@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=May#detail=138832,0.3%,-0.5%,1.2%,10/05/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=May#detail=138832,green,0.3%,-0.5%,1.2%,10/05/2024,Fri

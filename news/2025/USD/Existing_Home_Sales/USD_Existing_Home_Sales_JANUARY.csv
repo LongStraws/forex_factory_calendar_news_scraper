@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=January#detail=143008,4.24M,4.19M,4.15M,24/01/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=January#detail=143008,green,4.24M,4.19M,4.15M,24/01/2025,Fri

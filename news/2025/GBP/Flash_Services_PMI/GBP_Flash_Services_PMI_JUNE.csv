@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
-09:30,GBP,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=June#detail=142192,,51.3,51.2,50.9,23/06/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:30,GBP,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=June#detail=142192,gray,51.3,51.2,50.9,23/06/2025,Mon

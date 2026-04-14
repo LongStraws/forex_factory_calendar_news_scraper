@@ -1,3 +1,3 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:50,USD,yellow,FOMC Member Hammack Speaks,https://www.forexfactory.com/calendar?month=February#detail=145717,,,,11/02/2025,Tue
-18:15,USD,yellow,FOMC Member Hammack Speaks,https://www.forexfactory.com/calendar?month=February#detail=145812,,,,27/02/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:50,USD,yellow,FOMC Member Hammack Speaks,https://www.forexfactory.com/calendar?month=February#detail=145717,neutral,,,,11/02/2025,Tue
+18:15,USD,yellow,FOMC Member Hammack Speaks,https://www.forexfactory.com/calendar?month=February#detail=145812,neutral,,,,27/02/2025,Thu

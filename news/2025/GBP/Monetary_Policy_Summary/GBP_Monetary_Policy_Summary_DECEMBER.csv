@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:00,GBP,red,Monetary Policy Summary,https://www.forexfactory.com/calendar?month=December#detail=143368,,,,18/12/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:00,GBP,red,Monetary Policy Summary,https://www.forexfactory.com/calendar?month=December#detail=143368,neutral,,,,18/12/2025,Thu

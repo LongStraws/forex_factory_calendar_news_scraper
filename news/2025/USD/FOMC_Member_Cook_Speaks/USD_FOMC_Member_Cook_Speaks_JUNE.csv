@@ -1,4 +1,4 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
 18:00,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=June#detail=146121,neutral,,,,03/06/2025,Tue
 13:30,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=June#detail=146104,neutral,,,,04/06/2025,Wed
 14:15,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=June#detail=146161,neutral,,,,27/06/2025,Fri

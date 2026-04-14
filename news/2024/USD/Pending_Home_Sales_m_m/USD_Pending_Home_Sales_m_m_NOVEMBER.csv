@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,orange,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=November#detail=138483,2.0%,-2.1%,7.5%,27/11/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,orange,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=November#detail=138483,green,2.0%,-2.1%,7.5%,27/11/2024,Wed

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=January#detail=143664,-0.3%,0.4%,0.1%,17/01/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=January#detail=143664,red,-0.3%,0.4%,0.1%,17/01/2025,Fri

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=March#detail=148724,8.0B,12.4B,25.2B,06/03/2026,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=March#detail=148724,red,8.0B,12.4B,25.2B,06/03/2026,Fri

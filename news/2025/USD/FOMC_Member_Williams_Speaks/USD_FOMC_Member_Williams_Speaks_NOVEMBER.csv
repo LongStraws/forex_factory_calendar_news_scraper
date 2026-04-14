@@ -1,7 +1,7 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-16:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=November#detail=149976,,,,06/11/2025,Thu
-08:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=November#detail=149980,,,,07/11/2025,Fri
-14:20,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=November#detail=150357,,,,12/11/2025,Wed
-14:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=November#detail=150856,,,,17/11/2025,Mon
-19:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=November#detail=150860,,,,19/11/2025,Wed
-12:30,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=November#detail=150866,,,,21/11/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+16:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=November#detail=149976,neutral,,,,06/11/2025,Thu
+08:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=November#detail=149980,neutral,,,,07/11/2025,Fri
+14:20,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=November#detail=150357,neutral,,,,12/11/2025,Wed
+14:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=November#detail=150856,neutral,,,,17/11/2025,Mon
+19:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=November#detail=150860,neutral,,,,19/11/2025,Wed
+12:30,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=November#detail=150866,neutral,,,,21/11/2025,Fri

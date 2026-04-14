@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=April#detail=142520,0.5%,0.4%,0.7%,30/04/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=April#detail=142520,green,0.5%,0.4%,0.7%,30/04/2025,Wed

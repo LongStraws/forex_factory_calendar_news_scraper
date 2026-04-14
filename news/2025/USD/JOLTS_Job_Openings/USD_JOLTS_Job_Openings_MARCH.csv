@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:00,USD,red,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=March#detail=143893,7.74M,7.65M,7.51M,11/03/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:00,USD,red,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=March#detail=143893,green,7.74M,7.65M,7.51M,11/03/2025,Tue

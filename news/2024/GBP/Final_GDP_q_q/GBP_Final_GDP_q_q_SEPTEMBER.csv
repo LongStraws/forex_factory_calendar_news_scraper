@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Final GDP q/q,https://www.forexfactory.com/calendar?month=September#detail=138881,0.5%,0.6%,0.6%,30/09/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Final GDP q/q,https://www.forexfactory.com/calendar?month=September#detail=138881,red,0.5%,0.6%,0.6%,30/09/2024,Mon

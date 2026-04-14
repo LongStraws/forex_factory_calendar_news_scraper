@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-09:30,GBP,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=March#detail=134886,53.4,53.8,53.8,21/03/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:30,GBP,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=March#detail=134886,red,53.4,53.8,53.8,21/03/2024,Thu

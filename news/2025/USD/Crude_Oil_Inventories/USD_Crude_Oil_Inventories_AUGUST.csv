@@ -1,5 +1,5 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=August#detail=143104,-3.0M,0.2M,7.7M,06/08/2025,Wed
-15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=August#detail=143105,3.0M,-0.9M,-3.0M,13/08/2025,Wed
-15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=August#detail=143106,-6.0M,-0.8M,3.0M,20/08/2025,Wed
-15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=August#detail=143107,-2.4M,-1.7M,-6.0M,27/08/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=August#detail=143104,green,-3.0M,0.2M,7.7M,06/08/2025,Wed
+15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=August#detail=143105,red,3.0M,-0.9M,-3.0M,13/08/2025,Wed
+15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=August#detail=143106,green,-6.0M,-0.8M,3.0M,20/08/2025,Wed
+15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=August#detail=143107,green,-2.4M,-1.7M,-6.0M,27/08/2025,Wed

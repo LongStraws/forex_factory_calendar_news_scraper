@@ -1,4 +1,4 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-16:00,USD,yellow,FOMC Member Jefferson Speaks,https://www.forexfactory.com/calendar?month=May#detail=140213,,,,08/05/2024,Wed
-14:00,USD,yellow,FOMC Member Jefferson Speaks,https://www.forexfactory.com/calendar?month=May#detail=140231,,,,13/05/2024,Mon
-15:30,USD,yellow,FOMC Member Jefferson Speaks,https://www.forexfactory.com/calendar?month=May#detail=140276,,,,20/05/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+16:00,USD,yellow,FOMC Member Jefferson Speaks,https://www.forexfactory.com/calendar?month=May#detail=140213,neutral,,,,08/05/2024,Wed
+14:00,USD,yellow,FOMC Member Jefferson Speaks,https://www.forexfactory.com/calendar?month=May#detail=140231,neutral,,,,13/05/2024,Mon
+15:30,USD,yellow,FOMC Member Jefferson Speaks,https://www.forexfactory.com/calendar?month=May#detail=140276,neutral,,,,20/05/2024,Mon

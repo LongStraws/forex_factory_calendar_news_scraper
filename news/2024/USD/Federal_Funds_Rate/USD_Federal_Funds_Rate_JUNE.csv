@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-19:00,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=June#detail=136102,5.50%,5.50%,5.50%,12/06/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+19:00,USD,red,Federal Funds Rate,https://www.forexfactory.com/calendar?month=June#detail=136102,gray,5.50%,5.50%,5.50%,12/06/2024,Wed

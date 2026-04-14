@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,FPC Statement,https://www.forexfactory.com/calendar?month=December#detail=143333,,,,02/12/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,FPC Statement,https://www.forexfactory.com/calendar?month=December#detail=143333,neutral,,,,02/12/2025,Tue

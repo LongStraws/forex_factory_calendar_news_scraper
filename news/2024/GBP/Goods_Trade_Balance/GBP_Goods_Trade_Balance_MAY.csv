@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=May#detail=138829,-14.0B,-14.5B,-14.1B,10/05/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=May#detail=138829,green,-14.0B,-14.5B,-14.1B,10/05/2024,Fri

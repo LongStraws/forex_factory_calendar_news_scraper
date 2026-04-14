@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=July#detail=141680,5.1B,10.4B,16.9B,08/07/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+20:00,USD,yellow,Consumer Credit m/m,https://www.forexfactory.com/calendar?month=July#detail=141680,red,5.1B,10.4B,16.9B,08/07/2025,Tue

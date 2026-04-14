@@ -1,3 +1,3 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=November#detail=143656,,,,20/11/2024,Wed
-21:40,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=November#detail=143650,,,,21/11/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=November#detail=143656,neutral,,,,20/11/2024,Wed
+21:40,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=November#detail=143650,neutral,,,,21/11/2024,Thu

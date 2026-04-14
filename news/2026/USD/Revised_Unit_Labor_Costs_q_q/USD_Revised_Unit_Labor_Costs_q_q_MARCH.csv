@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:30,USD,yellow,Revised Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=March#detail=152106,4.4%,3.6%,2.8%,24/03/2026,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:30,USD,yellow,Revised Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=March#detail=152106,green,4.4%,3.6%,2.8%,24/03/2026,Tue

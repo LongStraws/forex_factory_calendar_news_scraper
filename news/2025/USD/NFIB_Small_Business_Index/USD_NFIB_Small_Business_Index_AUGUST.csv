@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-11:00,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=August#detail=143922,100.3,98.9,98.6,12/08/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+11:00,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=August#detail=143922,green,100.3,98.9,98.6,12/08/2025,Tue

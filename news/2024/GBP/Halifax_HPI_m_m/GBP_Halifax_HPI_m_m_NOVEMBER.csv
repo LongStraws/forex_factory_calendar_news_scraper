@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=November#detail=135794,0.2%,0.2%,0.3%,07/11/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=November#detail=135794,gray,0.2%,0.2%,0.3%,07/11/2024,Thu

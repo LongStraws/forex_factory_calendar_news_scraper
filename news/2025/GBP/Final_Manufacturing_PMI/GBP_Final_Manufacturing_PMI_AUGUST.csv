@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-09:30,GBP,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=August#detail=140661,48.0,48.2,48.2,01/08/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:30,GBP,yellow,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=August#detail=140661,gray,48.0,48.2,48.2,01/08/2025,Fri

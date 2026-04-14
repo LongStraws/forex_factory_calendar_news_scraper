@@ -1,5 +1,5 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-03/10/2025,14:20,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=October#detail=147862,,,,Fri
-06/10/2025,16:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=October#detail=147988,,,,Mon
-14/10/2025,18:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=October#detail=148464,,,,Tue
-18/10/2025,14:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=October#detail=148485,,,,Sat
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+03/10/2025,14:20,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=October#detail=147862,neutral,,,,Fri
+06/10/2025,16:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=October#detail=147988,neutral,,,,Mon
+14/10/2025,18:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=October#detail=148464,neutral,,,,Tue
+18/10/2025,14:00,GBP,red,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=October#detail=148485,neutral,,,,Sat

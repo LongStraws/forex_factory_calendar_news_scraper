@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=November#detail=143813,5.0%,4.9%,4.8%,11/11/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Unemployment Rate,https://www.forexfactory.com/calendar?month=November#detail=143813,red,5.0%,4.9%,4.8%,11/11/2025,Tue

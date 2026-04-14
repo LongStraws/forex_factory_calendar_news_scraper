@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-09:00,GBP,yellow,MPC Member Mann Speaks,https://www.forexfactory.com/calendar?month=May#detail=140222,,,,17/05/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:00,GBP,yellow,MPC Member Mann Speaks,https://www.forexfactory.com/calendar?month=May#detail=140222,neutral,,,,17/05/2024,Fri

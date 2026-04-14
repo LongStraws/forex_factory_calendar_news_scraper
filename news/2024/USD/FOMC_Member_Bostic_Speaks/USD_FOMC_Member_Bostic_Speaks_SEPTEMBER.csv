@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:00,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=September#detail=140523,,,,23/09/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:00,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=September#detail=140523,neutral,,,,23/09/2024,Mon

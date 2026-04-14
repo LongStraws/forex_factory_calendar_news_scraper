@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=February#detail=135833,2.5%,,2.9%,26/02/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+00:01,GBP,yellow,BRC Shop Price Index y/y,https://www.forexfactory.com/calendar?month=February#detail=135833,gray,2.5%,,2.9%,26/02/2024,Mon

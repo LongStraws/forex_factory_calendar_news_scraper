@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
-07:00,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=June#detail=143789,,5.3%,5.5%,5.6%,10/06/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,orange,Average Earnings Index 3m/y,https://www.forexfactory.com/calendar?month=June#detail=143789,red,5.3%,5.5%,5.6%,10/06/2025,Tue

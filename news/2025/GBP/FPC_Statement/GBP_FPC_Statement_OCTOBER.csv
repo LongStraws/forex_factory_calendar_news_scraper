@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-08/10/2025,10:30,GBP,yellow,FPC Statement,https://www.forexfactory.com/calendar?month=October#detail=143335,,,,Wed
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+08/10/2025,10:30,GBP,yellow,FPC Statement,https://www.forexfactory.com/calendar?month=October#detail=143335,neutral,,,,Wed

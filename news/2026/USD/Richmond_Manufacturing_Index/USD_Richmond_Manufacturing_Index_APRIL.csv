@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=April#detail=146970,,,,28/04/2026,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=April#detail=146970,neutral,,,,28/04/2026,Tue

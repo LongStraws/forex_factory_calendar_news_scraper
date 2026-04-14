@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,yellow,Prelim Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=February#detail=142703,1.2%,1.5%,2.3%,06/02/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,yellow,Prelim Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=February#detail=142703,green,1.2%,1.5%,2.3%,06/02/2025,Thu

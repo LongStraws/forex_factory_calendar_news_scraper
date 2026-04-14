@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,CAD,red,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=January#detail=138073,3.7%,3.4%,3.5%,16/01/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,red,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=January#detail=138073,green,3.7%,3.4%,3.5%,16/01/2024,Tue

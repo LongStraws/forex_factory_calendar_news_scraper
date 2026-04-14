@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,CAD,red,CPI m/m,https://www.forexfactory.com/calendar?month=January#detail=146650,-0.2%,-0.4%,0.1%,19/01/2026,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,red,CPI m/m,https://www.forexfactory.com/calendar?month=January#detail=146650,green,-0.2%,-0.4%,0.1%,19/01/2026,Mon

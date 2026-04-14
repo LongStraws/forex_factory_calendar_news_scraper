@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-21:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=May#detail=136408,100.5B,89.3B,62.9B,15/05/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+21:00,USD,yellow,TIC Long-Term Purchases,https://www.forexfactory.com/calendar?month=May#detail=136408,green,100.5B,89.3B,62.9B,15/05/2024,Wed

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,Existing Home Sales,https://www.forexfactory.com/calendar?month=April#detail=149827,,4.07M,4.09M,13/04/2026,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,Existing Home Sales,https://www.forexfactory.com/calendar?month=April#detail=149827,red,3.98M,4.07M,4.13M,13/04/2026,Mon

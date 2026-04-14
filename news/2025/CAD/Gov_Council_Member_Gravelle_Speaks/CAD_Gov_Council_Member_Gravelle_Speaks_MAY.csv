@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-20:15,CAD,yellow,Gov Council Member Gravelle Speaks,https://www.forexfactory.com/calendar?month=May#detail=146037,,,,22/05/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+20:15,CAD,yellow,Gov Council Member Gravelle Speaks,https://www.forexfactory.com/calendar?month=May#detail=146037,neutral,,,,22/05/2025,Thu

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=January#detail=148662,0.6%,0.3%,0.4%,27/01/2026,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=January#detail=148662,green,0.6%,0.3%,0.4%,27/01/2026,Tue

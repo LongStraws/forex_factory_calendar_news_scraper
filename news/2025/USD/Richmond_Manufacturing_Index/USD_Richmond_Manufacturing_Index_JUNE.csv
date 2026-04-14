@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
-14:59,USD,orange,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=June#detail=141188,,-7,-10,-9,24/06/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:59,USD,orange,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=June#detail=141188,green,-7,-10,-9,24/06/2025,Tue

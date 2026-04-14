@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=January#detail=151498,-0.1%,,0.0%,16/01/2026,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:30,GBP,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=January#detail=151498,gray,-0.1%,,0.0%,16/01/2026,Fri

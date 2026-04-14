@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
-13:30,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=June#detail=142522,,-0.4%,0.3%,0.7%,27/06/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,yellow,Personal Income m/m,https://www.forexfactory.com/calendar?month=June#detail=142522,red,-0.4%,0.3%,0.7%,27/06/2025,Fri

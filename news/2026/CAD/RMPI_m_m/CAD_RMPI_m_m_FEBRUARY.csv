@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,CAD,yellow,RMPI m/m,https://www.forexfactory.com/calendar?month=February#detail=146673,7.7%,0.7%,0.3%,20/02/2026,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,yellow,RMPI m/m,https://www.forexfactory.com/calendar?month=February#detail=146673,green,7.7%,0.7%,0.3%,20/02/2026,Fri

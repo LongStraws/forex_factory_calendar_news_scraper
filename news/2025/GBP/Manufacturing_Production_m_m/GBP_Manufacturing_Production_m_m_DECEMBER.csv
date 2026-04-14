@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=December#detail=143758,0.5%,1.1%,-1.7%,12/12/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Manufacturing Production m/m,https://www.forexfactory.com/calendar?month=December#detail=143758,red,0.5%,1.1%,-1.7%,12/12/2025,Fri

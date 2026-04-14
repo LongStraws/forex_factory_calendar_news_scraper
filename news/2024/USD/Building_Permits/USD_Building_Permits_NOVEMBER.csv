@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,orange,Building Permits,https://www.forexfactory.com/calendar?month=November#detail=136675,1.42M,1.44M,1.43M,19/11/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,orange,Building Permits,https://www.forexfactory.com/calendar?month=November#detail=136675,gray,1.42M,1.44M,1.43M,19/11/2024,Tue

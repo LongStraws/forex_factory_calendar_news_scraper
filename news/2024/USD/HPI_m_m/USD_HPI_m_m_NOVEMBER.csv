@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=November#detail=136262,0.7%,0.3%,0.4%,26/11/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=November#detail=136262,green,0.7%,0.3%,0.4%,26/11/2024,Tue

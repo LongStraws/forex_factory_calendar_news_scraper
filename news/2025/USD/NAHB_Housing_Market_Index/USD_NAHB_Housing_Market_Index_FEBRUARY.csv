@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=February#detail=143904,42,46,47,18/02/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,NAHB Housing Market Index,https://www.forexfactory.com/calendar?month=February#detail=143904,red,42,46,47,18/02/2025,Tue

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=February#detail=138909,3.4%,1.5%,-3.3%,16/02/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,red,Retail Sales m/m,https://www.forexfactory.com/calendar?month=February#detail=138909,green,3.4%,1.5%,-3.3%,16/02/2024,Fri

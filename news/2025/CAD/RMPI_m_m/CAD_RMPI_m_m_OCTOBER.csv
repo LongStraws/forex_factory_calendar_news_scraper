@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-20/10/2025,13:30,CAD,yellow,RMPI m/m,https://www.forexfactory.com/calendar?month=October#detail=145113,1.7%,-0.3%,-0.8%,Mon
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+20/10/2025,13:30,CAD,yellow,RMPI m/m,https://www.forexfactory.com/calendar?month=October#detail=145113,green,1.7%,-0.3%,-0.8%,Mon

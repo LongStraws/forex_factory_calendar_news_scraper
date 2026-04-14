@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=November#detail=150952,0.0%,-0.2%,-0.2%,21/11/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,Final Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=November#detail=150952,red,0.0%,-0.2%,-0.2%,21/11/2025,Fri

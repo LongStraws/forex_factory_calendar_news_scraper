@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:00,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=August#detail=143359,0-5-4,0-8-1,0-3-6,07/08/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:00,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=August#detail=143359,green,0-5-4,0-8-1,0-3-6,07/08/2025,Thu

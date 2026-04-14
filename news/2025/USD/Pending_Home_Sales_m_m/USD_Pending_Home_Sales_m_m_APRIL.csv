@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,orange,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=April#detail=143023,6.1%,0.9%,2.1%,30/04/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,orange,Pending Home Sales m/m,https://www.forexfactory.com/calendar?month=April#detail=143023,green,6.1%,0.9%,2.1%,30/04/2025,Wed

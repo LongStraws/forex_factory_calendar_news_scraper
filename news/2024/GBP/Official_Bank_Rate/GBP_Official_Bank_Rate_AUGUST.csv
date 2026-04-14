@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:00,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=August#detail=135722,5.00%,5.00%,5.25%,01/08/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:00,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=August#detail=135722,gray,5.00%,5.00%,5.25%,01/08/2024,Thu

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,red,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=April#detail=138639,8.76M,8.76M,8.75M,02/04/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,red,JOLTS Job Openings,https://www.forexfactory.com/calendar?month=April#detail=138639,gray,8.76M,8.76M,8.75M,02/04/2024,Tue

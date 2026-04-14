@@ -1,8 +1,8 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:10,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=April#detail=140120,,,,02/04/2024,Tue
-14:45,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=April#detail=140121,,,,03/04/2024,Wed
-17:30,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=April#detail=140125,,,,05/04/2024,Fri
-13:45,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=April#detail=140137,,,,10/04/2024,Wed
-23:30,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=April#detail=140153,,,,17/04/2024,Wed
-14:05,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=April#detail=140179,,,,18/04/2024,Thu
-14:15,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=April#detail=140155,,,,18/04/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:10,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=April#detail=140120,neutral,,,,02/04/2024,Tue
+14:45,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=April#detail=140121,neutral,,,,03/04/2024,Wed
+17:30,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=April#detail=140125,neutral,,,,05/04/2024,Fri
+13:45,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=April#detail=140137,neutral,,,,10/04/2024,Wed
+23:30,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=April#detail=140153,neutral,,,,17/04/2024,Wed
+14:05,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=April#detail=140179,neutral,,,,18/04/2024,Thu
+14:15,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=April#detail=140155,neutral,,,,18/04/2024,Thu

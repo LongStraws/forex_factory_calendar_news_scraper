@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-20:00,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=March#detail=152768,,,,26/03/2026,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+20:00,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=March#detail=152768,neutral,,,,26/03/2026,Thu

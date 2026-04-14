@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-18:20,USD,yellow,FOMC Member Collins Speaks,https://www.forexfactory.com/calendar?month=March#detail=152722,,,,06/03/2026,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+18:20,USD,yellow,FOMC Member Collins Speaks,https://www.forexfactory.com/calendar?month=March#detail=152722,neutral,,,,06/03/2026,Fri

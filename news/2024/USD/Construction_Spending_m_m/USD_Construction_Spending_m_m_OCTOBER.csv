@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=October#detail=136141,-0.1%,0.2%,-0.5%,01/10/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,Construction Spending m/m,https://www.forexfactory.com/calendar?month=October#detail=136141,red,-0.1%,0.2%,-0.5%,01/10/2024,Tue

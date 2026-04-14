@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-25/09/2025,13:30,USD,yellow,Prelim Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=September#detail=142426,-0.2%,0.2%,0.1%,Thu
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+25/09/2025,13:30,USD,yellow,Prelim Wholesale Inventories m/m,https://www.forexfactory.com/calendar?month=September#detail=142426,green,-0.2%,0.2%,0.1%,Thu

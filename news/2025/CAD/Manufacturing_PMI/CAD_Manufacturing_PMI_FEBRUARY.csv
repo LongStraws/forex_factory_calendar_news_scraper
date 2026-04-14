@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=February#detail=144145,51.6,,52.2,03/02/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=February#detail=144145,gray,51.6,,52.2,03/02/2025,Mon

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=November#detail=136064,0.2%,0.2%,0.2%,13/11/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,red,CPI m/m,https://www.forexfactory.com/calendar?month=November#detail=136064,gray,0.2%,0.2%,0.2%,13/11/2024,Wed

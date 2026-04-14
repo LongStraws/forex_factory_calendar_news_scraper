@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-20/10/2025,15:30,CAD,orange,BOC Business Outlook Survey,https://www.forexfactory.com/calendar?month=October#detail=145196,,,,Mon
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+20/10/2025,15:30,CAD,orange,BOC Business Outlook Survey,https://www.forexfactory.com/calendar?month=October#detail=145196,neutral,,,,Mon

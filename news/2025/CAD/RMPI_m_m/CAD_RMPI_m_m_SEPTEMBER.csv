@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-22/09/2025,13:30,CAD,yellow,RMPI m/m,https://www.forexfactory.com/calendar?month=September#detail=145112,-0.6%,1.2%,0.3%,Mon
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+22/09/2025,13:30,CAD,yellow,RMPI m/m,https://www.forexfactory.com/calendar?month=September#detail=145112,red,-0.6%,1.2%,0.3%,Mon

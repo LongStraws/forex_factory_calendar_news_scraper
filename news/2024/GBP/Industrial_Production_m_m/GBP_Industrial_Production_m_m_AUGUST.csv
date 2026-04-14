@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=August#detail=138850,0.8%,0.1%,0.3%,15/08/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=August#detail=138850,green,0.8%,0.1%,0.3%,15/08/2024,Thu

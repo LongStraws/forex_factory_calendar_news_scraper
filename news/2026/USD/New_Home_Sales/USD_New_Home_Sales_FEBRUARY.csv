@@ -1,3 +1,3 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-Nov Data,USD,orange,New Home Sales,https://www.forexfactory.com/calendar?month=February#detail=152316,758K,,737K,20/02/2026,Fri
-15:00,USD,orange,New Home Sales,https://www.forexfactory.com/calendar?month=February#detail=146847,745K,732K,758K,20/02/2026,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+Nov Data,USD,orange,New Home Sales,https://www.forexfactory.com/calendar?month=February#detail=152316,gray,758K,,737K,20/02/2026,Fri
+15:00,USD,orange,New Home Sales,https://www.forexfactory.com/calendar?month=February#detail=146847,green,745K,732K,758K,20/02/2026,Fri

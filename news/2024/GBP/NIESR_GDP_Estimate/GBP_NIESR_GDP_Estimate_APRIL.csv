@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:02,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=April#detail=135759,0.4%,,0.2%,12/04/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:02,GBP,yellow,NIESR GDP Estimate,https://www.forexfactory.com/calendar?month=April#detail=135759,gray,0.4%,,0.2%,12/04/2024,Fri

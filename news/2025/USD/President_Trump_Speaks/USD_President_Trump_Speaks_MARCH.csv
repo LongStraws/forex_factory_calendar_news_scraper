@@ -1,12 +1,12 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-19:39,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=March#detail=145852,,,,03/03/2025,Mon
-02:10,USD,red,President Trump Speaks,https://www.forexfactory.com/calendar?month=March#detail=145853,,,,04/03/2025,Tue
-19:39,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=March#detail=145861,,,,06/03/2025,Thu
-16:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=March#detail=145864,,,,07/03/2025,Fri
-20:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=March#detail=145860,,,,07/03/2025,Fri
-21:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=March#detail=145871,,,,11/03/2025,Tue
-19:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=March#detail=145877,,,,14/03/2025,Fri
-14:40,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=March#detail=145885,,,,20/03/2025,Thu
-18:30,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=March#detail=145898,,,,24/03/2025,Mon
-20:00,USD,red,President Trump Speaks,https://www.forexfactory.com/calendar?month=March#detail=145915,,,,26/03/2025,Wed
-01:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=March#detail=145914,,,,26/03/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+19:39,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=March#detail=145852,neutral,,,,03/03/2025,Mon
+02:10,USD,red,President Trump Speaks,https://www.forexfactory.com/calendar?month=March#detail=145853,neutral,,,,04/03/2025,Tue
+19:39,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=March#detail=145861,neutral,,,,06/03/2025,Thu
+16:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=March#detail=145864,neutral,,,,07/03/2025,Fri
+20:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=March#detail=145860,neutral,,,,07/03/2025,Fri
+21:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=March#detail=145871,neutral,,,,11/03/2025,Tue
+19:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=March#detail=145877,neutral,,,,14/03/2025,Fri
+14:40,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=March#detail=145885,neutral,,,,20/03/2025,Thu
+18:30,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=March#detail=145898,neutral,,,,24/03/2025,Mon
+20:00,USD,red,President Trump Speaks,https://www.forexfactory.com/calendar?month=March#detail=145915,neutral,,,,26/03/2025,Wed
+01:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=March#detail=145914,neutral,,,,26/03/2025,Wed

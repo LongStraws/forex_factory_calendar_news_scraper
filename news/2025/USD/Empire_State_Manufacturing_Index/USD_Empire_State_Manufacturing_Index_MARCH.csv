@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:30,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=March#detail=141173,-20.0,-1.9,5.7,17/03/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:30,USD,orange,Empire State Manufacturing Index,https://www.forexfactory.com/calendar?month=March#detail=141173,red,-20.0,-1.9,5.7,17/03/2025,Mon

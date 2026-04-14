@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-19:30,CAD,red,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=May#detail=146079,,,,22/05/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+19:30,CAD,red,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=May#detail=146079,neutral,,,,22/05/2025,Thu

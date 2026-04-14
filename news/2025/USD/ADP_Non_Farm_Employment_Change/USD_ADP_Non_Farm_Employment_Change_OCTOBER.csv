@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-01/10/2025,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=October#detail=142728,-32K,52K,-3K,Wed
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+01/10/2025,13:15,USD,red,ADP Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=October#detail=142728,red,-32K,52K,-3K,Wed

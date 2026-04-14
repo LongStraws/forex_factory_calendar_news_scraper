@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-18:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=March#detail=146800,-307.5B,-304.4B,-94.6B,11/03/2026,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+18:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=March#detail=146800,red,-307.5B,-304.4B,-94.6B,11/03/2026,Wed

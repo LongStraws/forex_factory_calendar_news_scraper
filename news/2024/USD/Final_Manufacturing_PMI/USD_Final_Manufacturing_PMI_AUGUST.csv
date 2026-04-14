@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:45,USD,orange,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=August#detail=136850,49.6,49.5,49.5,01/08/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:45,USD,orange,Final Manufacturing PMI,https://www.forexfactory.com/calendar?month=August#detail=136850,gray,49.6,49.5,49.5,01/08/2024,Thu

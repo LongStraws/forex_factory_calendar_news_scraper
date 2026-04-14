@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:30,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=March#detail=148168,0.0%,1.1%,-0.9%,13/03/2026,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:30,USD,orange,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=March#detail=148168,red,0.0%,1.1%,-0.9%,13/03/2026,Fri

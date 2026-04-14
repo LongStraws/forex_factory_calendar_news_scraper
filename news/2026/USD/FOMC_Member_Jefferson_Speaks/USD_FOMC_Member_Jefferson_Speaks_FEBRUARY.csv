@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-17:00,USD,yellow,FOMC Member Jefferson Speaks,https://www.forexfactory.com/calendar?month=February#detail=152606,,,,06/02/2026,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+17:00,USD,yellow,FOMC Member Jefferson Speaks,https://www.forexfactory.com/calendar?month=February#detail=152606,neutral,,,,06/02/2026,Fri

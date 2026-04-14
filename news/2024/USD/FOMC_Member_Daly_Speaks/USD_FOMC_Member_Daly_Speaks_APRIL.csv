@@ -1,4 +1,4 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-18:30,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=April#detail=140097,,,,02/04/2024,Tue
-20:30,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=April#detail=140143,,,,12/04/2024,Fri
-01:00,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=April#detail=140146,,,,15/04/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+18:30,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=April#detail=140097,neutral,,,,02/04/2024,Tue
+20:30,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=April#detail=140143,neutral,,,,12/04/2024,Fri
+01:00,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=April#detail=140146,neutral,,,,15/04/2024,Mon

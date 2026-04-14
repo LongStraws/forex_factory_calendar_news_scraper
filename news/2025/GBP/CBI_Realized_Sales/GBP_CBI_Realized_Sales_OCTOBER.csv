@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-27/10/2025,11:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=October#detail=143432,-27,-28,-29,Mon
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+27/10/2025,11:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=October#detail=143432,gray,-27,-28,-29,Mon

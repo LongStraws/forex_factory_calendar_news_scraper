@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:00,GBP,yellow,MPC Member Haskel Speaks,https://www.forexfactory.com/calendar?month=July#detail=140372,,,,08/07/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:00,GBP,yellow,MPC Member Haskel Speaks,https://www.forexfactory.com/calendar?month=July#detail=140372,neutral,,,,08/07/2024,Mon

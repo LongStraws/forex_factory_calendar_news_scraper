@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:45,USD,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=December#detail=143950,52.9,54.0,54.1,16/12/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:45,USD,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=December#detail=143950,red,52.9,54.0,54.1,16/12/2025,Tue

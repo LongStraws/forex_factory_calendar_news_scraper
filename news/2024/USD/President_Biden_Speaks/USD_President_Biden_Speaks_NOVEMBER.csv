@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-19:30,USD,yellow,President Biden Speaks,https://www.forexfactory.com/calendar?month=November#detail=144119,,,,26/11/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+19:30,USD,yellow,President Biden Speaks,https://www.forexfactory.com/calendar?month=November#detail=144119,neutral,,,,26/11/2024,Tue

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=November#detail=144966,0.2%,0.2%,-0.1%,28/11/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=November#detail=144966,gray,0.2%,0.2%,-0.1%,28/11/2025,Fri

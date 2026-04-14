@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:15,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=March#detail=145082,229K,246K,239K,17/03/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:15,CAD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=March#detail=145082,red,229K,246K,239K,17/03/2025,Mon

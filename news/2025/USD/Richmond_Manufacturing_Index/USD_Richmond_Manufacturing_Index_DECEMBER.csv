@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,orange,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=December#detail=141194,-7,-8,-15,23/12/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,orange,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=December#detail=141194,green,-7,-8,-15,23/12/2025,Tue

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:30,CAD,orange,BOC Business Outlook Survey,https://www.forexfactory.com/calendar?month=January#detail=136717,,,,15/01/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:30,CAD,orange,BOC Business Outlook Survey,https://www.forexfactory.com/calendar?month=January#detail=136717,neutral,,,,15/01/2024,Mon

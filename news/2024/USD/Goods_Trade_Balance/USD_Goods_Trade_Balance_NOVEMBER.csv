@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=November#detail=136937,-99.1B,-102.2B,-108.7B,27/11/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=November#detail=136937,green,-99.1B,-102.2B,-108.7B,27/11/2024,Wed

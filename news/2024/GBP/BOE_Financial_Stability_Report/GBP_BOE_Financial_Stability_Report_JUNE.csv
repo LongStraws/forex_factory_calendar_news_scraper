@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-10:30,GBP,yellow,BOE Financial Stability Report,https://www.forexfactory.com/calendar?month=June#detail=135705,,,,27/06/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+10:30,GBP,yellow,BOE Financial Stability Report,https://www.forexfactory.com/calendar?month=June#detail=135705,neutral,,,,27/06/2024,Thu

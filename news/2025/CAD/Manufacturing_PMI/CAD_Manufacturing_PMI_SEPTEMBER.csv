@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-02/09/2025,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=September#detail=144152,48.3,,46.1,Tue
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+02/09/2025,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=September#detail=144152,gray,48.3,,46.1,Tue

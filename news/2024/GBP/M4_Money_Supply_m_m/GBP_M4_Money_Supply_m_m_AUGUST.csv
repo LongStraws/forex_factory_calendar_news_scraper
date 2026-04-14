@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=August#detail=138562,0.3%,0.5%,0.5%,30/08/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=August#detail=138562,red,0.3%,0.5%,0.5%,30/08/2024,Fri

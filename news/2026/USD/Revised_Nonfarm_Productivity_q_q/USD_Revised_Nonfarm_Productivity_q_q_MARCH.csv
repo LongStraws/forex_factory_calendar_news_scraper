@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:30,USD,yellow,Revised Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=March#detail=152107,1.8%,1.9%,2.8%,24/03/2026,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:30,USD,yellow,Revised Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=March#detail=152107,gray,1.8%,1.9%,2.8%,24/03/2026,Tue

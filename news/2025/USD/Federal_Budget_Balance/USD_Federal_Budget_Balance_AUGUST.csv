@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-19:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=August#detail=141575,-291.1B,-206.7B,27.0B,12/08/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+19:00,USD,yellow,Federal Budget Balance,https://www.forexfactory.com/calendar?month=August#detail=141575,red,-291.1B,-206.7B,27.0B,12/08/2025,Tue

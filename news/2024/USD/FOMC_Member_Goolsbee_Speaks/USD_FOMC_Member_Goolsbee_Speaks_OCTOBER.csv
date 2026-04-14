@@ -1,7 +1,7 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=October#detail=141884,,,,04/10/2024,Fri
-15:30,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=October#detail=141885,,,,04/10/2024,Fri
-21:00,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=October#detail=141886,,,,04/10/2024,Fri
-15:30,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=October#detail=141732,,,,09/10/2024,Wed
-14:45,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=October#detail=141738,,,,11/10/2024,Fri
-16:00,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=October#detail=141909,,,,17/10/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=October#detail=141884,neutral,,,,04/10/2024,Fri
+15:30,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=October#detail=141885,neutral,,,,04/10/2024,Fri
+21:00,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=October#detail=141886,neutral,,,,04/10/2024,Fri
+15:30,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=October#detail=141732,neutral,,,,09/10/2024,Wed
+14:45,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=October#detail=141738,neutral,,,,11/10/2024,Fri
+16:00,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=October#detail=141909,neutral,,,,17/10/2024,Thu

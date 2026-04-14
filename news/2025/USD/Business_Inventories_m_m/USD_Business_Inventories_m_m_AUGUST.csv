@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=August#detail=142401,0.2%,0.2%,0.0%,15/08/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=August#detail=142401,gray,0.2%,0.2%,0.0%,15/08/2025,Fri

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=May#detail=144577,-1.0%,-0.7%,-0.8%,19/05/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=May#detail=144577,red,-1.0%,-0.7%,-0.8%,19/05/2025,Mon

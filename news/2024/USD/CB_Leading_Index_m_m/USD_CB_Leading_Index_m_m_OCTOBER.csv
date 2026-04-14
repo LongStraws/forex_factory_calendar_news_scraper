@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=October#detail=138415,-0.5%,-0.3%,-0.3%,21/10/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,CB Leading Index m/m,https://www.forexfactory.com/calendar?month=October#detail=138415,red,-0.5%,-0.3%,-0.3%,21/10/2024,Mon

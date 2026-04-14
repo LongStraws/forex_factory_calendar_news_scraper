@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-09:00,GBP,orange,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=December#detail=144682,,,,04/12/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:00,GBP,orange,BOE Gov Bailey Speaks,https://www.forexfactory.com/calendar?month=December#detail=144682,neutral,,,,04/12/2024,Wed

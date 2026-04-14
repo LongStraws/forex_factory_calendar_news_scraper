@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=June#detail=138901,14.1B,14.5B,17.5B,21/06/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Public Sector Net Borrowing,https://www.forexfactory.com/calendar?month=June#detail=138901,green,14.1B,14.5B,17.5B,21/06/2024,Fri

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=January#detail=148037,0.5%,0.4%,0.2%,14/01/2026,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,red,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=January#detail=148037,green,0.5%,0.4%,0.2%,14/01/2026,Wed

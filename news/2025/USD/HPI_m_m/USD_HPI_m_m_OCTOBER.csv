@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-28/10/2025,13:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=October#detail=141561,0.4%,-0.1%,0.0%,Tue
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+28/10/2025,13:00,USD,yellow,HPI m/m,https://www.forexfactory.com/calendar?month=October#detail=141561,green,0.4%,-0.1%,0.0%,Tue

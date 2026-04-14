@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=November#detail=138873,-0.5%,0.1%,0.5%,15/11/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=November#detail=138873,red,-0.5%,0.1%,0.5%,15/11/2024,Fri

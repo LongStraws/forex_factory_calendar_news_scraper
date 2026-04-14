@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:30,USD,orange,Final GDP Price Index q/q,https://www.forexfactory.com/calendar?month=March#detail=136221,1.6%,1.6%,1.6%,28/03/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:30,USD,orange,Final GDP Price Index q/q,https://www.forexfactory.com/calendar?month=March#detail=136221,gray,1.6%,1.6%,1.6%,28/03/2024,Thu

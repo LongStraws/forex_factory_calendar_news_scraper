@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:30,USD,yellow,Building Permits,https://www.forexfactory.com/calendar?month=March#detail=141093,1.46M,1.45M,1.47M,18/03/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:30,USD,yellow,Building Permits,https://www.forexfactory.com/calendar?month=March#detail=141093,gray,1.46M,1.45M,1.47M,18/03/2025,Tue

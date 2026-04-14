@@ -1,5 +1,5 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:15,USD,yellow,ADP Weekly Employment Change,https://www.forexfactory.com/calendar?month=April#detail=151028,26.0K,,15.3K,07/04/2026,Tue
-13:15,USD,yellow,ADP Weekly Employment Change,https://www.forexfactory.com/calendar?month=April#detail=151029,,,26.0K,14/04/2026,Tue
-13:15,USD,yellow,ADP Weekly Employment Change,https://www.forexfactory.com/calendar?month=April#detail=151030,,,,21/04/2026,Tue
-13:15,USD,yellow,ADP Weekly Employment Change,https://www.forexfactory.com/calendar?month=April#detail=151031,,,,28/04/2026,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:15,USD,yellow,ADP Weekly Employment Change,https://www.forexfactory.com/calendar?month=April#detail=151028,gray,26.0K,,15.3K,07/04/2026,Tue
+13:15,USD,yellow,ADP Weekly Employment Change,https://www.forexfactory.com/calendar?month=April#detail=151029,neutral,,,26.0K,14/04/2026,Tue
+13:15,USD,yellow,ADP Weekly Employment Change,https://www.forexfactory.com/calendar?month=April#detail=151030,neutral,,,,21/04/2026,Tue
+13:15,USD,yellow,ADP Weekly Employment Change,https://www.forexfactory.com/calendar?month=April#detail=151031,neutral,,,,28/04/2026,Tue

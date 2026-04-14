@@ -1,5 +1,5 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=April#detail=137576,3.2M,-0.3M,3.2M,03/04/2024,Wed
-15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=April#detail=137577,5.8M,0.9M,3.2M,10/04/2024,Wed
-15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=April#detail=137578,2.7M,1.6M,5.8M,17/04/2024,Wed
-15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=April#detail=137579,-6.4M,1.6M,2.7M,24/04/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=April#detail=137576,red,3.2M,-0.3M,3.2M,03/04/2024,Wed
+15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=April#detail=137577,red,5.8M,0.9M,3.2M,10/04/2024,Wed
+15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=April#detail=137578,red,2.7M,1.6M,5.8M,17/04/2024,Wed
+15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=April#detail=137579,green,-6.4M,1.6M,2.7M,24/04/2024,Wed

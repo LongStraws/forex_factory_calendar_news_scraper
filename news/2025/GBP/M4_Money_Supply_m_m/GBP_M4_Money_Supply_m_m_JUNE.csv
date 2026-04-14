@@ -1,3 +1,3 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
-09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=June#detail=143385,,0.0%,0.2%,0.3%,02/06/2025,Mon
-09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=June#detail=143388,,0.2%,0.2%,-0.1%,30/06/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=June#detail=143385,red,0.0%,0.2%,0.3%,02/06/2025,Mon
+09:30,GBP,yellow,M4 Money Supply m/m,https://www.forexfactory.com/calendar?month=June#detail=143388,gray,0.2%,0.2%,-0.1%,30/06/2025,Mon

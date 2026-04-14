@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=January#detail=148343,2.7%,2.7%,2.7%,13/01/2026,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=January#detail=148343,gray,2.7%,2.7%,2.7%,13/01/2026,Tue

@@ -1,4 +1,4 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-04/09/2025,17:05,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=September#detail=146459,,,,Thu
-25/09/2025,14:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=September#detail=147823,,,,Thu
-29/09/2025,18:30,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=September#detail=147869,,,,Mon
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+04/09/2025,17:05,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=September#detail=146459,neutral,,,,Thu
+25/09/2025,14:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=September#detail=147823,neutral,,,,Thu
+29/09/2025,18:30,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=September#detail=147869,neutral,,,,Mon

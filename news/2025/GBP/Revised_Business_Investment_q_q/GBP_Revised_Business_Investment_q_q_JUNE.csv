@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
-07:00,GBP,yellow,Revised Business Investment q/q,https://www.forexfactory.com/calendar?month=June#detail=143765,,3.9%,5.8%,5.9%,30/06/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Revised Business Investment q/q,https://www.forexfactory.com/calendar?month=June#detail=143765,red,3.9%,5.8%,5.9%,30/06/2025,Mon

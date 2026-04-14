@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Current Account,https://www.forexfactory.com/calendar?month=March#detail=151582,-18.4B,-24.0B,-10.7B,31/03/2026,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Current Account,https://www.forexfactory.com/calendar?month=March#detail=151582,green,-18.4B,-24.0B,-10.7B,31/03/2026,Tue

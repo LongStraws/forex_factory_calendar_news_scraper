@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-18:01,USD,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=April#detail=148896,4.28|2.4,,4.22|2.4,08/04/2026,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+18:01,USD,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=April#detail=148896,gray,4.28|2.4,,4.22|2.4,08/04/2026,Wed

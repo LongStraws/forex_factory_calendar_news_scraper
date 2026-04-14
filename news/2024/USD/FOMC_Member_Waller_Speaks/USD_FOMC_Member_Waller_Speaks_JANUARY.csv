@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-16:00,USD,yellow,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=January#detail=139917,,,,16/01/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+16:00,USD,yellow,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=January#detail=139917,neutral,,,,16/01/2024,Tue

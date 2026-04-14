@@ -1,5 +1,5 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-17:30,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=February#detail=145685,,,,03/02/2025,Mon
-16:00,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=February#detail=145686,,,,04/02/2025,Tue
-17:00,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=February#detail=145722,,,,12/02/2025,Wed
-17:00,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=February#detail=145811,,,,26/02/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+17:30,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=February#detail=145685,neutral,,,,03/02/2025,Mon
+16:00,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=February#detail=145686,neutral,,,,04/02/2025,Tue
+17:00,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=February#detail=145722,neutral,,,,12/02/2025,Wed
+17:00,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=February#detail=145811,neutral,,,,26/02/2025,Wed

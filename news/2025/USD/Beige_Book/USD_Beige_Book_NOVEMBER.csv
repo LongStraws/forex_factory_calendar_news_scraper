@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-19:00,USD,yellow,Beige Book,https://www.forexfactory.com/calendar?month=November#detail=144615,,,,26/11/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+19:00,USD,yellow,Beige Book,https://www.forexfactory.com/calendar?month=November#detail=144615,neutral,,,,26/11/2025,Wed

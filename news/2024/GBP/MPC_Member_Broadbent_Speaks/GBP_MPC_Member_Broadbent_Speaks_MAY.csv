@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-10:00,GBP,yellow,MPC Member Broadbent Speaks,https://www.forexfactory.com/calendar?month=May#detail=140268,,,,20/05/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+10:00,GBP,yellow,MPC Member Broadbent Speaks,https://www.forexfactory.com/calendar?month=May#detail=140268,neutral,,,,20/05/2024,Mon

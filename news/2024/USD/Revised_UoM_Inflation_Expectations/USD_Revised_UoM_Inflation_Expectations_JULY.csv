@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=July#detail=136345,2.9%,,2.9%,26/07/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,Revised UoM Inflation Expectations,https://www.forexfactory.com/calendar?month=July#detail=136345,gray,2.9%,,2.9%,26/07/2024,Fri

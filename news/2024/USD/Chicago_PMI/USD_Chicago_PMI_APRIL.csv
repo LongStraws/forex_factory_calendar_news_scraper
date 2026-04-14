@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=April#detail=136632,37.9,44.9,41.4,30/04/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:45,USD,orange,Chicago PMI,https://www.forexfactory.com/calendar?month=April#detail=136632,red,37.9,44.9,41.4,30/04/2024,Tue

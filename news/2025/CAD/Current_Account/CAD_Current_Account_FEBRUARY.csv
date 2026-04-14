@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,CAD,yellow,Current Account,https://www.forexfactory.com/calendar?month=February#detail=145012,-5.0B,-3.2B,-3.6B,27/02/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,yellow,Current Account,https://www.forexfactory.com/calendar?month=February#detail=145012,red,-5.0B,-3.2B,-3.6B,27/02/2025,Thu

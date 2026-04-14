@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-09:30,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=May#detail=143384,64K,64K,65K,01/05/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:30,GBP,yellow,Mortgage Approvals,https://www.forexfactory.com/calendar?month=May#detail=143384,gray,64K,64K,65K,01/05/2025,Thu

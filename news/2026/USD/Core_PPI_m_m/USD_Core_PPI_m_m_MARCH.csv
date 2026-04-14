@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:30,USD,red,Core PPI m/m,https://www.forexfactory.com/calendar?month=March#detail=148397,0.5%,0.3%,0.8%,18/03/2026,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:30,USD,red,Core PPI m/m,https://www.forexfactory.com/calendar?month=March#detail=148397,green,0.5%,0.3%,0.8%,18/03/2026,Wed

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-All Day,USD,yellow,Wards Total Vehicle Sales,https://www.forexfactory.com/calendar?month=September#detail=137026,15.1M,15.4M,15.8M,04/09/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+All Day,USD,yellow,Wards Total Vehicle Sales,https://www.forexfactory.com/calendar?month=September#detail=137026,red,15.1M,15.4M,15.8M,04/09/2024,Wed

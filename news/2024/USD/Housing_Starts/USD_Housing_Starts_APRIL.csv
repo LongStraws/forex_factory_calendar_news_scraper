@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=April#detail=136680,1.32M,1.48M,1.55M,16/04/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,yellow,Housing Starts,https://www.forexfactory.com/calendar?month=April#detail=136680,red,1.32M,1.48M,1.55M,16/04/2024,Tue

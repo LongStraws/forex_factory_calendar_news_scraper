@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=January#detail=142606,0.2%,0.4%,0.4%,14/01/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,red,PPI m/m,https://www.forexfactory.com/calendar?month=January#detail=142606,red,0.2%,0.4%,0.4%,14/01/2025,Tue

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:00,USD,orange,New Home Sales,https://www.forexfactory.com/calendar?month=March#detail=141124,676K,682K,664K,25/03/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:00,USD,orange,New Home Sales,https://www.forexfactory.com/calendar?month=March#detail=141124,red,676K,682K,664K,25/03/2025,Tue

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=February#detail=148069,-0.7%,-0.4%,2.7%,23/02/2026,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=February#detail=148069,red,-0.7%,-0.4%,2.7%,23/02/2026,Mon

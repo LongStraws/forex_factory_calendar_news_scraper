@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:30,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=March#detail=138107,0.7%,0.0%,-0.1%,18/03/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:30,CAD,yellow,IPPI m/m,https://www.forexfactory.com/calendar?month=March#detail=138107,green,0.7%,0.0%,-0.1%,18/03/2024,Mon

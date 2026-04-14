@@ -1,3 +1,3 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-16:10,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=October#detail=141493,,,,01/10/2024,Tue
-14:15,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=October#detail=141891,,,,10/10/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+16:10,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=October#detail=141493,neutral,,,,01/10/2024,Tue
+14:15,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=October#detail=141891,neutral,,,,10/10/2024,Thu

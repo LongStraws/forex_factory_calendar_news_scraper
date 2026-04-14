@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-23/09/2025,15:05,USD,orange,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=September#detail=141191,-17,-5,-7,Tue
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+23/09/2025,15:05,USD,orange,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=September#detail=141191,red,-17,-5,-7,Tue

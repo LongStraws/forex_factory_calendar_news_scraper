@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-00:40,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=April#detail=145947,,,,14/04/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+00:40,USD,yellow,FOMC Member Bostic Speaks,https://www.forexfactory.com/calendar?month=April#detail=145947,neutral,,,,14/04/2025,Mon

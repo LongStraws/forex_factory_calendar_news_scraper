@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-17:40,USD,yellow,Mortgage Delinquencies,https://www.forexfactory.com/calendar?month=February#detail=146860,4.26%,,3.99%,12/02/2026,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+17:40,USD,yellow,Mortgage Delinquencies,https://www.forexfactory.com/calendar?month=February#detail=146860,gray,4.26%,,3.99%,12/02/2026,Thu

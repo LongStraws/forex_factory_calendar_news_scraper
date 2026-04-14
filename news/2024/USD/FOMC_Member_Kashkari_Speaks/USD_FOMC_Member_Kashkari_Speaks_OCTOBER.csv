@@ -1,5 +1,5 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-18:50,USD,yellow,FOMC Member Kashkari Speaks,https://www.forexfactory.com/calendar?month=October#detail=141723,,,,07/10/2024,Mon
-14:00,USD,yellow,FOMC Member Kashkari Speaks,https://www.forexfactory.com/calendar?month=October#detail=141904,,,,14/10/2024,Mon
-22:00,USD,yellow,FOMC Member Kashkari Speaks,https://www.forexfactory.com/calendar?month=October#detail=141905,,,,14/10/2024,Mon
-18:00,USD,yellow,FOMC Member Kashkari Speaks,https://www.forexfactory.com/calendar?month=October#detail=142293,,,,21/10/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+18:50,USD,yellow,FOMC Member Kashkari Speaks,https://www.forexfactory.com/calendar?month=October#detail=141723,neutral,,,,07/10/2024,Mon
+14:00,USD,yellow,FOMC Member Kashkari Speaks,https://www.forexfactory.com/calendar?month=October#detail=141904,neutral,,,,14/10/2024,Mon
+22:00,USD,yellow,FOMC Member Kashkari Speaks,https://www.forexfactory.com/calendar?month=October#detail=141905,neutral,,,,14/10/2024,Mon
+18:00,USD,yellow,FOMC Member Kashkari Speaks,https://www.forexfactory.com/calendar?month=October#detail=142293,neutral,,,,21/10/2024,Mon

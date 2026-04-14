@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=July#detail=143726,0.4%,0.4%,0.6%,11/07/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=July#detail=143726,gray,0.4%,0.4%,0.6%,11/07/2025,Fri

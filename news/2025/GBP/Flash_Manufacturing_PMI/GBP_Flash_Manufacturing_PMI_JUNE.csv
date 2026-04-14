@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
-09:30,GBP,red,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=June#detail=142191,,47.7,46.9,46.4,23/06/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:30,GBP,red,Flash Manufacturing PMI,https://www.forexfactory.com/calendar?month=June#detail=142191,green,47.7,46.9,46.4,23/06/2025,Mon

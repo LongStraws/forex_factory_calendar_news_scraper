@@ -1,3 +1,3 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-18:00,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=December#detail=144204,,,,06/12/2024,Fri
-12:30,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=December#detail=145227,,,,20/12/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+18:00,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=December#detail=144204,neutral,,,,06/12/2024,Fri
+12:30,USD,yellow,FOMC Member Daly Speaks,https://www.forexfactory.com/calendar?month=December#detail=145227,neutral,,,,20/12/2024,Fri

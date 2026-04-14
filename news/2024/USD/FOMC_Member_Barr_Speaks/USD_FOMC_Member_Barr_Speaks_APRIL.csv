@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-18:10,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=April#detail=140122,,,,03/04/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+18:10,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=April#detail=140122,neutral,,,,03/04/2024,Wed

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=October#detail=138790,1.7%,1.9%,2.2%,16/10/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=October#detail=138790,red,1.7%,1.9%,2.2%,16/10/2024,Wed

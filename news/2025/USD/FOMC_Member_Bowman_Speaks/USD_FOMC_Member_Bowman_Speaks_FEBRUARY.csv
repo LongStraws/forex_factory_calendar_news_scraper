@@ -1,6 +1,6 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-20:00,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=February#detail=145700,,,,05/02/2025,Wed
-14:25,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=February#detail=145702,,,,07/02/2025,Fri
-20:30,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=February#detail=145727,,,,11/02/2025,Tue
-15:20,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=February#detail=145780,,,,17/02/2025,Mon
-16:45,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=February#detail=145824,,,,27/02/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+20:00,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=February#detail=145700,neutral,,,,05/02/2025,Wed
+14:25,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=February#detail=145702,neutral,,,,07/02/2025,Fri
+20:30,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=February#detail=145727,neutral,,,,11/02/2025,Tue
+15:20,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=February#detail=145780,neutral,,,,17/02/2025,Mon
+16:45,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=February#detail=145824,neutral,,,,27/02/2025,Thu

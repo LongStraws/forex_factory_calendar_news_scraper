@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-17/10/2025,13:30,CAD,yellow,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=October#detail=145065,25.92B,11.61B,26.66B,Fri
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+17/10/2025,13:30,CAD,yellow,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=October#detail=145065,green,25.92B,11.61B,26.66B,Fri

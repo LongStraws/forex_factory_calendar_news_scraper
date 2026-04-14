@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=November#detail=138147,14.5K,27.9K,46.7K,08/11/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,red,Employment Change,https://www.forexfactory.com/calendar?month=November#detail=138147,red,14.5K,27.9K,46.7K,08/11/2024,Fri

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:00,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=March#detail=141284,57.0,57.9,57.9,28/03/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:00,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=March#detail=141284,red,57.0,57.9,57.9,28/03/2025,Fri

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=March#detail=151525,-0.1%,0.3%,-0.9%,13/03/2026,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=March#detail=151525,red,-0.1%,0.3%,-0.9%,13/03/2026,Fri

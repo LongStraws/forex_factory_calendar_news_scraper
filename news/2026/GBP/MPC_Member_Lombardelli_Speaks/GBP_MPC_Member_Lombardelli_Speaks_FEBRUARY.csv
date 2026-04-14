@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-09:00,GBP,yellow,MPC Member Lombardelli Speaks,https://www.forexfactory.com/calendar?month=February#detail=152674,,,,26/02/2026,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:00,GBP,yellow,MPC Member Lombardelli Speaks,https://www.forexfactory.com/calendar?month=February#detail=152674,neutral,,,,26/02/2026,Thu

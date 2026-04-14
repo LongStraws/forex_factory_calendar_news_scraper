@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=June#detail=136908,0.7%,0.7%,0.8%,04/06/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=June#detail=136908,gray,0.7%,0.7%,0.8%,04/06/2024,Tue

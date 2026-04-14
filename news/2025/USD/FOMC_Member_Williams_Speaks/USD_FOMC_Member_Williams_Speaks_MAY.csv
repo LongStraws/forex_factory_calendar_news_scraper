@@ -1,7 +1,7 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=May#detail=145986,,,,09/05/2025,Fri
-16:30,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=May#detail=145989,,,,09/05/2025,Fri
-22:20,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=May#detail=146052,,,,18/05/2025,Sun
-13:45,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=May#detail=146045,,,,19/05/2025,Mon
-19:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=May#detail=146038,,,,22/05/2025,Thu
-01:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=May#detail=146083,,,,27/05/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=May#detail=145986,neutral,,,,09/05/2025,Fri
+16:30,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=May#detail=145989,neutral,,,,09/05/2025,Fri
+22:20,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=May#detail=146052,neutral,,,,18/05/2025,Sun
+13:45,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=May#detail=146045,neutral,,,,19/05/2025,Mon
+19:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=May#detail=146038,neutral,,,,22/05/2025,Thu
+01:00,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=May#detail=146083,neutral,,,,27/05/2025,Tue

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-09:00,USD,orange,Treasury Sec Yellen Speaks,https://www.forexfactory.com/calendar?month=May#detail=140256,,,,21/05/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:00,USD,orange,Treasury Sec Yellen Speaks,https://www.forexfactory.com/calendar?month=May#detail=140256,neutral,,,,21/05/2024,Tue

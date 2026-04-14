@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=April#detail=138827,-1.9%,-0.4%,1.1%,12/04/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=April#detail=138827,red,-1.9%,-0.4%,1.1%,12/04/2024,Fri

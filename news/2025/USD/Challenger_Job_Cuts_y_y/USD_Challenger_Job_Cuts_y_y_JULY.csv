@@ -1,3 +1,3 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=July#detail=142741,-1.6%,,47.0%,02/07/2025,Wed
-12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=July#detail=142742,139.8%,,-1.6%,31/07/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=July#detail=142741,gray,-1.6%,,47.0%,02/07/2025,Wed
+12:30,USD,yellow,Challenger Job Cuts y/y,https://www.forexfactory.com/calendar?month=July#detail=142742,gray,139.8%,,-1.6%,31/07/2025,Thu

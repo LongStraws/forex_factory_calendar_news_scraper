@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,Personal Spending m/m,https://www.forexfactory.com/calendar?month=December#detail=150983,0.3%,0.3%,0.5%,05/12/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,Personal Spending m/m,https://www.forexfactory.com/calendar?month=December#detail=150983,gray,0.3%,0.3%,0.5%,05/12/2025,Fri

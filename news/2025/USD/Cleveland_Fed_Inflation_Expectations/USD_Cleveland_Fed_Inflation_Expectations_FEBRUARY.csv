@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:45,USD,yellow,Cleveland Fed Inflation Expectations,https://www.forexfactory.com/calendar?month=February#detail=144616,3.2%,,3.8%,10/02/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:45,USD,yellow,Cleveland Fed Inflation Expectations,https://www.forexfactory.com/calendar?month=February#detail=144616,gray,3.2%,,3.8%,10/02/2025,Mon

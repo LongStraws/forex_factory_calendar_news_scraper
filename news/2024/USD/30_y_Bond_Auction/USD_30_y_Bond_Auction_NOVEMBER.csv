@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-18:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=November#detail=137334,4.61|2.6,,4.39|2.5,06/11/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+18:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=November#detail=137334,gray,4.61|2.6,,4.39|2.5,06/11/2024,Wed

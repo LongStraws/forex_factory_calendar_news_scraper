@@ -1,6 +1,6 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=August#detail=146350,,,,12/08/2025,Tue
-13:00,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=August#detail=146351,,,,13/08/2025,Wed
-19:00,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=August#detail=146354,,,,14/08/2025,Thu
-13:30,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=August#detail=146399,,,,26/08/2025,Tue
-16:55,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=August#detail=146400,,,,27/08/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=August#detail=146350,neutral,,,,12/08/2025,Tue
+13:00,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=August#detail=146351,neutral,,,,13/08/2025,Wed
+19:00,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=August#detail=146354,neutral,,,,14/08/2025,Thu
+13:30,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=August#detail=146399,neutral,,,,26/08/2025,Tue
+16:55,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=August#detail=146400,neutral,,,,27/08/2025,Wed

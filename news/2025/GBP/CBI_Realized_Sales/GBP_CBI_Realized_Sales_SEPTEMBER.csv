@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-25/09/2025,11:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=September#detail=143436,-29,-31,-32,Thu
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+25/09/2025,11:00,GBP,yellow,CBI Realized Sales,https://www.forexfactory.com/calendar?month=September#detail=143436,green,-29,-31,-32,Thu

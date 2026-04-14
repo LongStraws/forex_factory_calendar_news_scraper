@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:00,GBP,yellow,BOE Inflation Letter,https://www.forexfactory.com/calendar?month=March#detail=140099,,,,21/03/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:00,GBP,yellow,BOE Inflation Letter,https://www.forexfactory.com/calendar?month=March#detail=140099,neutral,,,,21/03/2024,Thu

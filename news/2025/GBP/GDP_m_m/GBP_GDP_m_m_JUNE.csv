@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
-07:00,GBP,red,GDP m/m,https://www.forexfactory.com/calendar?month=June#detail=143719,,-0.3%,-0.1%,0.2%,12/06/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,red,GDP m/m,https://www.forexfactory.com/calendar?month=June#detail=143719,red,-0.3%,-0.1%,0.2%,12/06/2025,Thu

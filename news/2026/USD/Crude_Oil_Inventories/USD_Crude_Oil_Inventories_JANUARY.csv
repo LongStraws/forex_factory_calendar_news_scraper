@@ -1,5 +1,5 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=January#detail=148917,-3.8M,-1.2M,-1.9M,07/01/2026,Wed
-15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=January#detail=148918,3.4M,-1.7M,-3.8M,14/01/2026,Wed
-17:00,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=January#detail=148919,3.6M,-1.0M,3.4M,22/01/2026,Thu
-15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=January#detail=148920,-2.3M,-0.2M,3.6M,28/01/2026,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=January#detail=148917,green,-3.8M,-1.2M,-1.9M,07/01/2026,Wed
+15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=January#detail=148918,red,3.4M,-1.7M,-3.8M,14/01/2026,Wed
+17:00,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=January#detail=148919,red,3.6M,-1.0M,3.4M,22/01/2026,Thu
+15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=January#detail=148920,green,-2.3M,-0.2M,3.6M,28/01/2026,Wed

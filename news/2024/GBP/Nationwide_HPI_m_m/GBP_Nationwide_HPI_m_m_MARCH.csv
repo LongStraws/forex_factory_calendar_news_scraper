@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=March#detail=135773,0.7%,0.2%,0.7%,01/03/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Nationwide HPI m/m,https://www.forexfactory.com/calendar?month=March#detail=135773,green,0.7%,0.2%,0.7%,01/03/2024,Fri

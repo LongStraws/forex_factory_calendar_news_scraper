@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-20:30,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=March#detail=145883,,,,27/03/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+20:30,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=March#detail=145883,neutral,,,,27/03/2025,Thu

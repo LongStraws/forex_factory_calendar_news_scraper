@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-16:00,GBP,yellow,MPC Member Ramsden Speaks,https://www.forexfactory.com/calendar?month=November#detail=143314,,,,20/11/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+16:00,GBP,yellow,MPC Member Ramsden Speaks,https://www.forexfactory.com/calendar?month=November#detail=143314,neutral,,,,20/11/2024,Wed

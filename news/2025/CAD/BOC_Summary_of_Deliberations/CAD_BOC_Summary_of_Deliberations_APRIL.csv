@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-18:30,CAD,yellow,BOC Summary of Deliberations,https://www.forexfactory.com/calendar?month=April#detail=141416,,,,30/04/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+18:30,CAD,yellow,BOC Summary of Deliberations,https://www.forexfactory.com/calendar?month=April#detail=141416,neutral,,,,30/04/2025,Wed

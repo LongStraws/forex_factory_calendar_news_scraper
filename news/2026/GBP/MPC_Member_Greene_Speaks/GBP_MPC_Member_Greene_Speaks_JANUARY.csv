@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-09:30,GBP,yellow,MPC Member Greene Speaks,https://www.forexfactory.com/calendar?month=January#detail=152081,,,,23/01/2026,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:30,GBP,yellow,MPC Member Greene Speaks,https://www.forexfactory.com/calendar?month=January#detail=152081,neutral,,,,23/01/2026,Fri

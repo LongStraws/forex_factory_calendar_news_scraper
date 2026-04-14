@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-03/09/2025,13:30,CAD,yellow,Labor Productivity q/q,https://www.forexfactory.com/calendar?month=September#detail=144994,-1.0%,-0.2%,-0.1%,Wed
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+03/09/2025,13:30,CAD,yellow,Labor Productivity q/q,https://www.forexfactory.com/calendar?month=September#detail=144994,green,-1.0%,-0.2%,-0.1%,Wed

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-20:30,USD,orange,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=March#detail=145842,,,,06/03/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+20:30,USD,orange,FOMC Member Waller Speaks,https://www.forexfactory.com/calendar?month=March#detail=145842,neutral,,,,06/03/2025,Thu

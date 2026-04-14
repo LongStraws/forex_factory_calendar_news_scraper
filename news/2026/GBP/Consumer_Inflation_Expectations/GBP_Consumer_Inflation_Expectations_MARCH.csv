@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-09:30,GBP,yellow,Consumer Inflation Expectations,https://www.forexfactory.com/calendar?month=March#detail=150690,3.2%,,3.5%,13/03/2026,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:30,GBP,yellow,Consumer Inflation Expectations,https://www.forexfactory.com/calendar?month=March#detail=150690,gray,3.2%,,3.5%,13/03/2026,Fri

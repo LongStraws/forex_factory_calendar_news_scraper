@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,CAD,yellow,Core CPI m/m,https://www.forexfactory.com/calendar?month=August#detail=138272,0.3%,,-0.1%,20/08/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,yellow,Core CPI m/m,https://www.forexfactory.com/calendar?month=August#detail=138272,gray,0.3%,,-0.1%,20/08/2024,Tue

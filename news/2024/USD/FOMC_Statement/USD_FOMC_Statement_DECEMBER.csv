@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-19:00,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=December#detail=136117,,,,18/12/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+19:00,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=December#detail=136117,neutral,,,,18/12/2024,Wed

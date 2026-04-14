@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:35,USD,yellow,FOMC Member Schmid Speaks,https://www.forexfactory.com/calendar?month=May#detail=146070,,,,23/05/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:35,USD,yellow,FOMC Member Schmid Speaks,https://www.forexfactory.com/calendar?month=May#detail=146070,neutral,,,,23/05/2025,Fri

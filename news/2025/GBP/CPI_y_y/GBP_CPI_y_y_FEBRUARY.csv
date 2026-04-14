@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=February#detail=143572,3.0%,2.8%,2.5%,19/02/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,red,CPI y/y,https://www.forexfactory.com/calendar?month=February#detail=143572,green,3.0%,2.8%,2.5%,19/02/2025,Wed

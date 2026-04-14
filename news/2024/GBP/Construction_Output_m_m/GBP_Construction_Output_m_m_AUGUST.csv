@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=August#detail=138846,0.5%,-0.3%,1.7%,15/08/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=August#detail=138846,green,0.5%,-0.3%,1.7%,15/08/2024,Thu

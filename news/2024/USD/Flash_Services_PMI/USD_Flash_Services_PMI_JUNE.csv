@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:45,USD,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=June#detail=138658,55.1,53.4,54.8,21/06/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:45,USD,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=June#detail=138658,green,55.1,53.4,54.8,21/06/2024,Fri

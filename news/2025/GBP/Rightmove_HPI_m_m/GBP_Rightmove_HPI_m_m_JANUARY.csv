@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-00:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=January#detail=143505,1.7%,,-1.7%,19/01/2025,Sun
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+00:01,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=January#detail=143505,gray,1.7%,,-1.7%,19/01/2025,Sun

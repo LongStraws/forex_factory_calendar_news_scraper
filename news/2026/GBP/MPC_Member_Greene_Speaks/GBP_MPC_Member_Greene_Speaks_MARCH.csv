@@ -1,3 +1,3 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:00,GBP,yellow,MPC Member Greene Speaks,https://www.forexfactory.com/calendar?month=March#detail=152751,,,,25/03/2026,Wed
-16:30,GBP,yellow,MPC Member Greene Speaks,https://www.forexfactory.com/calendar?month=March#detail=152756,,,,26/03/2026,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:00,GBP,yellow,MPC Member Greene Speaks,https://www.forexfactory.com/calendar?month=March#detail=152751,neutral,,,,25/03/2026,Wed
+16:30,GBP,yellow,MPC Member Greene Speaks,https://www.forexfactory.com/calendar?month=March#detail=152756,neutral,,,,26/03/2026,Thu

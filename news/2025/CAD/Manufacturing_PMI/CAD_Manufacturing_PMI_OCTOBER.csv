@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-01/10/2025,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=October#detail=144153,47.7,,48.3,Wed
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+01/10/2025,14:30,CAD,yellow,Manufacturing PMI,https://www.forexfactory.com/calendar?month=October#detail=144153,gray,47.7,,48.3,Wed

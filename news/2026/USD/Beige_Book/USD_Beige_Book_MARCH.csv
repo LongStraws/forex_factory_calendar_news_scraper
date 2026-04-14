@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-19:00,USD,yellow,Beige Book,https://www.forexfactory.com/calendar?month=March#detail=148631,,,,04/03/2026,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+19:00,USD,yellow,Beige Book,https://www.forexfactory.com/calendar?month=March#detail=148631,neutral,,,,04/03/2026,Wed

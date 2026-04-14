@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-10:00,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=March#detail=143917,100.7,100.9,102.8,11/03/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+10:00,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=March#detail=143917,gray,100.7,100.9,102.8,11/03/2025,Tue

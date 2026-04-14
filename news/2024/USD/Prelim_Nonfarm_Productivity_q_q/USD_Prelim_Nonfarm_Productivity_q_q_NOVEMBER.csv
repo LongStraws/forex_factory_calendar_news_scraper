@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,yellow,Prelim Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=November#detail=136513,2.2%,2.6%,2.5%,07/11/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,yellow,Prelim Nonfarm Productivity q/q,https://www.forexfactory.com/calendar?month=November#detail=136513,green,2.2%,2.6%,2.5%,07/11/2024,Thu

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:30,CAD,yellow,BOC Business Outlook Survey,https://www.forexfactory.com/calendar?month=July#detail=145195,,,,21/07/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:30,CAD,yellow,BOC Business Outlook Survey,https://www.forexfactory.com/calendar?month=July#detail=145195,neutral,,,,21/07/2025,Mon

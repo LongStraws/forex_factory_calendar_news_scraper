@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=March#detail=151411,-0.5%,0.3%,0.0%,25/03/2026,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,PPI Output m/m,https://www.forexfactory.com/calendar?month=March#detail=151411,red,-0.5%,0.3%,0.0%,25/03/2026,Wed

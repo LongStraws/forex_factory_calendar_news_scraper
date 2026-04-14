@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:15,USD,yellow,FOMC Member Kugler Speaks,https://www.forexfactory.com/calendar?month=July#detail=146322,,,,17/07/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:15,USD,yellow,FOMC Member Kugler Speaks,https://www.forexfactory.com/calendar?month=July#detail=146322,neutral,,,,17/07/2025,Thu

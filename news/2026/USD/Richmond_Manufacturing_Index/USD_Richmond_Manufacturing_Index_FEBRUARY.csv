@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,orange,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=February#detail=146968,-10,-8,-6,24/02/2026,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,orange,Richmond Manufacturing Index,https://www.forexfactory.com/calendar?month=February#detail=146968,red,-10,-8,-6,24/02/2026,Tue

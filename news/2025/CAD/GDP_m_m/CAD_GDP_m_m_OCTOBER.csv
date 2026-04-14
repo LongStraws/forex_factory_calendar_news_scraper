@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-31/10/2025,12:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=October#detail=144965,-0.3%,0.0%,0.3%,Fri
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+31/10/2025,12:30,CAD,red,GDP m/m,https://www.forexfactory.com/calendar?month=October#detail=144965,red,-0.3%,0.0%,0.3%,Fri

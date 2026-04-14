@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:15,USD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=September#detail=136293,78.0%,77.9%,77.4%,17/09/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:15,USD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=September#detail=136293,gray,78.0%,77.9%,77.4%,17/09/2024,Tue

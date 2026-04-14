@@ -1,3 +1,3 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-22/09/2025,17:00,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=September#detail=147817,,,,Mon
-26/09/2025,14:00,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=September#detail=147827,,,,Fri
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+22/09/2025,17:00,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=September#detail=147817,neutral,,,,Mon
+26/09/2025,14:00,USD,yellow,FOMC Member Barkin Speaks,https://www.forexfactory.com/calendar?month=September#detail=147827,neutral,,,,Fri

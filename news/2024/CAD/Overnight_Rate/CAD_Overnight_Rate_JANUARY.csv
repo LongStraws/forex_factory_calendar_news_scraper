@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:45,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=January#detail=136424,5.00%,5.00%,5.00%,24/01/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:45,CAD,red,Overnight Rate,https://www.forexfactory.com/calendar?month=January#detail=136424,gray,5.00%,5.00%,5.00%,24/01/2024,Wed

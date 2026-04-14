@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:15,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=September#detail=140524,,,,23/09/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:15,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=September#detail=140524,neutral,,,,23/09/2024,Mon

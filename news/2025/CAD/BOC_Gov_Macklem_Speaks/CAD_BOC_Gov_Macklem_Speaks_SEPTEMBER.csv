@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-23/09/2025,19:15,CAD,red,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=September#detail=147843,,,,Tue
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+23/09/2025,19:15,CAD,red,BOC Gov Macklem Speaks,https://www.forexfactory.com/calendar?month=September#detail=147843,neutral,,,,Tue

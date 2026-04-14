@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-19:30,USD,red,FOMC Press Conference,https://www.forexfactory.com/calendar?month=December#detail=136119,,,,18/12/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+19:30,USD,red,FOMC Press Conference,https://www.forexfactory.com/calendar?month=December#detail=136119,neutral,,,,18/12/2024,Wed

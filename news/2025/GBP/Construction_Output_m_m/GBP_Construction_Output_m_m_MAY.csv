@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=May#detail=143718,0.5%,0.2%,0.2%,15/05/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Construction Output m/m,https://www.forexfactory.com/calendar?month=May#detail=143718,green,0.5%,0.2%,0.2%,15/05/2025,Thu

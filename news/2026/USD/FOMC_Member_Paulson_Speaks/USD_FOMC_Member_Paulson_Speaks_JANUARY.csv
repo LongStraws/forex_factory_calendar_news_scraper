@@ -1,4 +1,4 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:15,USD,yellow,FOMC Member Paulson Speaks,https://www.forexfactory.com/calendar?month=January#detail=151755,,,,03/01/2026,Sat
-19:30,USD,yellow,FOMC Member Paulson Speaks,https://www.forexfactory.com/calendar?month=January#detail=151756,,,,03/01/2026,Sat
-14:50,USD,yellow,FOMC Member Paulson Speaks,https://www.forexfactory.com/calendar?month=January#detail=152051,,,,14/01/2026,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:15,USD,yellow,FOMC Member Paulson Speaks,https://www.forexfactory.com/calendar?month=January#detail=151755,neutral,,,,03/01/2026,Sat
+19:30,USD,yellow,FOMC Member Paulson Speaks,https://www.forexfactory.com/calendar?month=January#detail=151756,neutral,,,,03/01/2026,Sat
+14:50,USD,yellow,FOMC Member Paulson Speaks,https://www.forexfactory.com/calendar?month=January#detail=152051,neutral,,,,14/01/2026,Wed

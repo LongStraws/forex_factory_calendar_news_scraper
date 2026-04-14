@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-21:30,USD,yellow,Bank Stress Test Results,https://www.forexfactory.com/calendar?month=June#detail=138329,,,,26/06/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+21:30,USD,yellow,Bank Stress Test Results,https://www.forexfactory.com/calendar?month=June#detail=138329,neutral,,,,26/06/2024,Wed

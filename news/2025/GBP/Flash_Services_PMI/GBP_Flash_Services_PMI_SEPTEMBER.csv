@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-23/09/2025,09:30,GBP,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=September#detail=142211,51.9,53.4,54.2,Tue
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+23/09/2025,09:30,GBP,red,Flash Services PMI,https://www.forexfactory.com/calendar?month=September#detail=142211,red,51.9,53.4,54.2,Tue

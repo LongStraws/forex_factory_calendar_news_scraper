@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
-12:00,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=June#detail=143353,,4.25%,4.25%,4.25%,19/06/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:00,GBP,red,Official Bank Rate,https://www.forexfactory.com/calendar?month=June#detail=143353,gray,4.25%,4.25%,4.25%,19/06/2025,Thu

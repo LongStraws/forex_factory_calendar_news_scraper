@@ -1,4 +1,4 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-15/10/2025,16:00,GBP,yellow,MPC Member Breeden Speaks,https://www.forexfactory.com/calendar?month=October#detail=148471,,,,Wed
-15/10/2025,16:45,GBP,yellow,MPC Member Breeden Speaks,https://www.forexfactory.com/calendar?month=October#detail=148469,,,,Wed
-17/10/2025,17:30,GBP,yellow,MPC Member Breeden Speaks,https://www.forexfactory.com/calendar?month=October#detail=148483,,,,Fri
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+15/10/2025,16:00,GBP,yellow,MPC Member Breeden Speaks,https://www.forexfactory.com/calendar?month=October#detail=148471,neutral,,,,Wed
+15/10/2025,16:45,GBP,yellow,MPC Member Breeden Speaks,https://www.forexfactory.com/calendar?month=October#detail=148469,neutral,,,,Wed
+17/10/2025,17:30,GBP,yellow,MPC Member Breeden Speaks,https://www.forexfactory.com/calendar?month=October#detail=148483,neutral,,,,Fri

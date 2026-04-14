@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=November#detail=150885,119K,53K,-4K,20/11/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=November#detail=150885,green,119K,53K,-4K,20/11/2025,Thu

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=March#detail=145865,-17.8B,-16.8B,-19.7B,28/03/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=March#detail=145865,red,-17.8B,-16.8B,-19.7B,28/03/2025,Fri

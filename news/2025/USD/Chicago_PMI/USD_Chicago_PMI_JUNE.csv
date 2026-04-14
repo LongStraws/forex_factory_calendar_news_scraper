@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
-14:45,USD,yellow,Chicago PMI,https://www.forexfactory.com/calendar?month=June#detail=141330,,40.4,42.7,40.5,30/06/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:45,USD,yellow,Chicago PMI,https://www.forexfactory.com/calendar?month=June#detail=141330,red,40.4,42.7,40.5,30/06/2025,Mon

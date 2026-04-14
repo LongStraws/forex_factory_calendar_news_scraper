@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,red,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=February#detail=136359,-6.1%,-4.9%,-0.3%,27/02/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,red,Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=February#detail=136359,red,-6.1%,-4.9%,-0.3%,27/02/2024,Tue

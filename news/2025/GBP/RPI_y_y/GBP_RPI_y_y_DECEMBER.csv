@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=December#detail=143636,3.8%,4.2%,4.3%,17/12/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=December#detail=143636,red,3.8%,4.2%,4.3%,17/12/2025,Wed

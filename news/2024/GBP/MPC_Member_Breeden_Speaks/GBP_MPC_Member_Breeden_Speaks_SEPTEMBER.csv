@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:00,GBP,yellow,MPC Member Breeden Speaks,https://www.forexfactory.com/calendar?month=September#detail=140476,,,,10/09/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:00,GBP,yellow,MPC Member Breeden Speaks,https://www.forexfactory.com/calendar?month=September#detail=140476,neutral,,,,10/09/2024,Tue

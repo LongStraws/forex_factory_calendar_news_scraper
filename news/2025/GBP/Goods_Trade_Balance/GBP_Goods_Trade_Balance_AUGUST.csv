@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=August#detail=143731,-22.2B,-21.7B,-22.1B,14/08/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=August#detail=143731,red,-22.2B,-21.7B,-22.1B,14/08/2025,Thu

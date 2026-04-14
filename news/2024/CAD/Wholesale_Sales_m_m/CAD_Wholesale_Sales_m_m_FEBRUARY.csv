@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,CAD,yellow,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=February#detail=138086,0.3%,0.7%,0.9%,16/02/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,yellow,Wholesale Sales m/m,https://www.forexfactory.com/calendar?month=February#detail=138086,red,0.3%,0.7%,0.9%,16/02/2024,Fri

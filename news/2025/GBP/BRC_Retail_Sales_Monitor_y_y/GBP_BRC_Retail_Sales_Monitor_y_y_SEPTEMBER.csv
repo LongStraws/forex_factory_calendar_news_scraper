@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-08/09/2025,00:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=September#detail=143537,2.9%,2.0%,1.8%,Mon
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+08/09/2025,00:01,GBP,yellow,BRC Retail Sales Monitor y/y,https://www.forexfactory.com/calendar?month=September#detail=143537,green,2.9%,2.0%,1.8%,Mon

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=December#detail=136007,227K,218K,36K,06/12/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,red,Non-Farm Employment Change,https://www.forexfactory.com/calendar?month=December#detail=136007,green,227K,218K,36K,06/12/2024,Fri

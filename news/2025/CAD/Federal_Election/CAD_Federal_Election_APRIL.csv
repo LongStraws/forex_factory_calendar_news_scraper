@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-All Day,CAD,red,Federal Election,https://www.forexfactory.com/calendar?month=April#detail=145893,,,,28/04/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+All Day,CAD,red,Federal Election,https://www.forexfactory.com/calendar?month=April#detail=145893,neutral,,,,28/04/2025,Mon

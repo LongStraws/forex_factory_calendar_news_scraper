@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,CAD,yellow,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=February#detail=138085,10.44B,-6.45B,11.31B,16/02/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,yellow,Foreign Securities Purchases,https://www.forexfactory.com/calendar?month=February#detail=138085,green,10.44B,-6.45B,11.31B,16/02/2024,Fri

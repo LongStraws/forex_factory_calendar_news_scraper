@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:00,CAD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=October#detail=138198,-1.1B,-0.4B,-0.3B,08/10/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:00,CAD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=October#detail=138198,red,-1.1B,-0.4B,-0.3B,08/10/2024,Tue

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Current Account,https://www.forexfactory.com/calendar?month=December#detail=143769,-12.1B,-19.1B,-21.2B,22/12/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Current Account,https://www.forexfactory.com/calendar?month=December#detail=143769,green,-12.1B,-19.1B,-21.2B,22/12/2025,Mon

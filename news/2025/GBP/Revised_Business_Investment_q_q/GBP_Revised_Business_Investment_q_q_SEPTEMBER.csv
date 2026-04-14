@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-30/09/2025,07:00,GBP,yellow,Revised Business Investment q/q,https://www.forexfactory.com/calendar?month=September#detail=143768,-1.1%,-4.0%,-4.0%,Tue
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+30/09/2025,07:00,GBP,yellow,Revised Business Investment q/q,https://www.forexfactory.com/calendar?month=September#detail=143768,green,-1.1%,-4.0%,-4.0%,Tue

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-18:00,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=March#detail=146503,,,,18/03/2026,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+18:00,USD,red,FOMC Statement,https://www.forexfactory.com/calendar?month=March#detail=146503,neutral,,,,18/03/2026,Wed

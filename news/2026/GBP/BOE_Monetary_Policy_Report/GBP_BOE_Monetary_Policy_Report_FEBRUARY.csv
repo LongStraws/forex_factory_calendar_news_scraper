@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:00,GBP,red,BOE Monetary Policy Report,https://www.forexfactory.com/calendar?month=February#detail=150702,,,,05/02/2026,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:00,GBP,red,BOE Monetary Policy Report,https://www.forexfactory.com/calendar?month=February#detail=150702,neutral,,,,05/02/2026,Thu

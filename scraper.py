@@ -308,7 +308,9 @@ def apply_calendar_filters(driver):
         apply_button = driver.find_element(
             By.CSS_SELECTOR, ".overlay--filters .overlay__button--submit"
         )
-        ActionChains(driver).move_to_element(apply_button).click_and_hold().pause(0.2).release().perform()
+        ActionChains(driver).move_to_element(apply_button).click_and_hold().pause(
+            0.2
+        ).release().perform()
         print("[INFO] Calendar filter apply click-and-hold released.")
     except Exception as exc:
         print(f"[WARN] Calendar filter apply click-and-hold failed: {exc}")
@@ -435,7 +437,6 @@ def apply_calendar_filters(driver):
             print(f"[WARN] Failed to read overlay state: {exc}")
 
 
-
 def parse_table(driver, month, year):
     data = []
     table = driver.find_element(By.CLASS_NAME, "calendar__table")
@@ -467,15 +468,14 @@ def parse_table(driver, month, year):
                     detail_url = f"https://www.forexfactory.com/calendar?month={month}#detail={event_id}"
                     row_data[f"{class_name_key}"] = detail_url
 
-                elif element.text:
-                    row_data[f"{class_name_key}"] = element.text
                 elif "calendar__actual" in class_name:
                     color_elements = element.find_elements(By.TAG_NAME, "span")
+                    print("Color Elements is: ", color_elements)
                     color = None
                     for impact in color_elements:
                         impact_class = impact.get_attribute("class")
                         color = ACTUAL_COLOR_MAP.get(impact_class)
-                    row_data[f"{class_name_key}-Impact"] = color if color else "neutral"
+                    row_data[f"{class_name_key}-Color"] = color if color else "neutral"
                     print("The color is: ", color)
                     text_content = (element.get_attribute("textContent") or "").strip()
                     span_texts = [
@@ -486,6 +486,8 @@ def parse_table(driver, month, year):
                     row_data[f"{class_name_key}"] = (
                         text_content or " ".join(span_texts).strip() or "empty"
                     )
+                elif element.text:
+                    row_data[f"{class_name_key}"] = element.text
                 else:
                     text_content = (element.get_attribute("textContent") or "").strip()
                     span_texts = [
@@ -498,7 +500,6 @@ def parse_table(driver, month, year):
                     )
 
         if row_data:
-            print(row_data)
             data.append(row_data)
 
     save_csv(data, month, year)
@@ -567,12 +568,8 @@ def build_filter_params():
         level.lower() for level in getattr(config, "ALLOWED_IMPACT_LEVELS", [])
     ]
 
-    currency_codes = [
-        currency_map[code] for code in currencies if code in currency_map
-    ]
-    impact_codes = [
-        impact_map[level] for level in impact_levels if level in impact_map
-    ]
+    currency_codes = [currency_map[code] for code in currencies if code in currency_map]
+    impact_codes = [impact_map[level] for level in impact_levels if level in impact_map]
 
     params = {}
     if currency_codes:

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,yellow,Prelim Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=November#detail=136514,1.9%,1.1%,0.4%,07/11/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,yellow,Prelim Unit Labor Costs q/q,https://www.forexfactory.com/calendar?month=November#detail=136514,green,1.9%,1.1%,0.4%,07/11/2024,Thu

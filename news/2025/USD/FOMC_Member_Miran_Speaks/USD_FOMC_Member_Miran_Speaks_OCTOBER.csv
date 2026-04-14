@@ -1,9 +1,9 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-03/10/2025,14:35,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=October#detail=148061,,,,Fri
-03/10/2025,20:30,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=October#detail=148062,,,,Fri
-07/10/2025,15:45,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=October#detail=147992,,,,Tue
-07/10/2025,21:05,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=October#detail=148067,,,,Tue
-15/10/2025,14:30,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=October#detail=148506,,,,Wed
-15/10/2025,17:30,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=October#detail=148470,,,,Wed
-16/10/2025,14:00,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=October#detail=148490,,,,Thu
-16/10/2025,21:15,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=October#detail=148504,,,,Thu
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+03/10/2025,14:35,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=October#detail=148061,neutral,,,,Fri
+03/10/2025,20:30,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=October#detail=148062,neutral,,,,Fri
+07/10/2025,15:45,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=October#detail=147992,neutral,,,,Tue
+07/10/2025,21:05,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=October#detail=148067,neutral,,,,Tue
+15/10/2025,14:30,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=October#detail=148506,neutral,,,,Wed
+15/10/2025,17:30,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=October#detail=148470,neutral,,,,Wed
+16/10/2025,14:00,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=October#detail=148490,neutral,,,,Thu
+16/10/2025,21:15,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=October#detail=148504,neutral,,,,Thu

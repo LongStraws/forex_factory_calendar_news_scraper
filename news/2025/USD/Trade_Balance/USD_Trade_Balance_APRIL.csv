@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=April#detail=142323,-122.7B,-122.5B,-130.7B,03/04/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,yellow,Trade Balance,https://www.forexfactory.com/calendar?month=April#detail=142323,gray,-122.7B,-122.5B,-130.7B,03/04/2025,Thu

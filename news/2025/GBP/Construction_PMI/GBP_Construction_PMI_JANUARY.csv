@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-09:30,GBP,orange,Construction PMI,https://www.forexfactory.com/calendar?month=January#detail=143406,53.3,54.3,55.2,07/01/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:30,GBP,orange,Construction PMI,https://www.forexfactory.com/calendar?month=January#detail=143406,red,53.3,54.3,55.2,07/01/2025,Tue

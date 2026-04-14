@@ -1,5 +1,5 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-17:00,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=June#detail=140306,,,,07/06/2024,Fri
-00:00,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=June#detail=140323,,,,14/06/2024,Fri
-02:00,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=June#detail=140331,,,,17/06/2024,Mon
-17:00,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=June#detail=140334,,,,25/06/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+17:00,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=June#detail=140306,neutral,,,,07/06/2024,Fri
+00:00,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=June#detail=140323,neutral,,,,14/06/2024,Fri
+02:00,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=June#detail=140331,neutral,,,,17/06/2024,Mon
+17:00,USD,yellow,FOMC Member Cook Speaks,https://www.forexfactory.com/calendar?month=June#detail=140334,neutral,,,,25/06/2024,Tue

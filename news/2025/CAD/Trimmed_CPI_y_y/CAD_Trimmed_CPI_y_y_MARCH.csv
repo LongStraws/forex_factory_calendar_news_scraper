@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:30,CAD,red,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=March#detail=145143,2.9%,2.8%,2.7%,18/03/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:30,CAD,red,Trimmed CPI y/y,https://www.forexfactory.com/calendar?month=March#detail=145143,green,2.9%,2.8%,2.7%,18/03/2025,Tue

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
-13:30,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=June#detail=142582,,4.2%,4.2%,4.2%,06/06/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=June#detail=142582,gray,4.2%,4.2%,4.2%,06/06/2025,Fri

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=July#detail=135790,-0.2%,0.2%,0.0%,05/07/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Halifax HPI m/m,https://www.forexfactory.com/calendar?month=July#detail=135790,red,-0.2%,0.2%,0.0%,05/07/2024,Fri

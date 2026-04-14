@@ -1,4 +1,4 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-17:00,GBP,yellow,MPC Member Mann Speaks,https://www.forexfactory.com/calendar?month=March#detail=140070,,,,11/03/2024,Mon
-11:00,GBP,yellow,MPC Member Mann Speaks,https://www.forexfactory.com/calendar?month=March#detail=140068,,,,12/03/2024,Tue
-14:15,GBP,yellow,MPC Member Mann Speaks,https://www.forexfactory.com/calendar?month=March#detail=140094,,,,25/03/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+17:00,GBP,yellow,MPC Member Mann Speaks,https://www.forexfactory.com/calendar?month=March#detail=140070,neutral,,,,11/03/2024,Mon
+11:00,GBP,yellow,MPC Member Mann Speaks,https://www.forexfactory.com/calendar?month=March#detail=140068,neutral,,,,12/03/2024,Tue
+14:15,GBP,yellow,MPC Member Mann Speaks,https://www.forexfactory.com/calendar?month=March#detail=140094,neutral,,,,25/03/2024,Mon

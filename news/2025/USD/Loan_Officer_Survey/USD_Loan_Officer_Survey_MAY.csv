@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-19:00,USD,yellow,Loan Officer Survey,https://www.forexfactory.com/calendar?month=May#detail=144602,,,,12/05/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+19:00,USD,yellow,Loan Officer Survey,https://www.forexfactory.com/calendar?month=May#detail=144602,neutral,,,,12/05/2025,Mon

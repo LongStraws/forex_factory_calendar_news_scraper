@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:30,CAD,yellow,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=March#detail=145002,1.7%,2.0%,0.5%,14/03/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:30,CAD,yellow,Manufacturing Sales m/m,https://www.forexfactory.com/calendar?month=March#detail=145002,red,1.7%,2.0%,0.5%,14/03/2025,Fri

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,CAD,red,CPI m/m,https://www.forexfactory.com/calendar?month=April#detail=149138,,,,20/04/2026,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,red,CPI m/m,https://www.forexfactory.com/calendar?month=April#detail=149138,neutral,,,0.5%,20/04/2026,Mon

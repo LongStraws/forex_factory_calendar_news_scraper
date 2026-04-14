@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:15,USD,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=September#detail=136292,0.8%,0.2%,-0.9%,17/09/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:15,USD,yellow,Industrial Production m/m,https://www.forexfactory.com/calendar?month=September#detail=136292,green,0.8%,0.2%,-0.9%,17/09/2024,Tue

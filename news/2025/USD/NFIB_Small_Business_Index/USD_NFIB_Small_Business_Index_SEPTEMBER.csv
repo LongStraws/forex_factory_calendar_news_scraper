@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-09/09/2025,11:00,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=September#detail=143923,100.8,100.5,100.3,Tue
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+09/09/2025,11:00,USD,yellow,NFIB Small Business Index,https://www.forexfactory.com/calendar?month=September#detail=143923,gray,100.8,100.5,100.3,Tue

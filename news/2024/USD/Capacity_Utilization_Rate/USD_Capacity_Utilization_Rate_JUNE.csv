@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:15,USD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=June#detail=136287,78.7%,78.6%,78.2%,18/06/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:15,USD,yellow,Capacity Utilization Rate,https://www.forexfactory.com/calendar?month=June#detail=136287,gray,78.7%,78.6%,78.2%,18/06/2024,Tue

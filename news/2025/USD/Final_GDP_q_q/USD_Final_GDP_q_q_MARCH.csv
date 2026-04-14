@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:30,USD,red,Final GDP q/q,https://www.forexfactory.com/calendar?month=March#detail=142549,2.4%,2.3%,2.3%,27/03/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:30,USD,red,Final GDP q/q,https://www.forexfactory.com/calendar?month=March#detail=142549,green,2.4%,2.3%,2.3%,27/03/2025,Thu

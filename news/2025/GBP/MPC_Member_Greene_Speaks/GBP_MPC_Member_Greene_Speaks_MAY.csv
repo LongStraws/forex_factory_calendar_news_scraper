@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-11:30,GBP,yellow,MPC Member Greene Speaks,https://www.forexfactory.com/calendar?month=May#detail=146014,,,,12/05/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+11:30,GBP,yellow,MPC Member Greene Speaks,https://www.forexfactory.com/calendar?month=May#detail=146014,neutral,,,,12/05/2025,Mon

@@ -1,9 +1,9 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=August#detail=146349,,,,05/08/2025,Tue
-21:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=August#detail=146357,,,,07/08/2025,Thu
-15:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=August#detail=146358,,,,11/08/2025,Mon
-16:15,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=August#detail=146361,,,,13/08/2025,Wed
-18:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=August#detail=146364,,,,14/08/2025,Thu
-23:55,USD,red,President Trump Speaks,https://www.forexfactory.com/calendar?month=August#detail=146384,,,,15/08/2025,Fri
-13:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=August#detail=146391,,,,19/08/2025,Tue
-18:05,USD,red,President Trump Speaks,https://www.forexfactory.com/calendar?month=August#detail=146404,,,,22/08/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=August#detail=146349,neutral,,,,05/08/2025,Tue
+21:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=August#detail=146357,neutral,,,,07/08/2025,Thu
+15:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=August#detail=146358,neutral,,,,11/08/2025,Mon
+16:15,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=August#detail=146361,neutral,,,,13/08/2025,Wed
+18:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=August#detail=146364,neutral,,,,14/08/2025,Thu
+23:55,USD,red,President Trump Speaks,https://www.forexfactory.com/calendar?month=August#detail=146384,neutral,,,,15/08/2025,Fri
+13:00,USD,orange,President Trump Speaks,https://www.forexfactory.com/calendar?month=August#detail=146391,neutral,,,,19/08/2025,Tue
+18:05,USD,red,President Trump Speaks,https://www.forexfactory.com/calendar?month=August#detail=146404,neutral,,,,22/08/2025,Fri

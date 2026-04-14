@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-02/09/2025,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=September#detail=141142,48.7,49.0,48.0,Tue
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+02/09/2025,15:00,USD,red,ISM Manufacturing PMI,https://www.forexfactory.com/calendar?month=September#detail=141142,gray,48.7,49.0,48.0,Tue

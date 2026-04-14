@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=November#detail=136352,71.8,74.0,73.0,22/11/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=November#detail=136352,red,71.8,74.0,73.0,22/11/2024,Fri

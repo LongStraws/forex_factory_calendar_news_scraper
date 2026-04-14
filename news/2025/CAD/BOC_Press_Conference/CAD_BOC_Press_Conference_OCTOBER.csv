@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-29/10/2025,14:30,CAD,red,BOC Press Conference,https://www.forexfactory.com/calendar?month=October#detail=141409,,,,Wed
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+29/10/2025,14:30,CAD,red,BOC Press Conference,https://www.forexfactory.com/calendar?month=October#detail=141409,neutral,,,,Wed

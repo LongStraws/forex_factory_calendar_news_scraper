@@ -1,4 +1,4 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-03/09/2025,14:00,USD,yellow,FOMC Member Musalem Speaks,https://www.forexfactory.com/calendar?month=September#detail=146457,,,,Wed
-22/09/2025,15:00,USD,yellow,FOMC Member Musalem Speaks,https://www.forexfactory.com/calendar?month=September#detail=147814,,,,Mon
-29/09/2025,18:30,USD,yellow,FOMC Member Musalem Speaks,https://www.forexfactory.com/calendar?month=September#detail=147868,,,,Mon
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+03/09/2025,14:00,USD,yellow,FOMC Member Musalem Speaks,https://www.forexfactory.com/calendar?month=September#detail=146457,neutral,,,,Wed
+22/09/2025,15:00,USD,yellow,FOMC Member Musalem Speaks,https://www.forexfactory.com/calendar?month=September#detail=147814,neutral,,,,Mon
+29/09/2025,18:30,USD,yellow,FOMC Member Musalem Speaks,https://www.forexfactory.com/calendar?month=September#detail=147868,neutral,,,,Mon

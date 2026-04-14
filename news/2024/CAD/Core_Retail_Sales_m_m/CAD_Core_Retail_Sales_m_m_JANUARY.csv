@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,CAD,orange,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=January#detail=138077,-0.5%,0.1%,0.4%,19/01/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,orange,Core Retail Sales m/m,https://www.forexfactory.com/calendar?month=January#detail=138077,red,-0.5%,0.1%,0.4%,19/01/2024,Fri

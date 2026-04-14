@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-12/09/2025,07:00,GBP,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=September#detail=143738,-22.2B,-21.6B,-22.2B,Fri
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+12/09/2025,07:00,GBP,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=September#detail=143738,red,-22.2B,-21.6B,-22.2B,Fri

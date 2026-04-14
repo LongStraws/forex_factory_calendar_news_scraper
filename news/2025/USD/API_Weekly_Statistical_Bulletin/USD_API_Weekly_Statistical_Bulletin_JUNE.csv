@@ -1,4 +1,4 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
 21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=June#detail=144706,neutral,,,,03/06/2025,Tue
 21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=June#detail=144707,neutral,,,,10/06/2025,Tue
 21:30,USD,yellow,API Weekly Statistical Bulletin,https://www.forexfactory.com/calendar?month=June#detail=144708,neutral,,,,17/06/2025,Tue

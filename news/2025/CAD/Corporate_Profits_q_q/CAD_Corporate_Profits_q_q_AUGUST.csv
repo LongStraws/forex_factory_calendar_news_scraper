@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,CAD,yellow,Corporate Profits q/q,https://www.forexfactory.com/calendar?month=August#detail=145018,-1.7%,,2.7%,25/08/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,yellow,Corporate Profits q/q,https://www.forexfactory.com/calendar?month=August#detail=145018,gray,-1.7%,,2.7%,25/08/2025,Mon

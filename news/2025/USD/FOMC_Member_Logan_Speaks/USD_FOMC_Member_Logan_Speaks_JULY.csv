@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-00:45,USD,yellow,FOMC Member Logan Speaks,https://www.forexfactory.com/calendar?month=July#detail=146319,,,,15/07/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+00:45,USD,yellow,FOMC Member Logan Speaks,https://www.forexfactory.com/calendar?month=July#detail=146319,neutral,,,,15/07/2025,Tue

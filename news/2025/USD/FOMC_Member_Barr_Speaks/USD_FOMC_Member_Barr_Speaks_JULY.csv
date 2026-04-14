@@ -1,3 +1,3 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-17:45,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=July#detail=146313,,,,15/07/2025,Tue
-15:00,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=July#detail=146321,,,,16/07/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+17:45,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=July#detail=146313,neutral,,,,15/07/2025,Tue
+15:00,USD,yellow,FOMC Member Barr Speaks,https://www.forexfactory.com/calendar?month=July#detail=146321,neutral,,,,16/07/2025,Wed

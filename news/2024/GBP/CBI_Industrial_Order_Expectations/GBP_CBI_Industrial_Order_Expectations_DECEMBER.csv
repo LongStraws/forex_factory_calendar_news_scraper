@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-11:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=December#detail=135662,-40,-22,-19,18/12/2024,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+11:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=December#detail=135662,red,-40,-22,-19,18/12/2024,Wed

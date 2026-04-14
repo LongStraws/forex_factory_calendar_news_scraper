@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-18/09/2025,00:01,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=September#detail=143477,-19,-18,-17,Thu
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+18/09/2025,00:01,GBP,yellow,GfK Consumer Confidence,https://www.forexfactory.com/calendar?month=September#detail=143477,red,-19,-18,-17,Thu

@@ -1,3 +1,3 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-23:30,USD,yellow,FOMC Member Musalem Speaks,https://www.forexfactory.com/calendar?month=February#detail=145696,,,,03/02/2025,Mon
-17:05,USD,yellow,FOMC Member Musalem Speaks,https://www.forexfactory.com/calendar?month=February#detail=145784,,,,20/02/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+23:30,USD,yellow,FOMC Member Musalem Speaks,https://www.forexfactory.com/calendar?month=February#detail=145696,neutral,,,,03/02/2025,Mon
+17:05,USD,yellow,FOMC Member Musalem Speaks,https://www.forexfactory.com/calendar?month=February#detail=145784,neutral,,,,20/02/2025,Thu

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=May#detail=136316,67.4,76.3,77.2,10/05/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,red,Prelim UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=May#detail=136316,red,67.4,76.3,77.2,10/05/2024,Fri

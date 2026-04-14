@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=August#detail=143611,4.8%,4.5%,4.4%,20/08/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,RPI y/y,https://www.forexfactory.com/calendar?month=August#detail=143611,green,4.8%,4.5%,4.4%,20/08/2025,Wed

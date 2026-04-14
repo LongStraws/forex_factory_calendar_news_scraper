@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=August#detail=138132,6.4%,6.5%,6.4%,09/08/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,red,Unemployment Rate,https://www.forexfactory.com/calendar?month=August#detail=138132,green,6.4%,6.5%,6.4%,09/08/2024,Fri

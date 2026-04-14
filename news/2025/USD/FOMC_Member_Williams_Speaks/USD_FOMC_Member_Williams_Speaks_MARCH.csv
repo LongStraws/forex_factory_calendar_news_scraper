@@ -1,5 +1,5 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-19:20,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=March#detail=145833,,,,04/03/2025,Tue
-15:45,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=March#detail=145836,,,,07/03/2025,Fri
-13:05,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=March#detail=145874,,,,21/03/2025,Fri
-13:05,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=March#detail=145880,,,,25/03/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+19:20,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=March#detail=145833,neutral,,,,04/03/2025,Tue
+15:45,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=March#detail=145836,neutral,,,,07/03/2025,Fri
+13:05,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=March#detail=145874,neutral,,,,21/03/2025,Fri
+13:05,USD,yellow,FOMC Member Williams Speaks,https://www.forexfactory.com/calendar?month=March#detail=145880,neutral,,,,25/03/2025,Tue

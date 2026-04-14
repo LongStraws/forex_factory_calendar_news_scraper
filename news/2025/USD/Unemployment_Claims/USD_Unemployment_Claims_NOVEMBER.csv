@@ -1,10 +1,10 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-Sep 27th,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=November#detail=150968,224K,,219K,18/11/2025,Tue
-Oct 4th,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=November#detail=150967,235K,,224K,18/11/2025,Tue
-Oct 11th,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=November#detail=150966,220K,,235K,18/11/2025,Tue
-08:10,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=November#detail=150895,232K,,220K,18/11/2025,Tue
-Oct 25th,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=November#detail=141476,220K,,232K,20/11/2025,Thu
-Nov 1st,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=November#detail=150970,229K,,220K,20/11/2025,Thu
-Nov 8th,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=November#detail=150971,228K,,229K,20/11/2025,Thu
-13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=November#detail=150972,220K,227K,228K,20/11/2025,Thu
-13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=November#detail=141477,216K,226K,222K,26/11/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+Sep 27th,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=November#detail=150968,gray,224K,,219K,18/11/2025,Tue
+Oct 4th,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=November#detail=150967,gray,235K,,224K,18/11/2025,Tue
+Oct 11th,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=November#detail=150966,gray,220K,,235K,18/11/2025,Tue
+08:10,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=November#detail=150895,gray,232K,,220K,18/11/2025,Tue
+Oct 25th,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=November#detail=141476,gray,220K,,232K,20/11/2025,Thu
+Nov 1st,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=November#detail=150970,gray,229K,,220K,20/11/2025,Thu
+Nov 8th,USD,yellow,Unemployment Claims,https://www.forexfactory.com/calendar?month=November#detail=150971,gray,228K,,229K,20/11/2025,Thu
+13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=November#detail=150972,green,220K,227K,228K,20/11/2025,Thu
+13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=November#detail=141477,green,216K,226K,222K,26/11/2025,Wed

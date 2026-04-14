@@ -1,6 +1,6 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-19:30,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=February#detail=145687,,,,05/02/2025,Wed
-15:30,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=February#detail=145725,,,,07/02/2025,Fri
-14:35,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=February#detail=145783,,,,20/02/2025,Thu
-23:30,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=February#detail=145830,,,,24/02/2025,Mon
-03:15,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=February#detail=145815,,,,28/02/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+19:30,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=February#detail=145687,neutral,,,,05/02/2025,Wed
+15:30,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=February#detail=145725,neutral,,,,07/02/2025,Fri
+14:35,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=February#detail=145783,neutral,,,,20/02/2025,Thu
+23:30,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=February#detail=145830,neutral,,,,24/02/2025,Mon
+03:15,USD,yellow,FOMC Member Goolsbee Speaks,https://www.forexfactory.com/calendar?month=February#detail=145815,neutral,,,,28/02/2025,Fri

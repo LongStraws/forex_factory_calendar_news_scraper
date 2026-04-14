@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-21:03,CAD,yellow,Annual Budget Release,https://www.forexfactory.com/calendar?month=November#detail=145192,,,,04/11/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+21:03,CAD,yellow,Annual Budget Release,https://www.forexfactory.com/calendar?month=November#detail=145192,neutral,,,,04/11/2025,Tue

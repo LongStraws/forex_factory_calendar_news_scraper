@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:30,CAD,yellow,RMPI m/m,https://www.forexfactory.com/calendar?month=March#detail=145106,0.3%,-0.3%,3.5%,20/03/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:30,CAD,yellow,RMPI m/m,https://www.forexfactory.com/calendar?month=March#detail=145106,green,0.3%,-0.3%,3.5%,20/03/2025,Thu

@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-26/09/2025,13:30,USD,red,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=September#detail=142513,0.2%,0.2%,0.2%,Fri
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+26/09/2025,13:30,USD,red,Core PCE Price Index m/m,https://www.forexfactory.com/calendar?month=September#detail=142513,gray,0.2%,0.2%,0.2%,Fri

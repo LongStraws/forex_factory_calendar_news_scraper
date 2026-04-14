@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=August#detail=142413,-4.8%,-4.9%,8.3%,04/08/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=August#detail=142413,gray,-4.8%,-4.9%,8.3%,04/08/2025,Mon

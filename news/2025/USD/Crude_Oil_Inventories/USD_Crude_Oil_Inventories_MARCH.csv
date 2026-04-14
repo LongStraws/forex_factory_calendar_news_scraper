@@ -1,5 +1,5 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=March#detail=143083,3.6M,0.6M,-2.3M,05/03/2025,Wed
-14:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=March#detail=143084,1.4M,2.1M,3.6M,12/03/2025,Wed
-14:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=March#detail=143085,1.7M,0.8M,1.4M,19/03/2025,Wed
-14:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=March#detail=143086,-3.3M,1.5M,1.7M,26/03/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=March#detail=143083,red,3.6M,0.6M,-2.3M,05/03/2025,Wed
+14:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=March#detail=143084,green,1.4M,2.1M,3.6M,12/03/2025,Wed
+14:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=March#detail=143085,red,1.7M,0.8M,1.4M,19/03/2025,Wed
+14:30,USD,yellow,Crude Oil Inventories,https://www.forexfactory.com/calendar?month=March#detail=143086,green,-3.3M,1.5M,1.7M,26/03/2025,Wed

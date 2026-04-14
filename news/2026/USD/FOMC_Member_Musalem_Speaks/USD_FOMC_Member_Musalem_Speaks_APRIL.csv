@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:05,USD,yellow,FOMC Member Musalem Speaks,https://www.forexfactory.com/calendar?month=April#detail=152786,,,,01/04/2026,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:05,USD,yellow,FOMC Member Musalem Speaks,https://www.forexfactory.com/calendar?month=April#detail=152786,neutral,,,,01/04/2026,Wed

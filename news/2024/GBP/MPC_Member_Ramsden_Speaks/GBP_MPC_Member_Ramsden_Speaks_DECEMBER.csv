@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:00,GBP,yellow,MPC Member Ramsden Speaks,https://www.forexfactory.com/calendar?month=December#detail=144927,,,,09/12/2024,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:00,GBP,yellow,MPC Member Ramsden Speaks,https://www.forexfactory.com/calendar?month=December#detail=144927,neutral,,,,09/12/2024,Mon

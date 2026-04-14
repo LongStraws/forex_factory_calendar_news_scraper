@@ -1,5 +1,5 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-23:15,USD,yellow,FOMC Member Collins Speaks,https://www.forexfactory.com/calendar?month=October#detail=141490,,,,01/10/2024,Tue
-21:00,USD,yellow,FOMC Member Collins Speaks,https://www.forexfactory.com/calendar?month=October#detail=141728,,,,08/10/2024,Tue
-22:00,USD,yellow,FOMC Member Collins Speaks,https://www.forexfactory.com/calendar?month=October#detail=141733,,,,09/10/2024,Wed
-16:00,USD,yellow,FOMC Member Collins Speaks,https://www.forexfactory.com/calendar?month=October#detail=142319,,,,25/10/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+23:15,USD,yellow,FOMC Member Collins Speaks,https://www.forexfactory.com/calendar?month=October#detail=141490,neutral,,,,01/10/2024,Tue
+21:00,USD,yellow,FOMC Member Collins Speaks,https://www.forexfactory.com/calendar?month=October#detail=141728,neutral,,,,08/10/2024,Tue
+22:00,USD,yellow,FOMC Member Collins Speaks,https://www.forexfactory.com/calendar?month=October#detail=141733,neutral,,,,09/10/2024,Wed
+16:00,USD,yellow,FOMC Member Collins Speaks,https://www.forexfactory.com/calendar?month=October#detail=142319,neutral,,,,25/10/2024,Fri

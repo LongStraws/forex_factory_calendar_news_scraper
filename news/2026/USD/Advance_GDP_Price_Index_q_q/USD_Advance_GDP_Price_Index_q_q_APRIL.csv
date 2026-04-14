@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,orange,Advance GDP Price Index q/q,https://www.forexfactory.com/calendar?month=April#detail=148284,,,,30/04/2026,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,orange,Advance GDP Price Index q/q,https://www.forexfactory.com/calendar?month=April#detail=148284,neutral,,,,30/04/2026,Thu

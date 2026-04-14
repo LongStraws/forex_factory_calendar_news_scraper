@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
 19:00,USD,yellow,Beige Book,https://www.forexfactory.com/calendar?month=June#detail=144611,neutral,,,,04/06/2025,Wed

@@ -1,5 +1,5 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=April#detail=136536,221K,213K,212K,04/04/2024,Thu
-13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=April#detail=136537,211K,216K,222k,11/04/2024,Thu
-13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=April#detail=136538,212K,215K,212K,18/04/2024,Thu
-13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=April#detail=136539,207K,214K,212K,25/04/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=April#detail=136536,red,221K,213K,212K,04/04/2024,Thu
+13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=April#detail=136537,green,211K,216K,222k,11/04/2024,Thu
+13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=April#detail=136538,gray,212K,215K,212K,18/04/2024,Thu
+13:30,USD,red,Unemployment Claims,https://www.forexfactory.com/calendar?month=April#detail=136539,green,207K,214K,212K,25/04/2024,Thu

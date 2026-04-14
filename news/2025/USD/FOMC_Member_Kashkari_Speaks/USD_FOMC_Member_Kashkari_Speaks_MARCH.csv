@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:00,USD,yellow,FOMC Member Kashkari Speaks,https://www.forexfactory.com/calendar?month=March#detail=145892,,,,26/03/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:00,USD,yellow,FOMC Member Kashkari Speaks,https://www.forexfactory.com/calendar?month=March#detail=145892,neutral,,,,26/03/2025,Wed

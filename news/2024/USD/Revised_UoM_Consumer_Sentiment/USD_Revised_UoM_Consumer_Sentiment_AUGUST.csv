@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=August#detail=136347,67.9,68.0,67.8,30/08/2024,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,orange,Revised UoM Consumer Sentiment,https://www.forexfactory.com/calendar?month=August#detail=136347,gray,67.9,68.0,67.8,30/08/2024,Fri

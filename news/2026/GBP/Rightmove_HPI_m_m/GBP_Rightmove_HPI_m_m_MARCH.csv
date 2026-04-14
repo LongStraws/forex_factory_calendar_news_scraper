@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-23:54,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=March#detail=150776,0.8%,,0.0%,15/03/2026,Sun
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+23:54,GBP,yellow,Rightmove HPI m/m,https://www.forexfactory.com/calendar?month=March#detail=150776,gray,0.8%,,0.0%,15/03/2026,Sun

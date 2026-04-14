@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=February#detail=152314,-98.5B,-86.0B,-82.8B,19/02/2026,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,yellow,Goods Trade Balance,https://www.forexfactory.com/calendar?month=February#detail=152314,red,-98.5B,-86.0B,-82.8B,19/02/2026,Thu

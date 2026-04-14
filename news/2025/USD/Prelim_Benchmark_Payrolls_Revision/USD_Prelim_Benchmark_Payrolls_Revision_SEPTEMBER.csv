@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-09/09/2025,15:00,USD,red,Prelim Benchmark Payrolls Revision,https://www.forexfactory.com/calendar?month=September#detail=147811,-911K,,-818K,Tue
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+09/09/2025,15:00,USD,red,Prelim Benchmark Payrolls Revision,https://www.forexfactory.com/calendar?month=September#detail=147811,gray,-911K,,-818K,Tue

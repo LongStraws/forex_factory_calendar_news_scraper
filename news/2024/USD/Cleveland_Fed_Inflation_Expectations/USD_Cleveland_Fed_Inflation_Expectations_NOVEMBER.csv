@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:45,USD,yellow,Cleveland Fed Inflation Expectations,https://www.forexfactory.com/calendar?month=November#detail=140251,3.8%,,3.4%,12/11/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:45,USD,yellow,Cleveland Fed Inflation Expectations,https://www.forexfactory.com/calendar?month=November#detail=140251,gray,3.8%,,3.4%,12/11/2024,Tue

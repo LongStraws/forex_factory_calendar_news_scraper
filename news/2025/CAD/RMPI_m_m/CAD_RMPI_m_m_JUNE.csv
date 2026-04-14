@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual-Impact,actual,forecast,previous,date,day
-13:30,CAD,yellow,RMPI m/m,https://www.forexfactory.com/calendar?month=June#detail=145109,,-0.4%,-0.8%,-3.3%,20/06/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,CAD,yellow,RMPI m/m,https://www.forexfactory.com/calendar?month=June#detail=145109,green,-0.4%,-0.8%,-3.3%,20/06/2025,Fri

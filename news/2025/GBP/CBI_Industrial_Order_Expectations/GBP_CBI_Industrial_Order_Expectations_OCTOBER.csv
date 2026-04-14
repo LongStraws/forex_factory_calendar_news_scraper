@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-23/10/2025,11:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=October#detail=143427,-38,-28,-27,Thu
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+23/10/2025,11:00,GBP,yellow,CBI Industrial Order Expectations,https://www.forexfactory.com/calendar?month=October#detail=143427,red,-38,-28,-27,Thu

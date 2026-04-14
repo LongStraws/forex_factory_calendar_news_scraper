@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-07:00,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=August#detail=138849,0.8%,0.9%,1.1%,15/08/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+07:00,GBP,yellow,Index of Services 3m/3m,https://www.forexfactory.com/calendar?month=August#detail=138849,red,0.8%,0.9%,1.1%,15/08/2024,Thu

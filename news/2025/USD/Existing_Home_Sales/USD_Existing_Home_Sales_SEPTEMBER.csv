@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-25/09/2025,15:00,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=September#detail=143016,4.00M,3.96M,4.01M,Thu
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+25/09/2025,15:00,USD,orange,Existing Home Sales,https://www.forexfactory.com/calendar?month=September#detail=143016,green,4.00M,3.96M,4.01M,Thu

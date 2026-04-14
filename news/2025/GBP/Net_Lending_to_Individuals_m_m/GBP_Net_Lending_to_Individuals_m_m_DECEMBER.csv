@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-09:30,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=December#detail=143405,5.4B,6.4B,6.6B,01/12/2025,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+09:30,GBP,yellow,Net Lending to Individuals m/m,https://www.forexfactory.com/calendar?month=December#detail=143405,red,5.4B,6.4B,6.6B,01/12/2025,Mon

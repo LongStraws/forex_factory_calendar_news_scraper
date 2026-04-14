@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-16:15,USD,orange,Treasury Sec Yellen Speaks,https://www.forexfactory.com/calendar?month=September#detail=140696,,,,26/09/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+16:15,USD,orange,Treasury Sec Yellen Speaks,https://www.forexfactory.com/calendar?month=September#detail=140696,neutral,,,,26/09/2024,Thu

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:32,CAD,yellow,Core CPI m/m,https://www.forexfactory.com/calendar?month=March#detail=138110,0.1%,,0.1%,19/03/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:32,CAD,yellow,Core CPI m/m,https://www.forexfactory.com/calendar?month=March#detail=138110,gray,0.1%,,0.1%,19/03/2024,Tue

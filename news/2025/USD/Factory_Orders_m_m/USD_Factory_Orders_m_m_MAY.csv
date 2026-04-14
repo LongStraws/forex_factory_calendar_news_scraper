@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=May#detail=142410,4.3%,4.4%,0.5%,02/05/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,Factory Orders m/m,https://www.forexfactory.com/calendar?month=May#detail=142410,gray,4.3%,4.4%,0.5%,02/05/2025,Fri

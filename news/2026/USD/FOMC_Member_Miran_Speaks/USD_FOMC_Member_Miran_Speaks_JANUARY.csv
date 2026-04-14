@@ -1,3 +1,3 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:00,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=January#detail=152043,,,,08/01/2026,Thu
-15:30,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=January#detail=152044,,,,14/01/2026,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:00,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=January#detail=152043,neutral,,,,08/01/2026,Thu
+15:30,USD,yellow,FOMC Member Miran Speaks,https://www.forexfactory.com/calendar?month=January#detail=152044,neutral,,,,14/01/2026,Wed

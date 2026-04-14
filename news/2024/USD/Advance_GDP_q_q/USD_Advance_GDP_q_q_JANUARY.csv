@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,red,Advance GDP q/q,https://www.forexfactory.com/calendar?month=January#detail=136204,3.3%,2.0%,4.9%,25/01/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,red,Advance GDP q/q,https://www.forexfactory.com/calendar?month=January#detail=136204,green,3.3%,2.0%,4.9%,25/01/2024,Thu

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,red,Core PPI m/m,https://www.forexfactory.com/calendar?month=April#detail=142622,-0.1%,0.3%,0.1%,11/04/2025,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,red,Core PPI m/m,https://www.forexfactory.com/calendar?month=April#detail=142622,red,-0.1%,0.3%,0.1%,11/04/2025,Fri

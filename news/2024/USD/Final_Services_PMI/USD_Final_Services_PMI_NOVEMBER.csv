@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:45,USD,orange,Final Services PMI,https://www.forexfactory.com/calendar?month=November#detail=136865,55.0,55.3,55.3,05/11/2024,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:45,USD,orange,Final Services PMI,https://www.forexfactory.com/calendar?month=November#detail=136865,gray,55.0,55.3,55.3,05/11/2024,Tue

@@ -1,2 +1,2 @@
-date,time,currency,impact,event,detail,actual,forecast,previous,day
-29/10/2025,18:30,USD,red,FOMC Press Conference,https://www.forexfactory.com/calendar?month=October#detail=141229,,,,Wed
+date,time,currency,impact,event,detail,actual-Color,actual,forecast,previous,day
+29/10/2025,18:30,USD,red,FOMC Press Conference,https://www.forexfactory.com/calendar?month=October#detail=141229,neutral,,,,Wed

@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:00,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=March#detail=150708,0-0-9,0-2-7,0-4-5,19/03/2026,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:00,GBP,red,MPC Official Bank Rate Votes,https://www.forexfactory.com/calendar?month=March#detail=150708,green,0-0-9,0-2-7,0-4-5,19/03/2026,Thu

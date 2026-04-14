@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-15:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=November#detail=150953,0.0%,0.0%,0.2%,25/11/2025,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+15:00,USD,yellow,Business Inventories m/m,https://www.forexfactory.com/calendar?month=November#detail=150953,gray,0.0%,0.0%,0.2%,25/11/2025,Tue

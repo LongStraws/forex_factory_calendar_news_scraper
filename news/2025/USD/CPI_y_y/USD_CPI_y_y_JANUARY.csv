@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=January#detail=142643,2.9%,2.9%,2.7%,15/01/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,red,CPI y/y,https://www.forexfactory.com/calendar?month=January#detail=142643,gray,2.9%,2.9%,2.7%,15/01/2025,Wed

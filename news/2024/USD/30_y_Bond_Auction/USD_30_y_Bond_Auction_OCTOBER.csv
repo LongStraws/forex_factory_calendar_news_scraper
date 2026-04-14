@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-18:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=October#detail=137332,4.39|2.5,,4.02|2.4,10/10/2024,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+18:01,USD,yellow,30-y Bond Auction,https://www.forexfactory.com/calendar?month=October#detail=137332,gray,4.39|2.5,,4.02|2.4,10/10/2024,Thu

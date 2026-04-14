@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-13:30,USD,orange,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=January#detail=148178,0.5%,0.3%,0.1%,26/01/2026,Mon
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+13:30,USD,orange,Core Durable Goods Orders m/m,https://www.forexfactory.com/calendar?month=January#detail=148178,green,0.5%,0.3%,0.1%,26/01/2026,Mon

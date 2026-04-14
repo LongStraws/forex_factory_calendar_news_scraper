@@ -1,4 +1,4 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-21:10,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=January#detail=152028,,,,07/01/2026,Wed
-16:00,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=January#detail=152064,,,,16/01/2026,Fri
-22:00,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=January#detail=152310,,,,30/01/2026,Fri
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+21:10,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=January#detail=152028,neutral,,,,07/01/2026,Wed
+16:00,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=January#detail=152064,neutral,,,,16/01/2026,Fri
+22:00,USD,yellow,FOMC Member Bowman Speaks,https://www.forexfactory.com/calendar?month=January#detail=152310,neutral,,,,30/01/2026,Fri

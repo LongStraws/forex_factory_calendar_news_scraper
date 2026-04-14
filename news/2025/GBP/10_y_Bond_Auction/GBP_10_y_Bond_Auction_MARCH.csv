@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-10:09,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=March#detail=143444,4.68|2.9,,4.81|2.8,12/03/2025,Wed
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+10:09,GBP,yellow,10-y Bond Auction,https://www.forexfactory.com/calendar?month=March#detail=143444,gray,4.68|2.9,,4.81|2.8,12/03/2025,Wed

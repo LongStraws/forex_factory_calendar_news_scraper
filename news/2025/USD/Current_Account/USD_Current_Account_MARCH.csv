@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-12:30,USD,yellow,Current Account,https://www.forexfactory.com/calendar?month=March#detail=142731,-304B,-330B,-310B,20/03/2025,Thu
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+12:30,USD,yellow,Current Account,https://www.forexfactory.com/calendar?month=March#detail=142731,green,-304B,-330B,-310B,20/03/2025,Thu

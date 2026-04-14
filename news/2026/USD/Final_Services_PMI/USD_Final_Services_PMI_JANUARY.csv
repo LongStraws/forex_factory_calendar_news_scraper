@@ -1,2 +1,2 @@
-time,currency,impact,event,detail,actual,forecast,previous,date,day
-14:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=January#detail=149628,52.5,52.9,52.9,06/01/2026,Tue
+time,currency,impact,event,detail,actual-Color,actual,forecast,previous,date,day
+14:45,USD,yellow,Final Services PMI,https://www.forexfactory.com/calendar?month=January#detail=149628,red,52.5,52.9,52.9,06/01/2026,Tue
